@@ -31,7 +31,7 @@ const GUIDE = (function () {
   function fileFor(stageId) {
     const lang = CONFIG.languages.find(l => l.code === state.lang);
     const f = lang && lang.files.find(x => x.stageId === stageId);
-    return f ? CONFIG.mp3_directory + '/' + f.fileName : null;
+    return f ? CONFIG.mp3_directory + '/' + lang.code + '/' + f.fileName : null;
   }
   function stageName(id) {
     const s = CONFIG.stages.find(x => x.id === id);
