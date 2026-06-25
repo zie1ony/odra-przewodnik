@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<title>Odra Przewodnik — v3</title>
+<style>
+  :root{
+    --bg:#fffaf3; --ink:#2b2118; --muted:#8a7b6b; --accent:#e07a3f;
+    --accent-d:#c45f24; --green:#3c9d6e; --card:#ffffff; --line:#efe6d8;
+    --warn:#d98e00;
+  }
+  *{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+  html,body{margin:0;height:100%}
+  body{font-family:-apple-system,Segoe UI,Roboto,sans-serif;background:var(--bg);
+    color:var(--ink);min-height:100%;display:flex;flex-direction:column}
+  a.back{position:fixed;top:12px;right:14px;font-size:12px;color:var(--muted);text-decoration:none;z-index:20}
+  header{padding:22px 20px 10px;text-align:center}
+  header h1{margin:0;font-size:24px}
+  header p{margin:4px 0 0;font-size:13px;color:var(--muted)}
+
+  .gps{margin:10px 20px;text-align:center;font-size:13px;color:var(--muted)}
+  .gps b{color:var(--ink)}
+
+  .langs{display:flex;gap:10px;padding:6px 20px 14px;justify-content:center}
+  .lang{padding:12px 20px;border:2px solid var(--line);border-radius:30px;
+    background:#fff;font-size:15px;font-weight:700;color:var(--muted);cursor:pointer}
+  .lang.active{background:var(--accent);border-color:var(--accent);color:#fff}
+
+  .autocard{
+    margin:0 20px 18px;padding:18px;border-radius:18px;text-align:center;
+    background:#fff;border:2px solid var(--line);
+  }
+  .autocard.on{border-color:var(--green);background:#f1faf4}
+  .autocard .big{font-size:16px;font-weight:700;margin-bottom:12px}
+  .autobtn{width:100%;padding:16px;border:none;border-radius:14px;font-size:17px;
+    font-weight:800;cursor:pointer;background:#f0eadf;color:var(--ink)}
+  .autocard.on .autobtn{background:var(--green);color:#fff}
+
+  .stages{flex:1;padding:0 20px 20px;display:flex;flex-direction:column;gap:14px}
+  .stage{padding:20px;border-radius:18px;background:var(--card);border:2px solid var(--line);
+    cursor:pointer;display:flex;align-items:center;gap:16px}
+  .stage.playing{border-color:var(--accent);background:#fff4ec}
+  .stage.queued{border-color:var(--warn);border-style:dashed}
+  .icon{width:54px;height:54px;border-radius:16px;background:#fbeee4;color:var(--accent);
+    display:grid;place-items:center;font-size:24px;font-weight:800;flex-shrink:0}
+  .stage.playing .icon{background:var(--accent);color:#fff}
+  .stage .t{flex:1}
+  .stage .t .nm{font-size:19px;font-weight:700}
+  .stage .t .ds{font-size:13px;color:var(--muted);margin-top:3px}
+  .badge{font-size:12px;font-weight:800;padding:5px 12px;border-radius:20px;background:#fbeee4;color:var(--accent)}
+  .stage.queued .badge{background:#fcf0d6;color:var(--warn)}
+
+  .player{background:#fff;border-top:2px solid var(--line);padding:18px 20px 22px}
+  .player.hidden{display:none}
+  .pnow{text-align:center;font-size:13px;color:var(--muted)}
+  .pname{text-align:center;font-size:21px;font-weight:800;margin-top:2px}
+  .qinfo{text-align:center;font-size:12px;color:var(--warn);margin-top:4px;min-height:14px}
+  .seek{display:flex;align-items:center;gap:10px;margin:14px 0}
+  .seek input{flex:1;height:8px;accent-color:var(--accent)}
+  .tt{font-size:13px;color:var(--muted);min-width:42px;font-variant-numeric:tabular-nums}
+  .ctrls{display:flex;gap:12px}
+  .cbtn{flex:1;padding:16px;border:none;border-radius:14px;font-size:16px;font-weight:800;cursor:pointer}
+  .cbtn.stop{background:#f0eadf;color:var(--ink)}
+  .cbtn.play{background:var(--accent);color:#fff;flex:1.4}
+  .cbtn.next{background:#f0eadf;color:var(--ink)}
+</style>
+</head>
+<body>
+<a class="back" href="index.html">← wersje</a>
+<header>
+  <h1>🎧 Odra Przewodnik</h1>
+  <p>v3 · duże przyciski / dotykowy</p>
+</header>
+<div class="gps" id="gps">📡 <b>oczekiwanie na GPS…</b></div>
+
+<div class="langs" id="langs"></div>
+
+<div class="autocard" id="autocard">
+  <div class="big" id="autoStatus">Odtwarzanie ręczne</div>
+  <button class="autobtn" id="autoToggle">▶ Włącz automatyczne (GPS)</button>
+</div>
+
+<div class="stages" id="stages"></div>
+
+<div class="player hidden" id="player">
+  <div class="pnow">Teraz odtwarzane</div>
+  <div class="pname" id="pName">—</div>
+  <div class="qinfo" id="queueInfo"></div>
+  <div class="seek">
+    <span class="tt" id="tCur">0:00</span>
+    <input type="range" id="seek" min="0" max="100" value="0">
+    <span class="tt" id="tDur">0:00</span>
+  </div>
+  <div class="ctrls">
+    <button class="cbtn stop" id="stopBtn">⏹ Stop</button>
+    <button class="cbtn play" id="playBtn">⏸ Pauza</button>
+    <button class="cbtn next" id="nextBtn">⏭</button>
+  </div>
+</div>
+
+<audio id="audio"></audio>
+<script src="config.js"></script>
+<script src="guide.js"></script>
+<script>
+GUIDE.init({
+  render(){
+    const lr=document.getElementById('langs'); lr.innerHTML='';
+    CONFIG.languages.forEach(l=>{
+      const b=document.createElement('button');
+      b.className='lang'+(l.code===GUIDE.lang?' active':'');
+      b.textContent=l.name; b.onclick=()=>GUIDE.setLang(l.code);
+      lr.appendChild(b);
+    });
+    const sr=document.getElementById('stages'); sr.innerHTML='';
+    CONFIG.stages.forEach((s,i)=>{
+      const playing=GUIDE.currentStageId===s.id;
+      const queued=GUIDE.queue.includes(s.id);
+      const el=document.createElement('div');
+      el.className='stage'+(playing?' playing':'')+(queued?' queued':'');
+      el.innerHTML=`<div class="icon">${playing?'▶':i+1}</div>
+        <div class="t"><div class="nm">${s.description}</div>
+        <div class="ds">${GUIDE.distanceText(s)}</div></div>
+        ${playing?'<span class="badge">gra</span>':queued?'<span class="badge">kolejka</span>':''}`;
+      el.onclick=()=>GUIDE.playManual(s.id);
+      sr.appendChild(el);
+    });
+    const ac=document.getElementById('autocard');
+    ac.classList.toggle('on',GUIDE.autoMode);
+    document.getElementById('autoStatus').textContent=
+      GUIDE.autoMode?'Automatyczne (GPS) włączone':'Odtwarzanie ręczne';
+    document.getElementById('autoToggle').textContent=
+      GUIDE.autoMode?'⏸ Wyłącz automatyczne':'▶ Włącz automatyczne (GPS)';
+    const p=document.getElementById('player');
+    if(GUIDE.currentStageId){
+      p.classList.remove('hidden');
+      document.getElementById('pName').textContent=GUIDE.currentStageName();
+      document.getElementById('playBtn').textContent=GUIDE.paused?'▶ Graj':'⏸ Pauza';
+      document.getElementById('queueInfo').textContent=
+        GUIDE.queue.length?('W kolejce: '+GUIDE.queue.map(id=>GUIDE.stageName(id)).join(', ')):'';
+    } else p.classList.add('hidden');
+  },
+  gps(t){ document.getElementById('gps').innerHTML='📡 <b>'+t+'</b>'; },
+  time(cur,dur,pct){
+    document.getElementById('tCur').textContent=cur;
+    document.getElementById('tDur').textContent=dur;
+    const s=document.getElementById('seek'); if(!s.dragging) s.value=pct;
+  }
+});
+document.getElementById('autoToggle').onclick=()=>GUIDE.setAuto(!GUIDE.autoMode);
+document.getElementById('playBtn').onclick=()=>GUIDE.togglePlay();
+document.getElementById('stopBtn').onclick=()=>GUIDE.stop();
+document.getElementById('nextBtn').onclick=()=>GUIDE.next();
+const seek=document.getElementById('seek');
+seek.oninput=()=>seek.dragging=true;
+seek.onchange=()=>{GUIDE.seekTo(seek.value);seek.dragging=false;};
+</script>
+</body>
+</html>

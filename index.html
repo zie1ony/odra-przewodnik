@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Odra Przewodnik — wybór wersji</title>
+<style>
+  *{box-sizing:border-box}
+  body{margin:0;min-height:100vh;font-family:-apple-system,Segoe UI,Roboto,sans-serif;
+    background:linear-gradient(160deg,#1f7a8c,#0e1116);color:#fff;
+    display:flex;flex-direction:column;align-items:center;justify-content:center;padding:24px}
+  h1{font-size:30px;margin:0 0 4px;text-align:center}
+  p.sub{color:#cdd6e0;margin:0 0 28px;text-align:center;font-size:14px}
+  .grid{display:flex;flex-direction:column;gap:14px;width:100%;max-width:420px}
+  a.card{display:flex;align-items:center;gap:16px;text-decoration:none;color:#fff;
+    background:rgba(255,255,255,.08);border:1px solid rgba(255,255,255,.15);
+    border-radius:16px;padding:18px 20px;backdrop-filter:blur(6px);transition:.15s}
+  a.card:active{transform:scale(.98)}
+  a.card .n{width:48px;height:48px;border-radius:12px;background:#fff;color:#1f7a8c;
+    display:grid;place-items:center;font-weight:800;font-size:20px;flex-shrink:0}
+  a.card .b{flex:1}
+  a.card .b .t{font-size:17px;font-weight:700}
+  a.card .b .d{font-size:13px;color:#cdd6e0;margin-top:2px}
+  a.card .arrow{font-size:20px;color:#cdd6e0}
+  footer{margin-top:26px;font-size:12px;color:#9fb0bd;text-align:center;max-width:420px}
+</style>
+</head>
+<body>
+  <h1>🎧 Odra Przewodnik</h1>
+  <p class="sub">Wybierz wersję interfejsu do przetestowania</p>
+  <div class="grid">
+    <a class="card" href="v1.html">
+      <div class="n">1</div>
+      <div class="b"><div class="t">Wersja 1 — Karty</div>
+        <div class="d">Jasny motyw, listy w kartach, przełącznik auto</div></div>
+      <div class="arrow">→</div>
+    </a>
+    <a class="card" href="v2.html">
+      <div class="n">2</div>
+      <div class="b"><div class="t">Wersja 2 — Ciemny / minimal</div>
+        <div class="d">Ciemny motyw, kompaktowa lista, animacje</div></div>
+      <div class="arrow">→</div>
+    </a>
+    <a class="card" href="v3.html">
+      <div class="n">3</div>
+      <div class="b"><div class="t">Wersja 3 — Dotykowy</div>
+        <div class="d">Duże przyciski, ciepłe kolory, prosty układ</div></div>
+      <div class="arrow">→</div>
+    </a>
+  </div>
+  <footer>
+    Wszystkie wersje współdzielą logikę (<code>guide.js</code>) i konfigurację (<code>config.js</code>).
+    Pliki mp3 umieść w katalogu <code>resources/</code> wg nazw z konfiguracji.
+  </footer>
+</body>
+</html>
