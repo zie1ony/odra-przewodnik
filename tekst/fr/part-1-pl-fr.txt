@@ -1,5 +1,4 @@
-<break time="3s"/>
-<break time="2s"/>
+<break time="5s"/>
 
 Witamy serdecznie na pokładzie i zapraszamy na wyjątkowy rejs po Wrocławiu — mieście mostów, wysp, krasnali i niezwykłych historii.
 Nous vous souhaitons la bienvenue à bord et vous invitons à une croisière unique à travers Wrocław — une ville de ponts, d'îles, de nains et d'histoires extraordinaires.
@@ -16,8 +15,7 @@ Devant nous se trouve l'un des plus beaux ponts de Wrocław — le pont de Pomé
 Na jego balustradach możemy podziwiać Tajemnicze Maszkarony czyli kamienne rzeźby przedstawiające przerażające, fantastyczne twarze. Według dawnych wierzeń ich brzydota miała odstraszać złe moce, demony wodne i chronić most przed katastrofą.
 Sur ses balustrades, nous pouvons admirer les mystérieux mascarons, c'est-à-dire des sculptures de pierre représentant des visages effrayants et fantastiques. Selon d'anciennes croyances, leur laideur devait éloigner les forces du mal et les démons de l'eau, et protéger le pont de toute catastrophe.
 
-<break time="3s"/>
-<break time="2s"/>
+<break time="5s"/>
 
 Charakterystyczny żółty gmach po prawej stronie to jeden z najważniejszych symboli miasta — Uniwersytet Wrocławski. To najstarsza uczelnia we Wrocławiu i jedna z najstarszych w tej części Europy. Jej tradycja liczy ponad trzysta lat.
 Le bâtiment jaune caractéristique sur la droite est l'un des symboles les plus importants de la ville — l'Université de Wrocław. C'est le plus ancien établissement d'enseignement supérieur de Wrocław et l'un des plus anciens de cette partie de l'Europe. Sa tradition remonte à plus de trois cents ans.
@@ -25,14 +23,12 @@ Le bâtiment jaune caractéristique sur la droite est l'un des symboles les plus
 Jeśli będą mieli Państwo okazję odwiedzić wnętrza uczelni, warto zobaczyć barokową Aulę Leopoldyńską oraz wejść na Wieżę Matematyczną, z której rozciąga się panorama starego miasta.
 Si vous avez l'occasion de visiter l'intérieur de l'université, il vaut la peine de voir l'Aula Leopoldina baroque et de monter à la Tour mathématique, d'où s'étend un panorama de la vieille ville.
 
-<break time="3s"/>
-<break time="2s"/>
+<break time="5s"/>
 
 Po lewej stronie można zauważyć budynek z czerwonej cegły przypominający średniowieczny zamek. To dawny pruski areszt wojskowy. W dziewiętnastym wieku przed budynkiem znajdowała się nawet szubienica dla dezerterów.
 Sur la gauche, on peut apercevoir un bâtiment en brique rouge ressemblant à un château médiéval. C'est une ancienne prison militaire prussienne. Au dix-neuvième siècle, il y avait même devant le bâtiment une potence pour les déserteurs.
 
-<break time="3s"/>
-<break time="2s"/>
+<break time="5s"/>
 
 Powoli wpływamy w okolice wrocławskich wysp. W samym centrum Wrocławia znajduje się aż sześć z dwunastu miejskich wysp.
 Nous entrons lentement dans la zone des îles de Wrocław. En plein centre de Wrocław se trouvent pas moins de six des douze îles urbaines.
@@ -40,8 +36,7 @@ Nous entrons lentement dans la zone des îles de Wrocław. En plein centre de Wr
 Trasa rejsu po której pływamy ma głębokość od trzech do czterech metrów. Zdarzają się jednak miejsca, gdzie głębokość to zaledwie kilkanaście centymetrów, dlatego konieczne jest odpowiednie dobranie trasy i manewrowanie
 L'itinéraire que nous empruntons a une profondeur de trois à quatre mètres. Il existe cependant des endroits où la profondeur n'est que d'une dizaine de centimètres, c'est pourquoi il est nécessaire de bien choisir le parcours et de manœuvrer en conséquence.
 
-<break time="3s"/>
-<break time="2s"/>
+<break time="5s"/>
 
 Po lewej stornie jedna z większych i najbardziej znanych wysp - Wyspa Słodowa przy której zobaczyć mogą Państwo mnóstwo przycumowanych barek z barami i kawiarniami — to ulubione miejsce studentów i mieszkańców. Dawniej działały tutaj słodownie, młyny i warsztaty rzemieślnicze. Dziś to przestrzeń spotkań, koncertów i odpoczynku nad wodą.
 Sur la gauche, l'une des plus grandes et des plus célèbres îles — l'île de la Malterie (Wyspa Słodowa), près de laquelle vous pourrez voir de nombreuses péniches amarrées avec des bars et des cafés — est le lieu favori des étudiants et des habitants. Autrefois, il y avait ici des malteries, des moulins et des ateliers d'artisans. Aujourd'hui, c'est un espace de rencontres, de concerts et de détente au bord de l'eau.
@@ -58,14 +53,12 @@ Sur la gauche, l'imposant bâtiment blanc sur l'île est le Concordia Design Wro
 Za żółtą kładką możemy dostrzec nowoczesne apartamenty. Dawniej w budynku przed nami funkcjonował młyn wodny Maria, którego historia sięga trzynastego wieku.
 Au-delà de la passerelle jaune, nous pouvons apercevoir des appartements modernes. Autrefois, le bâtiment devant nous abritait le moulin à eau Maria, dont l'histoire remonte au treizième siècle.
 
-<break time="3s"/>
-<break time="2s"/>
+<break time="5s"/>
 
 Zaraz po wypłynięciu ze zwężenia będziemy mogli dostrzec most świętej klary. Mimo, że nie wygląda imponująco nosi tytuł najstarszego istniejącego i stale użytkowanego mostu we Wrocławiu z 1799 roku.
 Juste après être sortis du passage étroit, nous pourrons apercevoir le pont Sainte-Claire. Bien qu'il n'ait pas un aspect impressionnant, il porte le titre du plus ancien pont existant et continuellement utilisé de Wrocław, datant de 1799.
 
-<break time="3s"/>
-<break time="2s"/>
+<break time="5s"/>
 
 Podczas rejsu przepływamy pod wieloma mostami i kładkami.
 Pendant la croisière, nous passons sous de nombreux ponts et passerelles.

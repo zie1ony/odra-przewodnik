@@ -3,11 +3,13 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<link rel="icon" href="favicon.ico" sizes="any">
 <title>Odra Przewodnik</title>
 <style>
   :root{
     --bg:#f4f6f8; --card:#ffffff; --ink:#1a2230; --muted:#6b7688;
     --accent:#1f7a8c; --accent-dark:#155563; --line:#e3e8ee;
+    --captain-space:min(55.82vw,45vh);
   }
   *{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
   html,body{margin:0;height:100%}
@@ -21,15 +23,21 @@
     padding:14px 16px; position:sticky; top:0; z-index:5;
   }
   .title{font-size:18px;font-weight:700;display:flex;align-items:center;gap:8px}
-  .langs{display:flex;gap:8px;margin-top:12px}
+
+  .tabs{display:flex;gap:6px;margin-top:12px;background:#eef1f4;border-radius:10px;padding:4px}
+  .tab{flex:1;border:none;background:transparent;color:var(--muted);
+    padding:9px;border-radius:8px;font-size:14px;font-weight:700;cursor:pointer}
+  .tab.active{background:#fff;color:var(--accent);box-shadow:0 1px 3px rgba(0,0,0,.08)}
+
+  .langs{display:flex;flex-wrap:wrap;gap:8px;margin-top:12px}
   .lang{
-    flex:1;padding:9px;border:1px solid var(--line);background:#fff;
+    flex:1 1 28%;padding:9px;border:1px solid var(--line);background:#fff;
     border-radius:10px;font-size:14px;font-weight:600;color:var(--muted);
     cursor:pointer;transition:.15s;
   }
   .lang.active{background:var(--accent);border-color:var(--accent);color:#fff}
 
-  main{flex:1;padding:16px;display:flex;flex-direction:column;gap:10px}
+  main{flex:1;padding:16px;padding-bottom:calc(16px + var(--captain-space));display:flex;flex-direction:column;gap:10px}
 
   .stage{
     background:var(--card);border:1px solid var(--line);border-radius:12px;
@@ -44,14 +52,22 @@
   }
   .stage.playing .dot{background:var(--accent);color:#fff}
   .stage .info{flex:1;min-width:0}
-  .stage .name{font-weight:600;font-size:15px}
+  .stage .name{font-weight:600;font-size:15px;overflow:hidden;text-overflow:ellipsis}
+  .stage .sub{font-size:12px;color:var(--muted);margin-top:4px}
+  .stage .sub.err{color:#c0392b}
+  .pbar{height:6px;border-radius:4px;background:var(--line);overflow:hidden;margin-top:6px}
+  .pbar i{display:block;height:100%;width:0;background:var(--accent);transition:width .15s}
+  .pbar.indet i{width:40%;animation:pslide 1s linear infinite}
+  @keyframes pslide{0%{margin-left:-40%}100%{margin-left:100%}}
   .stage .tag{font-size:10px;text-transform:uppercase;letter-spacing:.5px;
-    padding:2px 7px;border-radius:6px;background:#eef4f5;color:var(--accent);font-weight:700}
+    padding:2px 7px;border-radius:6px;background:#eef4f5;color:var(--accent);font-weight:700;flex-shrink:0}
+  .empty{color:var(--muted);font-size:14px;text-align:center;padding:24px}
 
   /* player */
   .player{
-    position:sticky;bottom:0;background:var(--card);border-top:1px solid var(--line);
+    position:sticky;bottom:var(--captain-space);background:var(--card);border-top:1px solid var(--line);
     padding:12px 16px 16px;box-shadow:0 -4px 20px rgba(0,0,0,.05);
+    z-index:8;
   }
   .player.hidden{display:none}
   .pnow{font-size:13px;color:var(--muted)}
@@ -66,16 +82,55 @@
   }
   .btn.primary{background:var(--accent);color:#fff}
   .btn.ghost{background:#eef4f5;color:var(--accent)}
+
+  .captain-panel{
+    position:fixed;left:0;right:0;bottom:0;z-index:9;background:var(--card);
+    border-top:1px solid var(--line);box-shadow:0 -6px 24px rgba(0,0,0,.12);
+    transition:transform .22s ease;
+  }
+  .captain-panel.collapsed{transform:translateY(100%)}
+  .captain-toggle{
+    position:absolute;right:12px;top:-40px;width:40px;height:40px;border:none;border-radius:10px 10px 0 0;
+    background:var(--card);color:var(--accent);box-shadow:0 -4px 14px rgba(0,0,0,.12);
+    font-size:18px;font-weight:700;cursor:pointer;
+  }
+  .captain-panel.collapsed .captain-toggle{top:-40px}
+  .captain-panel img{display:block;width:100%;height:var(--captain-space);object-fit:contain;background:var(--card)}
+  body.captain-collapsed{--captain-space:0px}
+
+  /* ekran ładowania / pobierania */
+  #loader{position:fixed;inset:0;background:var(--bg);z-index:50;
+    display:flex;flex-direction:column;align-items:center;justify-content:center;
+    gap:16px;padding:32px;text-align:center}
+  #loader.hidden{display:none}
+  #loader .ttl{font-size:20px;font-weight:700}
+  #loader .msg{font-size:14px;color:var(--muted);max-width:320px;word-break:break-word}
+  #loader .bar{width:min(320px,80%);height:10px;border-radius:6px;background:var(--line);overflow:hidden}
+  #loader .bar i{display:block;height:100%;width:0;background:var(--accent);transition:width .2s}
+  #loader .retry{display:none;border:none;border-radius:10px;padding:10px 18px;
+    background:var(--accent);color:#fff;font-weight:600;font-size:15px;cursor:pointer}
 </style>
 </head>
 <body>
+<div id="loader">
+  <div class="ttl">🎧 Odra Przewodnik</div>
+  <div class="msg" id="loaderMsg">Przygotowywanie materiałów do trybu offline…</div>
+  <div class="bar"><i id="loaderBar"></i></div>
+  <button class="retry" id="loaderRetry">Spróbuj ponownie</button>
+</div>
+
 <header>
   <div class="title">🎧 Odra Przewodnik</div>
+  <div class="tabs">
+    <button class="tab active" data-tab="guide">Przewodnik</button>
+    <button class="tab" data-tab="music">Muzyka</button>
+  </div>
   <div class="langs" id="langs"></div>
 </header>
 
 <main>
-  <div id="stages"></div>
+  <div id="tab-guide"><div id="stages"></div></div>
+  <div id="tab-music" style="display:none"><div id="songs"></div></div>
 </main>
 
 <div class="player hidden" id="player">
@@ -92,10 +147,96 @@
   </div>
 </div>
 
+<div class="captain-panel" id="captainPanel">
+  <button class="captain-toggle" id="captainToggle" type="button" aria-label="Zwiń obraz" aria-expanded="true">⌄</button>
+  <img src="capitan-girls.png" alt="Kapitańska załoga na łodzi">
+</div>
+
 <audio id="audio"></audio>
 <script src="config.js"></script>
+<script src="store.js"></script>
 <script src="guide.js"></script>
 <script>
+const captainPanel=document.getElementById('captainPanel');
+const captainToggle=document.getElementById('captainToggle');
+captainToggle.onclick=()=>{
+  const collapsed=captainPanel.classList.toggle('collapsed');
+  document.body.classList.toggle('captain-collapsed', collapsed);
+  captainToggle.setAttribute('aria-expanded', String(!collapsed));
+  captainToggle.setAttribute('aria-label', collapsed?'Rozwiń obraz':'Zwiń obraz');
+  captainToggle.textContent=collapsed?'⌃':'⌄';
+};
+
+function initApp(){
+let songs=[], songState={}, currentTab='guide';
+
+function escapeHtml(s){
+  return String(s).replace(/[&<>"']/g, c =>
+    ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+}
+
+function renderSongs(){
+  const c=document.getElementById('songs'); if(!c) return;
+  c.innerHTML='';
+  if(!songs.length){
+    c.innerHTML='<div class="empty">Brak utworów (lub lista niedostępna offline).</div>';
+    return;
+  }
+  songs.forEach(s=>{
+    const playing=GUIDE.currentSongKey===GUIDE.songKey(s.file);
+    const el=document.createElement('div');
+    el.className='stage'+(playing?' playing':'');
+    let extra='';
+    if(s.file in songState){
+      const v=songState[s.file];                 // null=start, -1=błąd, 0..99=%
+      if(v===-1){
+        extra='<div class="sub err">⚠ Nie udało się pobrać</div>';
+      }else{
+        const indet=(v===null);
+        const pct=indet?0:v;
+        extra=`<div class="pbar${indet?' indet':''}"><i style="width:${pct}%"></i></div>
+               <div class="sub">${indet?'Buforowanie…':'Buforowanie '+pct+'%'}</div>`;
+      }
+    }
+    el.innerHTML=`
+      <div class="dot">${playing?'▶':'♪'}</div>
+      <div class="info">
+        <div class="name">${escapeHtml(s.title)}</div>
+        ${extra}
+      </div>
+      ${playing?'<span class="tag">odtwarzane</span>':''}`;
+    el.onclick=()=>GUIDE.playSong(s.file,s.title);
+    c.appendChild(el);
+  });
+}
+
+function setTab(t){
+  currentTab=t;
+  document.getElementById('tab-guide').style.display = t==='guide'?'':'none';
+  document.getElementById('tab-music').style.display = t==='music'?'':'none';
+  document.getElementById('langs').style.display    = t==='guide'?'':'none';
+  document.querySelectorAll('.tab').forEach(b=>b.classList.toggle('active', b.dataset.tab===t));
+}
+
+async function loadSongs(){
+  const key='audio/songs/songs.json';
+  let data=null;
+  try{
+    const resp=await fetch('audio/songs/songs.json',{cache:'no-store'});
+    if(resp.ok){
+      const text=await resp.text();
+      await STORE.put(key, new Blob([text],{type:'application/json'})); // do trybu offline
+      data=JSON.parse(text);
+    }
+  }catch(e){ /* offline — spróbujemy z magazynu */ }
+  if(!data){
+    const blob=await STORE.get(key);
+    if(blob) data=JSON.parse(await blob.text());
+  }
+  songs=(data&&data.songs)||[];
+  renderSongs();
+}
+
 GUIDE.init({
   render(){
     // languages
@@ -122,20 +263,30 @@ GUIDE.init({
       el.onclick=()=>GUIDE.play(s.id);
       sr.appendChild(el);
     });
+    // songs (podświetlenie aktualnie granego)
+    renderSongs();
     // player
     const p=document.getElementById('player');
-    if(GUIDE.currentStageId){
+    if(GUIDE.current){
       p.classList.remove('hidden');
-      document.getElementById('pName').textContent=GUIDE.currentStageName();
+      document.getElementById('pName').textContent=GUIDE.currentTitle();
       document.getElementById('playBtn').textContent=GUIDE.paused?'▶ Graj':'⏸ Pauza';
+      document.getElementById('nextBtn').style.display=GUIDE.current.kind==='stage'?'':'none';
     } else p.classList.add('hidden');
   },
   time(cur,dur,pct){
     document.getElementById('tCur').textContent=cur;
     document.getElementById('tDur').textContent=dur;
     if(!scrubbing) seek.value=pct;
+  },
+  songProgress(file,pct){
+    // null=start (nieokreślony), -1=błąd, 0..99=%, 100=koniec (usuń pasek)
+    if(pct>=100) delete songState[file];
+    else songState[file]=pct;
+    renderSongs();
   }
 });
+
 document.getElementById('playBtn').onclick=()=>GUIDE.togglePlay();
 document.getElementById('stopBtn').onclick=()=>GUIDE.stop();
 document.getElementById('nextBtn').onclick=()=>GUIDE.next();
@@ -152,6 +303,64 @@ const endScrub=()=>{GUIDE.seekTo(seek.value);scrubbing=false;};
 seek.addEventListener('change',endScrub);
 seek.addEventListener('pointerup',endScrub);
 seek.addEventListener('touchend',endScrub);
+
+// zakładki
+document.querySelectorAll('.tab').forEach(b=>b.onclick=()=>setTab(b.dataset.tab));
+setTab('guide');
+loadSongs();
+} // koniec initApp
+
+// --- pobranie wszystkich plików przewodnika do lokalnego magazynu (offline) ---
+// Uwaga: utwory z zakładki „Muzyka” NIE są tu pobierane — buforują się przy pierwszym odtworzeniu.
+function allAudioPaths(){
+  const paths=[];
+  CONFIG.languages.forEach(l=>l.files.forEach(f=>{
+    paths.push(CONFIG.mp3_directory+'/'+l.code+'/'+f.fileName);
+  }));
+  return paths;
+}
+
+async function preload(){
+  const bar=document.getElementById('loaderBar');
+  const msg=document.getElementById('loaderMsg');
+  const paths=allAudioPaths();
+  let done=0, missing=0;
+  for(const p of paths){
+    if(!(await STORE.has(p))){
+      msg.textContent='Pobieranie ('+(done+1)+'/'+paths.length+'): '+p;
+      // fetch rzuca tylko przy braku sieci → wtedy przerywamy i pokazujemy „spróbuj ponownie”.
+      const resp=await fetch(p,{cache:'no-store'});
+      if(resp.ok){
+        await STORE.put(p, await resp.blob());
+      }else{
+        // brak pliku na serwerze (np. jeszcze nie wygenerowany) — pomijamy, lecimy dalej
+        console.warn('Pomijam '+p+' ('+resp.status+')');
+        missing++;
+      }
+    }
+    done++;
+    bar.style.width=Math.round(done/paths.length*100)+'%';
+  }
+  return missing;
+}
+
+async function boot(){
+  const loader=document.getElementById('loader');
+  const msg=document.getElementById('loaderMsg');
+  const retry=document.getElementById('loaderRetry');
+  retry.style.display='none';
+  msg.textContent='Przygotowywanie materiałów do trybu offline…';
+  try{
+    await preload();
+    initApp();
+    loader.classList.add('hidden');
+  }catch(e){
+    msg.textContent='Błąd: '+e.message+'. Sprawdź połączenie i spróbuj ponownie.';
+    retry.style.display='inline-block';
+  }
+}
+document.getElementById('loaderRetry').onclick=boot;
+boot();
 </script>
 </body>
 </html>

@@ -1,5 +1,4 @@
-<break time="3s"/>
-<break time="2s"/>
+<break time="5s"/>
 
 Po lewej stronie widzimy Ostrów Tumski — najstarszą część Wrocławia. To właśnie tutaj ponad tysiąc lat temu zaczęła się historia miasta.
 A la izquierda vemos Ostrów Tumski (la Isla de la Catedral) — la parte más antigua de Breslavia. Fue precisamente aquí donde, hace más de mil años, comenzó la historia de la ciudad.
@@ -16,8 +15,7 @@ A lo alto de una de ellas se puede subir en ascensor y admirar un magnífico pan
 Wieczorami Ostrów Tumski nabiera wyjątkowego klimatu. Po zmroku pojawia się tutaj latarnik ubrany w czarną pelerynę i cylinder. Tradycyjnie zapala gazowe latarnie dokładnie tak samo jak w dziewiętnastym wieku. Codziennie ma do zapalenia i zgaszenia dziewięćdziesiąt dziewięć latarni.
 Por las tardes, Ostrów Tumski adquiere un ambiente único. Al anochecer aparece aquí un farolero vestido con una capa negra y un sombrero de copa. Tradicionalmente enciende las farolas de gas exactamente igual que en el siglo diecinueve. Cada día tiene que encender y apagar noventa y nueve farolas.
 
-<break time="3s"/>
-<break time="2s"/>
+<break time="5s"/>
 
 Naprzeciwko najstarszej części Wrocławia po prawej stornie możemy zobaczyć charakterystyczne zielone wzgórze – jest to Bastion Ceglarski, który dawniej skrywał w sobie trzykondygnacyjne kazamaty, a po zniszczeniu fortyfikacji przez wojska napoleońskie w dziewiętnastym wieku, wały zasypano, a sam bastion przekształcono w popularny punkt widokowy i rekreacyjny, którego rola zachowana została do dnia dzisiejszego.
 Frente a la parte más antigua de Breslavia, a la derecha, podemos ver una característica colina verde — es el Bastión de los Ladrilleros, que antiguamente ocultaba en su interior casamatas de tres plantas. Tras la destrucción de las fortificaciones por las tropas napoleónicas en el siglo diecinueve, los terraplenes se rellenaron y el propio bastión se transformó en un popular mirador y zona de recreo, función que ha conservado hasta el día de hoy.
@@ -37,8 +35,7 @@ La planta cambia de color con las estaciones — en primavera es de un verde int
 W środku znajdują się dzieła najwybitniejszych polskich i europejskich artystów, między innymi Jana Matejki czy Pietera Bruegla.
 En su interior se encuentran obras de los más destacados artistas polacos y europeos, entre ellos Jan Matejko y Pieter Bruegel.
 
-<break time="3s"/>
-<break time="2s"/>
+<break time="5s"/>
 
 Za mostem po lewej stronie mijamy budynki należące do Uniwersytetu Wrocławskiego. Znajdują się tutaj między innymi biblioteka oraz wydziały matematyki, informatyki i chemii.
 Pasado el puente, a la izquierda, dejamos atrás edificios pertenecientes a la Universidad de Breslavia. Aquí se encuentran, entre otros, la biblioteca y las facultades de matemáticas, informática y química.

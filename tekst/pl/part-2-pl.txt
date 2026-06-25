@@ -1,5 +1,4 @@
-<break time="3s"/>
-<break time="2s"/>
+<break time="5s"/>
 
 Po lewej stronie widzimy Ostrów Tumski — najstarszą część Wrocławia. To właśnie tutaj ponad tysiąc lat temu zaczęła się historia miasta.
 
@@ -11,8 +10,7 @@ Na szczyt jednej z nich można wjechać windą i podziwiać przepiękną panoram
 
 Wieczorami Ostrów Tumski nabiera wyjątkowego klimatu. Po zmroku pojawia się tutaj latarnik ubrany w czarną pelerynę i cylinder. Tradycyjnie zapala gazowe latarnie dokładnie tak samo jak w dziewiętnastym wieku. Codziennie ma do zapalenia i zgaszenia dziewięćdziesiąt dziewięć latarni.
 
-<break time="3s"/>
-<break time="2s"/>
+<break time="5s"/>
 
 Naprzeciwko najstarszej części Wrocławia po prawej stornie możemy zobaczyć charakterystyczne zielone wzgórze – jest to Bastion Ceglarski, który dawniej skrywał w sobie trzykondygnacyjne kazamaty, a po zniszczeniu fortyfikacji przez wojska napoleońskie w dziewiętnastym wieku, wały zasypano, a sam bastion przekształcono w popularny punkt widokowy i rekreacyjny, którego rola zachowana została do dnia dzisiejszego. 
 
@@ -26,8 +24,7 @@ Roślina zmienia kolor wraz z porami roku — wiosną jest intensywnie zielona, 
 
 W środku znajdują się dzieła najwybitniejszych polskich i europejskich artystów, między innymi Jana Matejki czy Pietera Bruegla.
 
-<break time="3s"/>
-<break time="2s"/>
+<break time="5s"/>
 
 Za mostem po lewej stronie mijamy budynki należące do Uniwersytetu Wrocławskiego. Znajdują się tutaj między innymi biblioteka oraz wydziały matematyki, informatyki i chemii.
 

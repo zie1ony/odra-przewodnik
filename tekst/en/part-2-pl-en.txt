@@ -1,5 +1,4 @@
-<break time="3s"/>
-<break time="2s"/>
+<break time="5s"/>
 
 Po lewej stronie widzimy Ostrów Tumski — najstarszą część Wrocławia. To właśnie tutaj ponad tysiąc lat temu zaczęła się historia miasta.
 On the left we see Ostrów Tumski (Cathedral Island) — the oldest part of Wrocław. It was here that the city's history began over a thousand years ago.
@@ -16,8 +15,7 @@ You can take a lift to the top of one of them and admire a magnificent panorama 
 Wieczorami Ostrów Tumski nabiera wyjątkowego klimatu. Po zmroku pojawia się tutaj latarnik ubrany w czarną pelerynę i cylinder. Tradycyjnie zapala gazowe latarnie dokładnie tak samo jak w dziewiętnastym wieku. Codziennie ma do zapalenia i zgaszenia dziewięćdziesiąt dziewięć latarni.
 In the evenings, Ostrów Tumski takes on a special atmosphere. After dusk, a lamplighter appears here, dressed in a black cape and top hat. Traditionally, he lights the gas lanterns in exactly the same way as in the nineteenth century. Every day he has ninety-nine lanterns to light and to extinguish.
 
-<break time="3s"/>
-<break time="2s"/>
+<break time="5s"/>
 
 Naprzeciwko najstarszej części Wrocławia po prawej stornie możemy zobaczyć charakterystyczne zielone wzgórze – jest to Bastion Ceglarski, który dawniej skrywał w sobie trzykondygnacyjne kazamaty, a po zniszczeniu fortyfikacji przez wojska napoleońskie w dziewiętnastym wieku, wały zasypano, a sam bastion przekształcono w popularny punkt widokowy i rekreacyjny, którego rola zachowana została do dnia dzisiejszego.
 Opposite the oldest part of Wrocław, on the right, we can see a distinctive green hill — this is the Brickmakers' Bastion, which once concealed three-storey casemates. After the fortifications were destroyed by Napoleonic troops in the nineteenth century, the ramparts were filled in and the bastion itself was transformed into a popular viewpoint and recreation spot, a role it retains to this day.
@@ -37,8 +35,7 @@ The plant changes colour with the seasons — in spring it is vivid green, in su
 W środku znajdują się dzieła najwybitniejszych polskich i europejskich artystów, między innymi Jana Matejki czy Pietera Bruegla.
 Inside are works by the most eminent Polish and European artists, including Jan Matejko and Pieter Bruegel.
 
-<break time="3s"/>
-<break time="2s"/>
+<break time="5s"/>
 
 Za mostem po lewej stronie mijamy budynki należące do Uniwersytetu Wrocławskiego. Znajdują się tutaj między innymi biblioteka oraz wydziały matematyki, informatyki i chemii.
 Beyond the bridge, on the left, we pass buildings belonging to the University of Wrocław. Here are, among others, the library and the faculties of mathematics, computer science and chemistry.

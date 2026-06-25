@@ -1,5 +1,4 @@
-<break time="3s"/>
-<break time="2s"/>
+<break time="5s"/>
 
 Po lewej stronie widzimy Ostrów Tumski — najstarszą część Wrocławia. To właśnie tutaj ponad tysiąc lat temu zaczęła się historia miasta.
 Sur la gauche, nous voyons Ostrów Tumski (l'île de la Cathédrale) — la partie la plus ancienne de Wrocław. C'est ici même que, il y a plus de mille ans, a commencé l'histoire de la ville.
@@ -16,8 +15,7 @@ On peut monter en ascenseur au sommet de l'une d'elles et admirer un magnifique 
 Wieczorami Ostrów Tumski nabiera wyjątkowego klimatu. Po zmroku pojawia się tutaj latarnik ubrany w czarną pelerynę i cylinder. Tradycyjnie zapala gazowe latarnie dokładnie tak samo jak w dziewiętnastym wieku. Codziennie ma do zapalenia i zgaszenia dziewięćdziesiąt dziewięć latarni.
 Le soir, Ostrów Tumski prend une atmosphère particulière. À la tombée de la nuit, un allumeur de réverbères apparaît ici, vêtu d'une cape noire et d'un haut-de-forme. Traditionnellement, il allume les lanternes à gaz exactement comme au dix-neuvième siècle. Chaque jour, il a quatre-vingt-dix-neuf lanternes à allumer et à éteindre.
 
-<break time="3s"/>
-<break time="2s"/>
+<break time="5s"/>
 
 Naprzeciwko najstarszej części Wrocławia po prawej stornie możemy zobaczyć charakterystyczne zielone wzgórze – jest to Bastion Ceglarski, który dawniej skrywał w sobie trzykondygnacyjne kazamaty, a po zniszczeniu fortyfikacji przez wojska napoleońskie w dziewiętnastym wieku, wały zasypano, a sam bastion przekształcono w popularny punkt widokowy i rekreacyjny, którego rola zachowana została do dnia dzisiejszego.
 En face de la partie la plus ancienne de Wrocław, sur la droite, nous pouvons voir une colline verte caractéristique — c'est le Bastion des Briquetiers, qui dissimulait autrefois des casemates sur trois niveaux. Après la destruction des fortifications par les troupes napoléoniennes au dix-neuvième siècle, les remparts furent comblés et le bastion lui-même fut transformé en un point de vue et lieu de loisirs populaire, rôle qu'il a conservé jusqu'à aujourd'hui.
@@ -37,8 +35,7 @@ La plante change de couleur au fil des saisons — au printemps elle est d'un ve
 W środku znajdują się dzieła najwybitniejszych polskich i europejskich artystów, między innymi Jana Matejki czy Pietera Bruegla.
 À l'intérieur se trouvent des œuvres des plus éminents artistes polonais et européens, parmi lesquels Jan Matejko et Pieter Bruegel.
 
-<break time="3s"/>
-<break time="2s"/>
+<break time="5s"/>
 
 Za mostem po lewej stronie mijamy budynki należące do Uniwersytetu Wrocławskiego. Znajdują się tutaj między innymi biblioteka oraz wydziały matematyki, informatyki i chemii.
 Au-delà du pont, sur la gauche, nous longeons des bâtiments appartenant à l'Université de Wrocław. On y trouve, entre autres, la bibliothèque et les facultés de mathématiques, d'informatique et de chimie.

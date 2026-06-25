@@ -1,0 +1,243 @@
+{
+    "name": "part-1",
+    "lines": [
+        {
+            "kind": "break",
+            "duration_seconds": 5
+        },
+        {
+            "kind": "text",
+            "pl": "Witamy serdecznie na pokładzie i zapraszamy na wyjątkowy rejs po Wrocławiu — mieście mostów, wysp, krasnali i niezwykłych historii.",
+            "en": "A warm welcome aboard, and we invite you on a unique cruise through Wrocław — a city of bridges, islands, dwarves and extraordinary stories.",
+            "de": "Herzlich willkommen an Bord, und wir laden Sie zu einer einzigartigen Fahrt durch Breslau ein — eine Stadt der Brücken, Inseln, Zwerge und außergewöhnlichen Geschichten.",
+            "it": "Vi diamo un caloroso benvenuto a bordo e vi invitiamo a un'escursione unica attraverso Breslavia — una città di ponti, isole, gnomi e storie straordinarie.",
+            "es": "Les damos una calurosa bienvenida a bordo y les invitamos a un paseo único por Breslavia — una ciudad de puentes, islas, enanitos e historias extraordinarias.",
+            "uk": "Щиро вітаємо вас на борту й запрошуємо в унікальну прогулянку Вроцлавом — містом мостів, островів, гномів і незвичайних історій.",
+            "fr": "Nous vous souhaitons la bienvenue à bord et vous invitons à une croisière unique à travers Wrocław — une ville de ponts, d'îles, de nains et d'histoires extraordinaires."
+        },
+        {
+            "kind": "text",
+            "pl": "Za chwilę zobaczą Państwo miasto z zupełnie innej perspektywy — spokojniejszej, bardziej zielonej i pełnej detali, których często nie zauważa się z ulicy.",
+            "en": "In a moment you will see the city from a completely different perspective — calmer, greener and full of details that often go unnoticed from the street.",
+            "de": "Gleich werden Sie die Stadt aus einer ganz anderen Perspektive sehen — ruhiger, grüner und voller Details, die man von der Straße aus oft nicht bemerkt.",
+            "it": "Tra poco vedrete la città da una prospettiva completamente diversa — più tranquilla, più verde e ricca di dettagli che spesso non si notano dalla strada.",
+            "es": "En un momento verán la ciudad desde una perspectiva completamente diferente — más tranquila, más verde y llena de detalles que a menudo no se aprecian desde la calle.",
+            "uk": "За мить ви побачите місто з зовсім іншої перспективи — спокійнішої, зеленішої та повної деталей, яких часто не помічаєш із вулиці.",
+            "fr": "Dans un instant, vous découvrirez la ville sous un angle tout à fait différent — plus paisible, plus verdoyant et riche de détails que l'on ne remarque souvent pas depuis la rue."
+        },
+        {
+            "kind": "text",
+            "pl": "Po prawej stornie widzimy nowoczesne budynki, w których znajdują się prestiżowe apartamenty oraz restauracje – w tym również wyróżnione przez MICHELIN Guide Restaurants & Hotels.",
+            "en": "On the right-hand side we can see modern buildings housing prestigious apartments and restaurants — including ones recognised by the MICHELIN Guide Restaurants & Hotels.",
+            "de": "Auf der rechten Seite sehen wir moderne Gebäude mit prestigeträchtigen Apartments und Restaurants — darunter auch solche, die vom MICHELIN Guide Restaurants & Hotels ausgezeichnet wurden.",
+            "it": "Sul lato destro vediamo edifici moderni che ospitano prestigiosi appartamenti e ristoranti — tra cui anche alcuni premiati dalla MICHELIN Guide Restaurants & Hotels.",
+            "es": "A la derecha vemos edificios modernos que albergan apartamentos de prestigio y restaurantes — entre ellos también algunos reconocidos por la MICHELIN Guide Restaurants & Hotels.",
+            "uk": "Праворуч ми бачимо сучасні будівлі, у яких розташовані престижні апартаменти та ресторани — серед них також відзначені гідом MICHELIN Guide Restaurants & Hotels.",
+            "fr": "Sur la droite, nous voyons des bâtiments modernes abritant de prestigieux appartements et restaurants — dont certains distingués par le MICHELIN Guide Restaurants & Hotels."
+        },
+        {
+            "kind": "text",
+            "pl": "Przed nami jeden z najpiękniejszych wrocławskich mostów – most pomorski. Widoczna na wjeździe na most wieża i baszta to dawny punkt celny: początkowo służyły jako strażnice, w których pobierano tak zwane myto czyli opłaty za przejazd przez most.",
+            "en": "Ahead of us is one of Wrocław's most beautiful bridges — the Pomeranian Bridge. The tower and turret visible at the entrance to the bridge form a former customs point: originally they served as guardhouses where the so-called toll, that is the fee for crossing the bridge, was collected.",
+            "de": "Vor uns liegt eine der schönsten Brücken Breslaus — die Pommernbrücke. Der Turm und die Bastei am Brückenzugang bildeten einst eine Zollstelle: ursprünglich dienten sie als Wachtürme, an denen der sogenannte Brückenzoll, also die Gebühr für die Überquerung der Brücke, erhoben wurde.",
+            "it": "Davanti a noi c'è uno dei ponti più belli di Breslavia — il Ponte di Pomerania. La torre e il torrione visibili all'ingresso del ponte costituivano un'antica dogana: in origine fungevano da posti di guardia dove si riscuoteva il cosiddetto pedaggio, ovvero la tassa per attraversare il ponte.",
+            "es": "Ante nosotros se encuentra uno de los puentes más bellos de Breslavia — el Puente de Pomerania. La torre y el torreón visibles a la entrada del puente formaban una antigua aduana: en sus orígenes servían como puestos de guardia donde se cobraba el llamado peaje, es decir, la tasa por cruzar el puente.",
+            "uk": "Перед нами один із найкрасивіших вроцлавських мостів — Поморський міст. Вежа й башта, які видно при в'їзді на міст, — це колишній митний пункт: спершу вони слугували вартівнями, де збирали так зване мито, тобто плату за проїзд через міст.",
+            "fr": "Devant nous se trouve l'un des plus beaux ponts de Wrocław — le pont de Poméranie. La tour et le bastion visibles à l'entrée du pont constituaient un ancien poste de douane : à l'origine, ils servaient de postes de garde où l'on percevait le fameux péage, c'est-à-dire la taxe pour traverser le pont."
+        },
+        {
+            "kind": "text",
+            "pl": "Na jego balustradach możemy podziwiać Tajemnicze Maszkarony czyli kamienne rzeźby przedstawiające przerażające, fantastyczne twarze. Według dawnych wierzeń ich brzydota miała odstraszać złe moce, demony wodne i chronić most przed katastrofą.",
+            "en": "On its balustrades we can admire the Mysterious Mascarons — stone sculptures depicting terrifying, fantastical faces. According to old beliefs, their ugliness was meant to ward off evil forces and water demons, and to protect the bridge from disaster.",
+            "de": "An ihren Geländern können wir die geheimnisvollen Maskarons bewundern — steinerne Skulpturen, die schreckliche, fantastische Gesichter darstellen. Nach altem Glauben sollte ihre Hässlichkeit böse Mächte und Wasserdämonen abschrecken und die Brücke vor Unheil schützen.",
+            "it": "Sulle sue balaustre possiamo ammirare i Misteriosi Mascheroni, ovvero sculture in pietra che raffigurano volti spaventosi e fantastici. Secondo antiche credenze, la loro bruttezza doveva spaventare le forze del male e i demoni dell'acqua e proteggere il ponte da ogni catastrofe.",
+            "es": "En sus balaustradas podemos admirar los Misteriosos Mascarones, es decir, esculturas de piedra que representan rostros aterradores y fantásticos. Según antiguas creencias, su fealdad debía ahuyentar las fuerzas del mal y los demonios del agua, y proteger el puente de cualquier catástrofe.",
+            "uk": "На його балюстрадах можна милуватися загадковими маскаронами — кам'яними скульптурами, що зображають жахливі, фантастичні обличчя. За давніми віруваннями їхня потворність мала відлякувати злі сили та водяних демонів і захищати міст від катастрофи.",
+            "fr": "Sur ses balustrades, nous pouvons admirer les mystérieux mascarons, c'est-à-dire des sculptures de pierre représentant des visages effrayants et fantastiques. Selon d'anciennes croyances, leur laideur devait éloigner les forces du mal et les démons de l'eau, et protéger le pont de toute catastrophe."
+        },
+        {
+            "kind": "break",
+            "duration_seconds": 5
+        },
+        {
+            "kind": "text",
+            "pl": "Charakterystyczny żółty gmach po prawej stronie to jeden z najważniejszych symboli miasta — Uniwersytet Wrocławski. To najstarsza uczelnia we Wrocławiu i jedna z najstarszych w tej części Europy. Jej tradycja liczy ponad trzysta lat.",
+            "en": "The distinctive yellow building on the right is one of the city's most important symbols — the University of Wrocław. It is the oldest university in Wrocław and one of the oldest in this part of Europe. Its tradition spans over three hundred years.",
+            "de": "Das markante gelbe Gebäude auf der rechten Seite ist eines der wichtigsten Wahrzeichen der Stadt — die Universität Breslau. Sie ist die älteste Hochschule Breslaus und eine der ältesten in diesem Teil Europas. Ihre Tradition reicht über dreihundert Jahre zurück.",
+            "it": "Il caratteristico edificio giallo sulla destra è uno dei simboli più importanti della città — l'Università di Breslavia. È l'ateneo più antico di Breslavia e uno dei più antichi di questa parte d'Europa. La sua tradizione conta oltre trecento anni.",
+            "es": "El característico edificio amarillo de la derecha es uno de los símbolos más importantes de la ciudad — la Universidad de Breslavia. Es la institución académica más antigua de Breslavia y una de las más antiguas de esta parte de Europa. Su tradición abarca más de trescientos años.",
+            "uk": "Характерна жовта будівля праворуч — це один із найважливіших символів міста, Вроцлавський університет. Це найстаріший заклад вищої освіти у Вроцлаві й один із найстаріших у цій частині Європи. Його традиція налічує понад триста років.",
+            "fr": "Le bâtiment jaune caractéristique sur la droite est l'un des symboles les plus importants de la ville — l'Université de Wrocław. C'est le plus ancien établissement d'enseignement supérieur de Wrocław et l'un des plus anciens de cette partie de l'Europe. Sa tradition remonte à plus de trois cents ans."
+        },
+        {
+            "kind": "text",
+            "pl": "Jeśli będą mieli Państwo okazję odwiedzić wnętrza uczelni, warto zobaczyć barokową Aulę Leopoldyńską oraz wejść na Wieżę Matematyczną, z której rozciąga się panorama starego miasta.",
+            "en": "If you have the chance to visit the interior of the university, it is worth seeing the baroque Leopoldine Hall and climbing the Mathematical Tower, which offers a panorama of the old town.",
+            "de": "Wenn Sie die Gelegenheit haben, das Innere der Universität zu besuchen, lohnt es sich, die barocke Aula Leopoldina zu sehen und den Mathematischen Turm zu besteigen, von dem aus sich ein Panorama der Altstadt eröffnet.",
+            "it": "Se avrete l'occasione di visitare gli interni dell'università, vale la pena vedere la barocca Aula Leopoldina e salire sulla Torre Matematica, da cui si apre un panorama sul centro storico.",
+            "es": "Si tienen la ocasión de visitar el interior de la universidad, merece la pena ver el barroco Aula Leopoldina y subir a la Torre Matemática, desde la que se extiende un panorama del casco antiguo.",
+            "uk": "Якщо матимете нагоду відвідати приміщення університету, варто побачити барокову Леопольдинську залу та піднятися на Математичну вежу, з якої відкривається панорама старого міста.",
+            "fr": "Si vous avez l'occasion de visiter l'intérieur de l'université, il vaut la peine de voir l'Aula Leopoldina baroque et de monter à la Tour mathématique, d'où s'étend un panorama de la vieille ville."
+        },
+        {
+            "kind": "break",
+            "duration_seconds": 5
+        },
+        {
+            "kind": "text",
+            "pl": "Po lewej stronie można zauważyć budynek z czerwonej cegły przypominający średniowieczny zamek. To dawny pruski areszt wojskowy. W dziewiętnastym wieku przed budynkiem znajdowała się nawet szubienica dla dezerterów.",
+            "en": "On the left you can notice a red-brick building resembling a medieval castle. This is a former Prussian military prison. In the nineteenth century there was even a gallows for deserters in front of the building.",
+            "de": "Auf der linken Seite kann man ein Gebäude aus rotem Backstein erkennen, das an eine mittelalterliche Burg erinnert. Es ist ein ehemaliges preußisches Militärgefängnis. Im neunzehnten Jahrhundert stand vor dem Gebäude sogar ein Galgen für Deserteure.",
+            "it": "Sulla sinistra si può notare un edificio in mattoni rossi che ricorda un castello medievale. È un'ex prigione militare prussiana. Nel diciannovesimo secolo davanti all'edificio si trovava persino una forca per i disertori.",
+            "es": "A la izquierda se puede apreciar un edificio de ladrillo rojo que recuerda a un castillo medieval. Es una antigua prisión militar prusiana. En el siglo diecinueve, frente al edificio había incluso una horca para los desertores.",
+            "uk": "Ліворуч можна помітити будівлю з червоної цегли, що нагадує середньовічний замок. Це колишня прусська військова в'язниця. У дев'ятнадцятому столітті перед будівлею стояла навіть шибениця для дезертирів.",
+            "fr": "Sur la gauche, on peut apercevoir un bâtiment en brique rouge ressemblant à un château médiéval. C'est une ancienne prison militaire prussienne. Au dix-neuvième siècle, il y avait même devant le bâtiment une potence pour les déserteurs."
+        },
+        {
+            "kind": "break",
+            "duration_seconds": 5
+        },
+        {
+            "kind": "text",
+            "pl": "Powoli wpływamy w okolice wrocławskich wysp. W samym centrum Wrocławia znajduje się aż sześć z dwunastu miejskich wysp.",
+            "en": "We are slowly entering the area of Wrocław's islands. In the very centre of Wrocław there are as many as six of the city's twelve islands.",
+            "de": "Langsam erreichen wir die Gegend der Breslauer Inseln. Im Zentrum Breslaus befinden sich gleich sechs der zwölf Stadtinseln.",
+            "it": "Stiamo lentamente entrando nella zona delle isole di Breslavia. Proprio nel centro di Breslavia si trovano ben sei delle dodici isole cittadine.",
+            "es": "Lentamente nos adentramos en la zona de las islas de Breslavia. En pleno centro de Breslavia se encuentran nada menos que seis de las doce islas urbanas.",
+            "uk": "Ми поволі заходимо в район вроцлавських островів. У самому центрі Вроцлава розташовано аж шість із дванадцяти міських островів.",
+            "fr": "Nous entrons lentement dans la zone des îles de Wrocław. En plein centre de Wrocław se trouvent pas moins de six des douze îles urbaines."
+        },
+        {
+            "kind": "text",
+            "pl": "Trasa rejsu po której pływamy ma głębokość od trzech do czterech metrów. Zdarzają się jednak miejsca, gdzie głębokość to zaledwie kilkanaście centymetrów, dlatego konieczne jest odpowiednie dobranie trasy i manewrowanie",
+            "en": "The cruise route we sail along is between three and four metres deep. There are, however, places where the depth is only a dozen or so centimetres, which is why it is necessary to choose the route carefully and manoeuvre accordingly.",
+            "de": "Die Fahrroute, auf der wir fahren, ist zwischen drei und vier Meter tief. Es gibt jedoch Stellen, an denen die Tiefe nur etwa zehn bis zwanzig Zentimeter beträgt, weshalb eine sorgfältige Wahl der Route und entsprechendes Manövrieren notwendig ist.",
+            "it": "Il percorso lungo il quale navighiamo ha una profondità da tre a quattro metri. Ci sono però punti in cui la profondità è di appena una decina di centimetri, perciò è necessario scegliere con cura il percorso e manovrare di conseguenza.",
+            "es": "La ruta por la que navegamos tiene una profundidad de entre tres y cuatro metros. Sin embargo, hay lugares donde la profundidad es de apenas una decena de centímetros, por lo que es necesario elegir bien la ruta y maniobrar con cuidado.",
+            "uk": "Маршрут, яким ми пливемо, має глибину від трьох до чотирьох метрів. Однак трапляються місця, де глибина становить лише кільканадцять сантиметрів, тому необхідно ретельно добирати маршрут і маневрувати.",
+            "fr": "L'itinéraire que nous empruntons a une profondeur de trois à quatre mètres. Il existe cependant des endroits où la profondeur n'est que d'une dizaine de centimètres, c'est pourquoi il est nécessaire de bien choisir le parcours et de manœuvrer en conséquence."
+        },
+        {
+            "kind": "break",
+            "duration_seconds": 5
+        },
+        {
+            "kind": "text",
+            "pl": "Po lewej stornie jedna z większych i najbardziej znanych wysp - Wyspa Słodowa przy której zobaczyć mogą Państwo mnóstwo przycumowanych barek z barami i kawiarniami — to ulubione miejsce studentów i mieszkańców. Dawniej działały tutaj słodownie, młyny i warsztaty rzemieślnicze. Dziś to przestrzeń spotkań, koncertów i odpoczynku nad wodą.",
+            "en": "On the left is one of the larger and best-known islands — Słodowa Island, by which you can see plenty of moored barges with bars and cafés — a favourite spot for students and residents. In the past there were malt houses, mills and craft workshops here. Today it is a space for meetings, concerts and relaxing by the water.",
+            "de": "Auf der linken Seite liegt eine der größeren und bekanntesten Inseln — die Malzinsel (Wyspa Słodowa), an der Sie zahlreiche vertäute Boote mit Bars und Cafés sehen können — ein beliebter Ort für Studenten und Einwohner. Früher gab es hier Mälzereien, Mühlen und Handwerksbetriebe. Heute ist es ein Ort für Begegnungen, Konzerte und Erholung am Wasser.",
+            "it": "Sulla sinistra una delle isole più grandi e conosciute — l'Isola del Malto (Wyspa Słodowa), presso la quale potrete vedere numerose chiatte ormeggiate con bar e caffè — è il luogo preferito da studenti e residenti. Un tempo qui c'erano malterie, mulini e botteghe artigiane. Oggi è uno spazio di incontri, concerti e relax in riva all'acqua.",
+            "es": "A la izquierda, una de las islas más grandes y conocidas — la Isla de la Malta (Wyspa Słodowa), junto a la que podrán ver numerosas barcazas amarradas con bares y cafeterías — es el lugar favorito de estudiantes y vecinos. Antiguamente había aquí malterías, molinos y talleres artesanales. Hoy es un espacio de encuentros, conciertos y descanso junto al agua.",
+            "uk": "Ліворуч — один із більших і найвідоміших островів, Солодовий острів (Wyspa Słodowa), біля якого ви побачите безліч пришвартованих барж із барами та кав'ярнями — це улюблене місце студентів і мешканців. Колись тут діяли солодовні, млини та ремісничі майстерні. Сьогодні це простір зустрічей, концертів і відпочинку біля води.",
+            "fr": "Sur la gauche, l'une des plus grandes et des plus célèbres îles — l'île de la Malterie (Wyspa Słodowa), près de laquelle vous pourrez voir de nombreuses péniches amarrées avec des bars et des cafés — est le lieu favori des étudiants et des habitants. Autrefois, il y avait ici des malteries, des moulins et des ateliers d'artisans. Aujourd'hui, c'est un espace de rencontres, de concerts et de détente au bord de l'eau."
+        },
+        {
+            "kind": "text",
+            "pl": "Widoczna po prawej stornie miniaturowa latarnia morska stoi na wyspie tamka. W trzynastym wieku należała do zakonu Krzyżowców z Czerwoną Gwiazdą, którzy wybudowali tam najstarszy, nieistniejący już dziś wrocławski młyn.",
+            "en": "The miniature lighthouse visible on the right stands on Tamka Island. In the thirteenth century it belonged to the Order of the Crosiers with the Red Star, who built there the oldest Wrocław mill, which no longer exists today.",
+            "de": "Der auf der rechten Seite sichtbare Miniaturleuchtturm steht auf der Insel Tamka. Im dreizehnten Jahrhundert gehörte sie dem Orden der Kreuzherren mit dem Roten Stern, die dort die älteste, heute nicht mehr existierende Breslauer Mühle errichteten.",
+            "it": "Il faro in miniatura visibile sulla destra si trova sull'Isola Tamka. Nel tredicesimo secolo apparteneva all'Ordine dei Crociferi con la Stella Rossa, che vi costruirono il più antico mulino di Breslavia, oggi non più esistente.",
+            "es": "El faro en miniatura visible a la derecha se encuentra en la Isla Tamka. En el siglo trece pertenecía a la Orden de los Cruciferos de la Estrella Roja, que construyeron allí el molino más antiguo de Breslavia, hoy ya desaparecido.",
+            "uk": "Видимий праворуч мініатюрний маяк стоїть на острові Тамка. У тринадцятому столітті він належав ордену хрестоносців із Червоною Зіркою, які збудували там найстаріший вроцлавський млин, що сьогодні вже не існує.",
+            "fr": "Le phare miniature visible sur la droite se dresse sur l'île de Tamka. Au treizième siècle, elle appartenait à l'ordre des Croisiers à l'Étoile rouge, qui y construisirent le plus ancien moulin de Wrocław, aujourd'hui disparu."
+        },
+        {
+            "kind": "text",
+            "pl": "Zaraz za nią, również po prawej stronie widzimy najmniejszą we Wrocławiu wyspę Daliową. Stojąca na niej srebrna, błyszcząca konstrukcja to niezwykła instalacja artystyczna o nazwie NAWA autorstwa Oskara Zięty, która według twórcy ma symbolizować otwartość miasta na zmiany.",
+            "en": "Just beyond it, also on the right, we see Wrocław's smallest island, Daliowa. The silver, glistening structure standing on it is a remarkable art installation called NAWA by Oskar Zięta, which, according to its creator, is meant to symbolise the city's openness to change.",
+            "de": "Gleich dahinter, ebenfalls auf der rechten Seite, sehen wir die kleinste Insel Breslaus, die Dalieninsel (Daliowa). Die darauf stehende silberne, glänzende Konstruktion ist eine außergewöhnliche Kunstinstallation namens NAWA von Oskar Zięta, die nach Aussage des Künstlers die Offenheit der Stadt für Veränderungen symbolisieren soll.",
+            "it": "Subito dopo, sempre sulla destra, vediamo l'isola più piccola di Breslavia, l'Isola Daliowa. La struttura argentata e luccicante che vi sorge è una straordinaria installazione artistica chiamata NAWA, opera di Oskar Zięta, che secondo l'autore vuole simboleggiare l'apertura della città al cambiamento.",
+            "es": "Justo detrás, también a la derecha, vemos la isla más pequeña de Breslavia, la Isla Daliowa. La estructura plateada y brillante que se alza sobre ella es una extraordinaria instalación artística llamada NAWA, obra de Oskar Zięta, que según su autor pretende simbolizar la apertura de la ciudad al cambio.",
+            "uk": "Одразу за ним, також праворуч, ми бачимо найменший острів Вроцлава — Даліовий. Срібляста, блискуча конструкція, що стоїть на ньому, — це незвичайна мистецька інсталяція під назвою NAWA авторства Оскара Зенти, яка, за задумом митця, має символізувати відкритість міста до змін.",
+            "fr": "Juste derrière, également sur la droite, nous voyons la plus petite île de Wrocław, l'île Daliowa. La structure argentée et brillante qui s'y dresse est une remarquable installation artistique nommée NAWA, œuvre d'Oskar Zięta, qui, selon son créateur, est censée symboliser l'ouverture de la ville au changement."
+        },
+        {
+            "kind": "text",
+            "pl": "Po lewej stornie imponujący biały budynek na wyspie to Concordia Design Wrocław - centrum kreatywności i biznesu. Na jego dachu znajduje się letni bar z jedną z najpiękniejszych panoram Wrocławia.",
+            "en": "On the left, the impressive white building on the island is Concordia Design Wrocław — a centre of creativity and business. On its roof there is a summer bar with one of the most beautiful panoramas of Wrocław.",
+            "de": "Auf der linken Seite ist das beeindruckende weiße Gebäude auf der Insel das Concordia Design Wrocław — ein Zentrum für Kreativität und Wirtschaft. Auf seinem Dach befindet sich eine Sommerbar mit einem der schönsten Panoramen Breslaus.",
+            "it": "Sulla sinistra, l'imponente edificio bianco sull'isola è il Concordia Design Wrocław — un centro di creatività e affari. Sul suo tetto si trova un bar estivo con uno dei panorami più belli di Breslavia.",
+            "es": "A la izquierda, el imponente edificio blanco de la isla es el Concordia Design Wrocław — un centro de creatividad y negocios. En su azotea hay un bar de verano con uno de los panoramas más bellos de Breslavia.",
+            "uk": "Ліворуч вражаюча біла будівля на острові — це Concordia Design Wrocław, центр креативності та бізнесу. На його даху розташований літній бар з однією з найкрасивіших панорам Вроцлава.",
+            "fr": "Sur la gauche, l'imposant bâtiment blanc sur l'île est le Concordia Design Wrocław — un centre de créativité et d'affaires. Sur son toit se trouve un bar d'été offrant l'un des plus beaux panoramas de Wrocław."
+        },
+        {
+            "kind": "text",
+            "pl": "Za żółtą kładką możemy dostrzec nowoczesne apartamenty. Dawniej w budynku przed nami funkcjonował młyn wodny Maria, którego historia sięga trzynastego wieku.",
+            "en": "Beyond the yellow footbridge we can spot modern apartments. In the past, the building in front of us housed the Maria water mill, whose history dates back to the thirteenth century.",
+            "de": "Hinter dem gelben Steg können wir moderne Apartments erkennen. Früher befand sich in dem Gebäude vor uns die Wassermühle Maria, deren Geschichte bis ins dreizehnte Jahrhundert zurückreicht.",
+            "it": "Oltre la passerella gialla possiamo scorgere appartamenti moderni. Un tempo nell'edificio davanti a noi funzionava il mulino ad acqua Maria, la cui storia risale al tredicesimo secolo.",
+            "es": "Más allá de la pasarela amarilla podemos distinguir apartamentos modernos. Antiguamente, en el edificio que tenemos delante funcionaba el molino de agua Maria, cuya historia se remonta al siglo trece.",
+            "uk": "За жовтою кладкою можна розгледіти сучасні апартаменти. Колись у будівлі перед нами працював водяний млин «Марія», історія якого сягає тринадцятого століття.",
+            "fr": "Au-delà de la passerelle jaune, nous pouvons apercevoir des appartements modernes. Autrefois, le bâtiment devant nous abritait le moulin à eau Maria, dont l'histoire remonte au treizième siècle."
+        },
+        {
+            "kind": "break",
+            "duration_seconds": 5
+        },
+        {
+            "kind": "text",
+            "pl": "Zaraz po wypłynięciu ze zwężenia będziemy mogli dostrzec most świętej klary. Mimo, że nie wygląda imponująco nosi tytuł najstarszego istniejącego i stale użytkowanego mostu we Wrocławiu z 1799 roku.",
+            "en": "Right after emerging from the narrows we will be able to spot St. Clare's Bridge. Although it does not look impressive, it holds the title of the oldest existing and continuously used bridge in Wrocław, dating from 1799.",
+            "de": "Gleich nach dem Verlassen der Engstelle werden wir die St.-Klara-Brücke erkennen können. Obwohl sie nicht eindrucksvoll aussieht, trägt sie den Titel der ältesten erhaltenen und ununterbrochen genutzten Brücke Breslaus aus dem Jahr 1799.",
+            "it": "Subito dopo essere usciti dalla strettoia potremo scorgere il Ponte di Santa Chiara. Pur non avendo un aspetto imponente, detiene il titolo di ponte più antico esistente e ininterrottamente utilizzato di Breslavia, risalente al 1799.",
+            "es": "Justo después de salir del estrechamiento podremos distinguir el Puente de Santa Clara. Aunque no tiene un aspecto imponente, ostenta el título del puente más antiguo existente y en uso continuo de Breslavia, que data de 1799.",
+            "uk": "Одразу після виходу зі звуження ми зможемо розгледіти міст Святої Клари. Хоча він не виглядає вражаюче, він має звання найстарішого з існуючих і постійно використовуваних мостів Вроцлава, збудованого в 1799 році.",
+            "fr": "Juste après être sortis du passage étroit, nous pourrons apercevoir le pont Sainte-Claire. Bien qu'il n'ait pas un aspect impressionnant, il porte le titre du plus ancien pont existant et continuellement utilisé de Wrocław, datant de 1799."
+        },
+        {
+            "kind": "break",
+            "duration_seconds": 5
+        },
+        {
+            "kind": "text",
+            "pl": "Podczas rejsu przepływamy pod wieloma mostami i kładkami.",
+            "en": "During the cruise we pass under many bridges and footbridges.",
+            "de": "Während der Fahrt passieren wir viele Brücken und Stege.",
+            "it": "Durante l'escursione passiamo sotto numerosi ponti e passerelle.",
+            "es": "Durante el paseo pasamos por debajo de numerosos puentes y pasarelas.",
+            "uk": "Під час прогулянки ми пропливаємо під багатьма мостами та кладками.",
+            "fr": "Pendant la croisière, nous passons sous de nombreux ponts et passerelles."
+        },
+        {
+            "kind": "text",
+            "pl": "Po prawej stornie wyłania się nam wyspa piasek, której nazwa nie pochodzi od piaszczystej plaży, lecz od znajdującego się tu gotyckiego kościoła Najświętszej Marii Panny na Piasku.",
+            "en": "On the right, Sand Island emerges, whose name does not come from a sandy beach, but from the Gothic Church of Our Lady on the Sand located here.",
+            "de": "Auf der rechten Seite taucht die Sandinsel auf, deren Name nicht von einem Sandstrand stammt, sondern von der hier befindlichen gotischen Kirche Maria auf dem Sande.",
+            "it": "Sulla destra emerge l'Isola della Sabbia, il cui nome non deriva da una spiaggia sabbiosa, ma dalla chiesa gotica di Nostra Signora sulla Sabbia che si trova qui.",
+            "es": "A la derecha aparece la Isla de la Arena, cuyo nombre no proviene de una playa de arena, sino de la iglesia gótica de Nuestra Señora de la Arena que se encuentra aquí.",
+            "uk": "Праворуч з'являється Піщаний острів, назва якого походить не від піщаного пляжу, а від розташованого тут готичного костелу Пресвятої Діви Марії на Піску.",
+            "fr": "Sur la droite émerge l'île de Sable, dont le nom ne vient pas d'une plage de sable, mais de l'église gothique de Notre-Dame-sur-le-Sable qui s'y trouve."
+        },
+        {
+            "kind": "text",
+            "pl": "Przed nami charakterystyczny zielony,  niewielki most tumski łączący Wyspę Piaskową z Ostrowem Tumskim, przez mieszkańców często nazywany mostem zakochanych.",
+            "en": "Ahead of us is the distinctive green, small Tumski Bridge connecting Sand Island with Ostrów Tumski, often called the Lovers' Bridge by the residents.",
+            "de": "Vor uns liegt die markante grüne, kleine Dombrücke (Tumski), die die Sandinsel mit der Dominsel verbindet und von den Einwohnern oft Brücke der Verliebten genannt wird.",
+            "it": "Davanti a noi c'è il caratteristico piccolo ponte verde Tumski, che collega l'Isola della Sabbia con l'Isola della Cattedrale (Ostrów Tumski), spesso chiamato dagli abitanti il ponte degli innamorati.",
+            "es": "Ante nosotros está el característico pequeño puente verde Tumski, que une la Isla de la Arena con la Isla de la Catedral (Ostrów Tumski), a menudo llamado por los habitantes el puente de los enamorados.",
+            "uk": "Перед нами характерний зелений невеликий Тумський міст, що з'єднує Піщаний острів із Тумським островом (Ostrów Tumski), який мешканці часто називають мостом закоханих.",
+            "fr": "Devant nous se trouve le caractéristique petit pont vert Tumski, qui relie l'île de Sable à l'île de la Cathédrale (Ostrów Tumski), souvent appelé par les habitants le pont des amoureux."
+        },
+        {
+            "kind": "text",
+            "pl": "Przez wiele lat zakochane pary zawieszały tutaj kłódki symbolizujące wieczną miłość, a klucze wrzucały do Odry. Podczas remontu usunięto z mostu ponad siedemnaście ton takich kłódek.",
+            "en": "For many years couples in love hung padlocks here symbolising eternal love, and threw the keys into the Oder. During renovation, more than seventeen tonnes of such padlocks were removed from the bridge.",
+            "de": "Viele Jahre lang hängten verliebte Paare hier Vorhängeschlösser auf, die ewige Liebe symbolisierten, und warfen die Schlüssel in die Oder. Bei einer Renovierung wurden mehr als siebzehn Tonnen solcher Schlösser von der Brücke entfernt.",
+            "it": "Per molti anni le coppie di innamorati hanno appeso qui lucchetti che simboleggiavano l'amore eterno, gettando le chiavi nell'Oder. Durante un restauro sono state rimosse dal ponte oltre diciassette tonnellate di questi lucchetti.",
+            "es": "Durante muchos años las parejas de enamorados colgaban aquí candados que simbolizaban el amor eterno, y arrojaban las llaves al Óder. Durante una reforma se retiraron del puente más de diecisiete toneladas de estos candados.",
+            "uk": "Упродовж багатьох років закохані пари вішали тут замки, що символізували вічне кохання, а ключі кидали в Одру. Під час ремонту з моста зняли понад сімнадцять тонн таких замків.",
+            "fr": "Pendant de nombreuses années, les couples d'amoureux y ont accroché des cadenas symbolisant l'amour éternel, et jetaient les clés dans l'Oder. Lors d'une rénovation, plus de dix-sept tonnes de ces cadenas ont été retirées du pont."
+        },
+        {
+            "kind": "text",
+            "pl": "Mimo zakazu tradycja wciąż jest kontynuowana, lecz teraz kłódki przypinane są na bocznych balustradach.",
+            "en": "Despite the ban, the tradition is still continued, but now the padlocks are attached to the side balustrades.",
+            "de": "Trotz des Verbots wird die Tradition weiterhin fortgeführt, doch jetzt werden die Schlösser an den seitlichen Geländern befestigt.",
+            "it": "Nonostante il divieto, la tradizione continua tuttora, ma ora i lucchetti vengono fissati alle balaustre laterali.",
+            "es": "A pesar de la prohibición, la tradición sigue vigente, pero ahora los candados se sujetan en las balaustradas laterales.",
+            "uk": "Попри заборону, традиція досі триває, але тепер замки чіпляють на бічних балюстрадах.",
+            "fr": "Malgré l'interdiction, la tradition se perpétue toujours, mais désormais les cadenas sont accrochés aux balustrades latérales."
+        }
+    ]
+}

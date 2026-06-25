@@ -1,5 +1,4 @@
-<break time="3s"/>
-<break time="2s"/>
+<break time="5s"/>
 
 Witamy serdecznie na pokładzie i zapraszamy na wyjątkowy rejs po Wrocławiu — mieście mostów, wysp, krasnali i niezwykłych historii.
 A warm welcome aboard, and we invite you on a unique cruise through Wrocław — a city of bridges, islands, dwarves and extraordinary stories.
@@ -16,8 +15,7 @@ Ahead of us is one of Wrocław's most beautiful bridges — the Pomeranian Bridg
 Na jego balustradach możemy podziwiać Tajemnicze Maszkarony czyli kamienne rzeźby przedstawiające przerażające, fantastyczne twarze. Według dawnych wierzeń ich brzydota miała odstraszać złe moce, demony wodne i chronić most przed katastrofą.
 On its balustrades we can admire the Mysterious Mascarons — stone sculptures depicting terrifying, fantastical faces. According to old beliefs, their ugliness was meant to ward off evil forces and water demons, and to protect the bridge from disaster.
 
-<break time="3s"/>
-<break time="2s"/>
+<break time="5s"/>
 
 Charakterystyczny żółty gmach po prawej stronie to jeden z najważniejszych symboli miasta — Uniwersytet Wrocławski. To najstarsza uczelnia we Wrocławiu i jedna z najstarszych w tej części Europy. Jej tradycja liczy ponad trzysta lat.
 The distinctive yellow building on the right is one of the city's most important symbols — the University of Wrocław. It is the oldest university in Wrocław and one of the oldest in this part of Europe. Its tradition spans over three hundred years.
@@ -25,14 +23,12 @@ The distinctive yellow building on the right is one of the city's most important
 Jeśli będą mieli Państwo okazję odwiedzić wnętrza uczelni, warto zobaczyć barokową Aulę Leopoldyńską oraz wejść na Wieżę Matematyczną, z której rozciąga się panorama starego miasta.
 If you have the chance to visit the interior of the university, it is worth seeing the baroque Leopoldine Hall and climbing the Mathematical Tower, which offers a panorama of the old town.
 
-<break time="3s"/>
-<break time="2s"/>
+<break time="5s"/>
 
 Po lewej stronie można zauważyć budynek z czerwonej cegły przypominający średniowieczny zamek. To dawny pruski areszt wojskowy. W dziewiętnastym wieku przed budynkiem znajdowała się nawet szubienica dla dezerterów.
 On the left you can notice a red-brick building resembling a medieval castle. This is a former Prussian military prison. In the nineteenth century there was even a gallows for deserters in front of the building.
 
-<break time="3s"/>
-<break time="2s"/>
+<break time="5s"/>
 
 Powoli wpływamy w okolice wrocławskich wysp. W samym centrum Wrocławia znajduje się aż sześć z dwunastu miejskich wysp.
 We are slowly entering the area of Wrocław's islands. In the very centre of Wrocław there are as many as six of the city's twelve islands.
@@ -40,8 +36,7 @@ We are slowly entering the area of Wrocław's islands. In the very centre of Wro
 Trasa rejsu po której pływamy ma głębokość od trzech do czterech metrów. Zdarzają się jednak miejsca, gdzie głębokość to zaledwie kilkanaście centymetrów, dlatego konieczne jest odpowiednie dobranie trasy i manewrowanie
 The cruise route we sail along is between three and four metres deep. There are, however, places where the depth is only a dozen or so centimetres, which is why it is necessary to choose the route carefully and manoeuvre accordingly.
 
-<break time="3s"/>
-<break time="2s"/>
+<break time="5s"/>
 
 Po lewej stornie jedna z większych i najbardziej znanych wysp - Wyspa Słodowa przy której zobaczyć mogą Państwo mnóstwo przycumowanych barek z barami i kawiarniami — to ulubione miejsce studentów i mieszkańców. Dawniej działały tutaj słodownie, młyny i warsztaty rzemieślnicze. Dziś to przestrzeń spotkań, koncertów i odpoczynku nad wodą.
 On the left is one of the larger and best-known islands — Słodowa Island, by which you can see plenty of moored barges with bars and cafés — a favourite spot for students and residents. In the past there were malt houses, mills and craft workshops here. Today it is a space for meetings, concerts and relaxing by the water.
@@ -58,14 +53,12 @@ On the left, the impressive white building on the island is Concordia Design Wro
 Za żółtą kładką możemy dostrzec nowoczesne apartamenty. Dawniej w budynku przed nami funkcjonował młyn wodny Maria, którego historia sięga trzynastego wieku.
 Beyond the yellow footbridge we can spot modern apartments. In the past, the building in front of us housed the Maria water mill, whose history dates back to the thirteenth century.
 
-<break time="3s"/>
-<break time="2s"/>
+<break time="5s"/>
 
 Zaraz po wypłynięciu ze zwężenia będziemy mogli dostrzec most świętej klary. Mimo, że nie wygląda imponująco nosi tytuł najstarszego istniejącego i stale użytkowanego mostu we Wrocławiu z 1799 roku.
 Right after emerging from the narrows we will be able to spot St. Clare's Bridge. Although it does not look impressive, it holds the title of the oldest existing and continuously used bridge in Wrocław, dating from 1799.
 
-<break time="3s"/>
-<break time="2s"/>
+<break time="5s"/>
 
 Podczas rejsu przepływamy pod wieloma mostami i kładkami.
 During the cruise we pass under many bridges and footbridges.

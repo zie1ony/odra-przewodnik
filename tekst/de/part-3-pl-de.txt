@@ -1,5 +1,4 @@
-<break time="3s"/>
-<break time="2s"/>
+<break time="5s"/>
 
 Historia Wrocławia liczy ponad tysiąc lat. W mieście na niespełna trzystu kilometrach kwadratowych mieszka szacunkowo ponad dziewięćset tysięcy osób. Miasto zajmuje trzecie miejsce w Polsce pod względem liczby ludności oraz siódme miejsce pod względem powierzchni.
 Die Geschichte Breslaus reicht über tausend Jahre zurück. In der Stadt, die knapp dreihundert Quadratkilometer umfasst, leben schätzungsweise über neunhunderttausend Menschen. Die Stadt belegt in Polen den dritten Platz nach Einwohnerzahl und den siebten Platz nach Fläche.
@@ -19,8 +18,7 @@ Im Jahr neunzehnhundertsiebenundneunzig erlebte Breslau eine der größten Natur
 Woda zalała wtedy niemal czterdzieści procent powierzchni miasta. Pod wodą znalazły się tysiące mieszkań i budynków, a poziom Odry w niektórych miejscach sięgał kilku metrów. Dla mieszkańców był to niezwykle trudny czas, ale również moment ogromnej solidarności.
 Das Wasser überflutete damals fast vierzig Prozent der Stadtfläche. Tausende Wohnungen und Gebäude standen unter Wasser, und der Pegel der Oder erreichte an manchen Stellen mehrere Meter. Für die Einwohner war es eine äußerst schwierige Zeit, aber auch ein Moment großer Solidarität.
 
-<break time="3s"/>
-<break time="2s"/>
+<break time="5s"/>
 
 Widoczne po lewej stornie nabrzeże to Bulwar Xawerego Dunikowskiego – jedna z najpopularniejszych i najatrakcyjniejszych tras spacerowych w mieście. Oferuje wyjątkowy, panoramiczny widok na zabytkowy Ostrów Tumski oraz wrocławskie wyspy.
 Die auf der linken Seite sichtbare Uferpromenade ist der Xawery-Dunikowski-Boulevard — eine der beliebtesten und reizvollsten Spazierrouten der Stadt. Er bietet einen einzigartigen Panoramablick auf das historische Ostrów Tumski und die Breslauer Inseln.
@@ -28,8 +26,7 @@ Die auf der linken Seite sichtbare Uferpromenade ist der Xawery-Dunikowski-Boule
 Za bulwarem widoczny żółty budynek to główny gmach Akademii Sztuk Pięknych.
 Hinter dem Boulevard ist das gelbe Gebäude das Hauptgebäude der Akademie der Bildenden Künste.
 
-<break time="3s"/>
-<break time="2s"/>
+<break time="5s"/>
 
 Przed nami czerwony Most Piaskowy. To jeden z najstarszych mostów w mieście i jeden z najbardziej romantycznych zakątków Wrocławia. Most został wybudowany w dziewiętnastym wieku i do dziś zachował swój historyczny charakter. Przez wiele lat był ważnym połączeniem handlowym pomiędzy centrum miasta a Ostrowem Tumskim.
 Vor uns liegt die rote Sandbrücke. Sie ist eine der ältesten Brücken der Stadt und einer der romantischsten Winkel Breslaus. Die Brücke wurde im neunzehnten Jahrhundert errichtet und hat bis heute ihren historischen Charakter bewahrt. Viele Jahre lang war sie eine wichtige Handelsverbindung zwischen dem Stadtzentrum und Ostrów Tumski.
@@ -49,8 +46,7 @@ In Wirklichkeit ist die Geschichte der Zwerge mit der Bewegung Orange Alternativ
 Pierwszy pomnik krasnala — Papa Krasnal — stanął we Wrocławiu przy ulicy Świdnickiej na początku dwudziestego pierwszego wieku. Dziś w mieście jest ich już ponad tysiąc, a ich liczba nadal rośnie.
 Die erste Zwergenfigur — Papa Zwerg — wurde in Breslau zu Beginn des einundzwanzigsten Jahrhunderts in der Świdnicka-Straße aufgestellt. Heute gibt es in der Stadt bereits über tausend von ihnen, und ihre Zahl wächst weiter.
 
-<break time="3s"/>
-<break time="2s"/>
+<break time="5s"/>
 
 Powoli zbliżamy się do końca naszego rejsu.
 Wir nähern uns langsam dem Ende unserer Fahrt.
@@ -61,8 +57,7 @@ Wir hoffen, dass Sie zumindest für einen Augenblick die einzigartige Atmosphär
 Dziś coraz więcej osób odkrywa ją na nowo — spacerując po bulwarach, pływając kajakami lub wybierając się na rejs taki jak ten. Dziękujemy za wspólnie spędzony czas na Odrze.
 Heute entdecken immer mehr Menschen sie aufs Neue — bei Spaziergängen entlang der Boulevards, beim Kajakfahren oder bei einer Fahrt wie dieser. Wir danken Ihnen für die gemeinsam auf der Oder verbrachte Zeit.
 
-<break time="3s"/>
-<break time="2s"/>
+<break time="5s"/>
 
 Audioprzewodnik, którego Państwo słuchają, jest autorskim projektem kapitana Pawła — wrocławskiego przewodnika, który od lat dzieli się swoją pasją do miasta i jego historii.
 Der Audioguide, den Sie hören, ist ein eigenes Projekt von Kapitän Paweł — einem Breslauer Stadtführer, der seit Jahren seine Leidenschaft für die Stadt und ihre Geschichte teilt.

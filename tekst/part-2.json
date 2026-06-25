@@ -1,0 +1,287 @@
+{
+    "name": "part-2",
+    "lines": [
+        {
+            "kind": "break",
+            "duration_seconds": 5
+        },
+        {
+            "kind": "text",
+            "pl": "Po lewej stronie widzimy Ostrów Tumski — najstarszą część Wrocławia. To właśnie tutaj ponad tysiąc lat temu zaczęła się historia miasta.",
+            "en": "On the left we see Ostrów Tumski (Cathedral Island) — the oldest part of Wrocław. It was here that the city's history began over a thousand years ago.",
+            "de": "Auf der linken Seite sehen wir Ostrów Tumski (die Dominsel) — den ältesten Teil Breslaus. Genau hier begann vor über tausend Jahren die Geschichte der Stadt.",
+            "it": "Sulla sinistra vediamo Ostrów Tumski (l'Isola della Cattedrale) — la parte più antica di Breslavia. Fu proprio qui che, oltre mille anni fa, ebbe inizio la storia della città.",
+            "es": "A la izquierda vemos Ostrów Tumski (la Isla de la Catedral) — la parte más antigua de Breslavia. Fue precisamente aquí donde, hace más de mil años, comenzó la historia de la ciudad.",
+            "uk": "Ліворуч ми бачимо Тумський острів (Ostrów Tumski) — найстарішу частину Вроцлава. Саме тут понад тисячу років тому почалася історія міста.",
+            "fr": "Sur la gauche, nous voyons Ostrów Tumski (l'île de la Cathédrale) — la partie la plus ancienne de Wrocław. C'est ici même que, il y a plus de mille ans, a commencé l'histoire de la ville."
+        },
+        {
+            "kind": "text",
+            "pl": "Dawniej była to prawdziwa wyspa otoczona wodami Odry. Większość budynków należy do instytucji kościelnych, dlatego miejsce to bywa nazywane wrocławskim Watykanem.",
+            "en": "In the past it was a genuine island surrounded by the waters of the Oder. Most of the buildings belong to church institutions, which is why this place is sometimes called Wrocław's Vatican.",
+            "de": "Früher war dies eine echte Insel, umgeben von den Wassern der Oder. Die meisten Gebäude gehören kirchlichen Einrichtungen, weshalb dieser Ort auch der Breslauer Vatikan genannt wird.",
+            "it": "Un tempo era una vera e propria isola circondata dalle acque dell'Oder. La maggior parte degli edifici appartiene a istituzioni ecclesiastiche, motivo per cui questo luogo viene talvolta chiamato il Vaticano di Breslavia.",
+            "es": "Antiguamente era una verdadera isla rodeada por las aguas del Óder. La mayoría de los edificios pertenece a instituciones eclesiásticas, por lo que este lugar suele llamarse el Vaticano de Breslavia.",
+            "uk": "Колись це був справжній острів, оточений водами Одри. Більшість будівель належить церковним установам, тому це місце інколи називають вроцлавським Ватиканом.",
+            "fr": "Autrefois, c'était une véritable île entourée par les eaux de l'Oder. La plupart des bâtiments appartiennent à des institutions ecclésiastiques, c'est pourquoi cet endroit est parfois appelé le Vatican de Wrocław."
+        },
+        {
+            "kind": "text",
+            "pl": "Najbardziej charakterystycznym budynkiem są dwie wysokie zielone wieże Katedry świętego Jana Chrzciciela — patrona miasta. Wieże mają niemal sto metrów wysokości.",
+            "en": "The most distinctive building is marked by the two tall green towers of the Cathedral of St. John the Baptist — the city's patron saint. The towers are almost one hundred metres high.",
+            "de": "Das markanteste Bauwerk sind die beiden hohen grünen Türme der Kathedrale des heiligen Johannes des Täufers — des Schutzpatrons der Stadt. Die Türme sind fast hundert Meter hoch.",
+            "it": "L'edificio più caratteristico è contraddistinto dalle due alte torri verdi della Cattedrale di San Giovanni Battista — patrono della città. Le torri sono alte quasi cento metri.",
+            "es": "El edificio más característico se distingue por las dos altas torres verdes de la Catedral de San Juan Bautista — patrón de la ciudad. Las torres miden casi cien metros de altura.",
+            "uk": "Найхарактернішу будівлю вирізняють дві високі зелені вежі Кафедрального собору святого Іоанна Хрестителя — покровителя міста. Вежі мають майже сто метрів заввишки.",
+            "fr": "Le bâtiment le plus caractéristique se distingue par les deux hautes tours vertes de la cathédrale Saint-Jean-Baptiste — patron de la ville. Les tours mesurent près de cent mètres de haut."
+        },
+        {
+            "kind": "text",
+            "pl": "Na szczyt jednej z nich można wjechać windą i podziwiać przepiękną panoramę miasta.",
+            "en": "You can take a lift to the top of one of them and admire a magnificent panorama of the city.",
+            "de": "Auf die Spitze eines von ihnen kann man mit dem Aufzug fahren und ein wunderschönes Panorama der Stadt bewundern.",
+            "it": "Sulla cima di una di esse si può salire con l'ascensore e ammirare uno splendido panorama della città.",
+            "es": "A lo alto de una de ellas se puede subir en ascensor y admirar un magnífico panorama de la ciudad.",
+            "uk": "На вершину однієї з них можна піднятися ліфтом і помилуватися чудовою панорамою міста.",
+            "fr": "On peut monter en ascenseur au sommet de l'une d'elles et admirer un magnifique panorama de la ville."
+        },
+        {
+            "kind": "text",
+            "pl": "Wieczorami Ostrów Tumski nabiera wyjątkowego klimatu. Po zmroku pojawia się tutaj latarnik ubrany w czarną pelerynę i cylinder. Tradycyjnie zapala gazowe latarnie dokładnie tak samo jak w dziewiętnastym wieku. Codziennie ma do zapalenia i zgaszenia dziewięćdziesiąt dziewięć latarni.",
+            "en": "In the evenings, Ostrów Tumski takes on a special atmosphere. After dusk, a lamplighter appears here, dressed in a black cape and top hat. Traditionally, he lights the gas lanterns in exactly the same way as in the nineteenth century. Every day he has ninety-nine lanterns to light and to extinguish.",
+            "de": "Abends bekommt Ostrów Tumski eine ganz besondere Atmosphäre. Nach Einbruch der Dunkelheit erscheint hier ein Laternenanzünder in schwarzem Umhang und Zylinder. Traditionell zündet er die Gaslaternen genauso an wie im neunzehnten Jahrhundert. Täglich hat er neunundneunzig Laternen anzuzünden und zu löschen.",
+            "it": "La sera Ostrów Tumski assume un'atmosfera unica. Dopo il tramonto compare qui un lampionaio vestito con un mantello nero e un cilindro. Tradizionalmente accende i lampioni a gas esattamente come nel diciannovesimo secolo. Ogni giorno deve accendere e spegnere novantanove lampioni.",
+            "es": "Por las tardes, Ostrów Tumski adquiere un ambiente único. Al anochecer aparece aquí un farolero vestido con una capa negra y un sombrero de copa. Tradicionalmente enciende las farolas de gas exactamente igual que en el siglo diecinueve. Cada día tiene que encender y apagar noventa y nueve farolas.",
+            "uk": "Вечорами Тумський острів набуває особливої атмосфери. Після настання сутінків тут з'являється ліхтарник, одягнений у чорну пелерину й циліндр. За традицією він запалює газові ліхтарі точнісінько так само, як у дев'ятнадцятому столітті. Щодня йому треба запалити й погасити дев'яносто дев'ять ліхтарів.",
+            "fr": "Le soir, Ostrów Tumski prend une atmosphère particulière. À la tombée de la nuit, un allumeur de réverbères apparaît ici, vêtu d'une cape noire et d'un haut-de-forme. Traditionnellement, il allume les lanternes à gaz exactement comme au dix-neuvième siècle. Chaque jour, il a quatre-vingt-dix-neuf lanternes à allumer et à éteindre."
+        },
+        {
+            "kind": "break",
+            "duration_seconds": 5
+        },
+        {
+            "kind": "text",
+            "pl": "Naprzeciwko najstarszej części Wrocławia po prawej stornie możemy zobaczyć charakterystyczne zielone wzgórze – jest to Bastion Ceglarski, który dawniej skrywał w sobie trzykondygnacyjne kazamaty, a po zniszczeniu fortyfikacji przez wojska napoleońskie w dziewiętnastym wieku, wały zasypano, a sam bastion przekształcono w popularny punkt widokowy i rekreacyjny, którego rola zachowana została do dnia dzisiejszego.",
+            "en": "Opposite the oldest part of Wrocław, on the right, we can see a distinctive green hill — this is the Brickmakers' Bastion, which once concealed three-storey casemates. After the fortifications were destroyed by Napoleonic troops in the nineteenth century, the ramparts were filled in and the bastion itself was transformed into a popular viewpoint and recreation spot, a role it retains to this day.",
+            "de": "Gegenüber dem ältesten Teil Breslaus können wir auf der rechten Seite einen markanten grünen Hügel sehen — die Ziegelbastei, die früher dreigeschossige Kasematten verbarg. Nachdem die Befestigungen im neunzehnten Jahrhundert von napoleonischen Truppen zerstört worden waren, wurden die Wälle aufgeschüttet und die Bastei selbst in einen beliebten Aussichts- und Erholungspunkt umgewandelt, dessen Rolle bis heute erhalten geblieben ist.",
+            "it": "Di fronte alla parte più antica di Breslavia, sulla destra, possiamo vedere una caratteristica collina verde — è il Bastione dei Mattonai, che un tempo nascondeva al suo interno casematte a tre piani. Dopo la distruzione delle fortificazioni da parte delle truppe napoleoniche nel diciannovesimo secolo, i terrapieni furono riempiti e il bastione stesso fu trasformato in un popolare punto panoramico e ricreativo, ruolo che ha conservato fino ai giorni nostri.",
+            "es": "Frente a la parte más antigua de Breslavia, a la derecha, podemos ver una característica colina verde — es el Bastión de los Ladrilleros, que antiguamente ocultaba en su interior casamatas de tres plantas. Tras la destrucción de las fortificaciones por las tropas napoleónicas en el siglo diecinueve, los terraplenes se rellenaron y el propio bastión se transformó en un popular mirador y zona de recreo, función que ha conservado hasta el día de hoy.",
+            "uk": "Навпроти найстарішої частини Вроцлава, праворуч, ми можемо побачити характерний зелений пагорб — це Цегельний бастіон, який колись приховував у собі триповерхові каземати. Після знищення укріплень наполеонівськими військами в дев'ятнадцятому столітті вали засипали, а сам бастіон перетворили на популярний оглядовий і рекреаційний майданчик, роль якого збереглася донині.",
+            "fr": "En face de la partie la plus ancienne de Wrocław, sur la droite, nous pouvons voir une colline verte caractéristique — c'est le Bastion des Briquetiers, qui dissimulait autrefois des casemates sur trois niveaux. Après la destruction des fortifications par les troupes napoléoniennes au dix-neuvième siècle, les remparts furent comblés et le bastion lui-même fut transformé en un point de vue et lieu de loisirs populaire, rôle qu'il a conservé jusqu'à aujourd'hui."
+        },
+        {
+            "kind": "text",
+            "pl": "To jeden z ciekawszych i darmowych punktów widokowych na najstarszą część miasta i odrę.",
+            "en": "It is one of the more interesting — and free — viewpoints over the oldest part of the city and the Oder.",
+            "de": "Es ist einer der interessanteren — und kostenlosen — Aussichtspunkte auf den ältesten Teil der Stadt und die Oder.",
+            "it": "È uno dei punti panoramici più interessanti — e gratuiti — sulla parte più antica della città e sull'Oder.",
+            "es": "Es uno de los miradores más interesantes — y gratuitos — sobre la parte más antigua de la ciudad y el Óder.",
+            "uk": "Це один із цікавіших і безкоштовних оглядових майданчиків на найстарішу частину міста та Одру.",
+            "fr": "C'est l'un des points de vue les plus intéressants — et gratuits — sur la partie la plus ancienne de la ville et sur l'Oder."
+        },
+        {
+            "kind": "text",
+            "pl": "Przed nami Most Pokoju — jeden z ważniejszych mostów w centrum miasta.",
+            "en": "Ahead of us is the Peace Bridge — one of the more important bridges in the city centre.",
+            "de": "Vor uns liegt die Friedensbrücke — eine der wichtigeren Brücken im Stadtzentrum.",
+            "it": "Davanti a noi c'è il Ponte della Pace — uno dei ponti più importanti del centro città.",
+            "es": "Ante nosotros está el Puente de la Paz — uno de los puentes más importantes del centro de la ciudad.",
+            "uk": "Перед нами Міст Миру — один із важливіших мостів у центрі міста.",
+            "fr": "Devant nous se trouve le pont de la Paix — l'un des ponts les plus importants du centre-ville."
+        },
+        {
+            "kind": "text",
+            "pl": "Po prawej stronie uwagę przyciąga monumentalny budynek porośnięty bluszczem. To siedziba Muzeum Narodowego we Wrocławiu.",
+            "en": "On the right, a monumental building covered in ivy draws the eye. It is the seat of the National Museum in Wrocław.",
+            "de": "Auf der rechten Seite zieht ein monumentales, mit Efeu bewachsenes Gebäude die Aufmerksamkeit auf sich. Es ist der Sitz des Nationalmuseums in Breslau.",
+            "it": "Sulla destra attira l'attenzione un edificio monumentale ricoperto di edera. È la sede del Museo Nazionale di Breslavia.",
+            "es": "A la derecha llama la atención un edificio monumental cubierto de hiedra. Es la sede del Museo Nacional de Breslavia.",
+            "uk": "Праворуч увагу привертає монументальна будівля, оповита плющем. Це осідок Національного музею у Вроцлаві.",
+            "fr": "Sur la droite, un bâtiment monumental couvert de lierre attire l'attention. C'est le siège du Musée national de Wrocław."
+        },
+        {
+            "kind": "text",
+            "pl": "Roślina zmienia kolor wraz z porami roku — wiosną jest intensywnie zielona, latem ciemnieje, a jesienią budynek niemal płonie odcieniami czerwieni.",
+            "en": "The plant changes colour with the seasons — in spring it is vivid green, in summer it darkens, and in autumn the building almost blazes with shades of red.",
+            "de": "Die Pflanze ändert ihre Farbe mit den Jahreszeiten — im Frühling ist sie kräftig grün, im Sommer wird sie dunkler, und im Herbst scheint das Gebäude in Rottönen geradezu zu lodern.",
+            "it": "La pianta cambia colore con le stagioni — in primavera è di un verde intenso, in estate si scurisce, e in autunno l'edificio sembra quasi ardere di sfumature rosse.",
+            "es": "La planta cambia de color con las estaciones — en primavera es de un verde intenso, en verano se oscurece, y en otoño el edificio casi arde en tonos rojizos.",
+            "uk": "Рослина змінює колір залежно від пори року — навесні вона насичено зелена, влітку темнішає, а восени будівля майже палає відтінками червоного.",
+            "fr": "La plante change de couleur au fil des saisons — au printemps elle est d'un vert intense, en été elle s'assombrit, et en automne le bâtiment semble presque s'embraser de teintes rouges."
+        },
+        {
+            "kind": "text",
+            "pl": "W środku znajdują się dzieła najwybitniejszych polskich i europejskich artystów, między innymi Jana Matejki czy Pietera Bruegla.",
+            "en": "Inside are works by the most eminent Polish and European artists, including Jan Matejko and Pieter Bruegel.",
+            "de": "Im Inneren befinden sich Werke der bedeutendsten polnischen und europäischen Künstler, unter anderem von Jan Matejko und Pieter Bruegel.",
+            "it": "All'interno si trovano opere dei più illustri artisti polacchi ed europei, tra cui Jan Matejko e Pieter Bruegel.",
+            "es": "En su interior se encuentran obras de los más destacados artistas polacos y europeos, entre ellos Jan Matejko y Pieter Bruegel.",
+            "uk": "Усередині зберігаються твори найвидатніших польських та європейських митців, зокрема Яна Матейка та Пітера Брейгеля.",
+            "fr": "À l'intérieur se trouvent des œuvres des plus éminents artistes polonais et européens, parmi lesquels Jan Matejko et Pieter Bruegel."
+        },
+        {
+            "kind": "break",
+            "duration_seconds": 5
+        },
+        {
+            "kind": "text",
+            "pl": "Za mostem po lewej stronie mijamy budynki należące do Uniwersytetu Wrocławskiego. Znajdują się tutaj między innymi biblioteka oraz wydziały matematyki, informatyki i chemii.",
+            "en": "Beyond the bridge, on the left, we pass buildings belonging to the University of Wrocław. Here are, among others, the library and the faculties of mathematics, computer science and chemistry.",
+            "de": "Hinter der Brücke passieren wir auf der linken Seite Gebäude der Universität Breslau. Hier befinden sich unter anderem die Bibliothek sowie die Fakultäten für Mathematik, Informatik und Chemie.",
+            "it": "Oltre il ponte, sulla sinistra, passiamo accanto agli edifici dell'Università di Breslavia. Qui si trovano, tra l'altro, la biblioteca e le facoltà di matematica, informatica e chimica.",
+            "es": "Pasado el puente, a la izquierda, dejamos atrás edificios pertenecientes a la Universidad de Breslavia. Aquí se encuentran, entre otros, la biblioteca y las facultades de matemáticas, informática y química.",
+            "uk": "За мостом ліворуч ми минаємо будівлі, що належать Вроцлавському університету. Тут розташовані, зокрема, бібліотека та факультети математики, інформатики й хімії.",
+            "fr": "Au-delà du pont, sur la gauche, nous longeons des bâtiments appartenant à l'Université de Wrocław. On y trouve, entre autres, la bibliothèque et les facultés de mathématiques, d'informatique et de chimie."
+        },
+        {
+            "kind": "text",
+            "pl": "Wysokie, białe budynki za wydziałami uniwersytetu to osiedle mieszkalne składające się z sześciu szesnastokondygnacyjnych wieżowców o wysokości pięćdziesięciu czterech metrów, które ze względu na śmiałą architekturę lat siedemdziesiątych dwudziestego wieku nazywane były wrocławskim Manhattanem.",
+            "en": "The tall white buildings behind the university faculties form a residential estate consisting of six sixteen-storey tower blocks, each fifty-four metres high, which, due to their bold architecture of the nineteen-seventies, were called Wrocław's Manhattan.",
+            "de": "Die hohen weißen Gebäude hinter den Universitätsfakultäten sind eine Wohnsiedlung aus sechs sechzehngeschossigen Hochhäusern von vierundfünfzig Metern Höhe, die aufgrund ihrer kühnen Architektur der siebziger Jahre des zwanzigsten Jahrhunderts das Breslauer Manhattan genannt wurden.",
+            "it": "Gli alti edifici bianchi dietro le facoltà universitarie sono un complesso residenziale composto da sei grattacieli di sedici piani alti cinquantaquattro metri, che, per via dell'architettura audace degli anni settanta del Novecento, venivano chiamati la Manhattan di Breslavia.",
+            "es": "Los altos edificios blancos detrás de las facultades universitarias forman un complejo residencial compuesto por seis torres de dieciséis plantas y cincuenta y cuatro metros de altura que, debido a su atrevida arquitectura de los años setenta del siglo veinte, se llamaban el Manhattan de Breslavia.",
+            "uk": "Високі білі будівлі за факультетами університету — це житловий комплекс із шести шістнадцятиповерхових висоток заввишки п'ятдесят чотири метри, які через сміливу архітектуру сімдесятих років двадцятого століття називали вроцлавським Манхеттеном.",
+            "fr": "Les hauts bâtiments blancs derrière les facultés de l'université forment un ensemble résidentiel composé de six tours de seize étages, hautes de cinquante-quatre mètres, que l'on appelait, en raison de leur architecture audacieuse des années soixante-dix du vingtième siècle, le Manhattan de Wrocław."
+        },
+        {
+            "kind": "text",
+            "pl": "Po prawej stronie widzimy rozległy budynek Dolnośląskiego Urzędu Wojewódzkiego. Ma ponad tysiąc pomieszczeń i kilkanaście kilometrów korytarzy. Przed drugą wojną światową ukryto tutaj potężny schron przeciwlotniczy, a mieści się tam centrum zarządzania kryzysowego.",
+            "en": "On the right we see the vast building of the Lower Silesian Voivodeship Office. It has more than a thousand rooms and over a dozen kilometres of corridors. Before the Second World War a powerful air-raid shelter was hidden here, and it now houses a crisis management centre.",
+            "de": "Auf der rechten Seite sehen wir das weitläufige Gebäude des Niederschlesischen Woiwodschaftsamtes. Es hat über tausend Räume und mehr als zehn Kilometer Flure. Vor dem Zweiten Weltkrieg wurde hier ein gewaltiger Luftschutzbunker verborgen, in dem sich heute ein Krisenmanagementzentrum befindet.",
+            "it": "Sulla destra vediamo l'imponente edificio dell'Ufficio del Voivodato della Bassa Slesia. Ha oltre mille stanze e più di una dozzina di chilometri di corridoi. Prima della Seconda guerra mondiale qui fu nascosto un possente rifugio antiaereo, dove oggi ha sede un centro di gestione delle crisi.",
+            "es": "A la derecha vemos el extenso edificio de la Oficina del Voivodato de Baja Silesia. Tiene más de mil habitaciones y más de una docena de kilómetros de pasillos. Antes de la Segunda Guerra Mundial se ocultó aquí un poderoso refugio antiaéreo, donde hoy se halla un centro de gestión de crisis.",
+            "uk": "Праворуч ми бачимо просторий будинок Нижньосілезького воєводського управління. У ньому понад тисяча приміщень і більш ніж десяток кілометрів коридорів. Перед Другою світовою війною тут сховали потужне протиповітряне бомбосховище, у якому розташований центр кризового управління.",
+            "fr": "Sur la droite, nous voyons le vaste bâtiment de l'Office de la voïvodie de Basse-Silésie. Il compte plus de mille pièces et plus d'une dizaine de kilomètres de couloirs. Avant la Seconde Guerre mondiale, un puissant abri antiaérien y fut dissimulé, et il abrite un centre de gestion de crise."
+        },
+        {
+            "kind": "text",
+            "pl": "Przed nami pojawia się jedna z największych ikon miasta — Most Grunwaldzki.",
+            "en": "Ahead of us appears one of the city's greatest icons — the Grunwald Bridge.",
+            "de": "Vor uns erscheint eines der größten Wahrzeichen der Stadt — die Grunwald-Brücke.",
+            "it": "Davanti a noi appare una delle più grandi icone della città — il Ponte di Grunwald.",
+            "es": "Ante nosotros aparece uno de los mayores iconos de la ciudad — el Puente de Grunwald.",
+            "uk": "Перед нами з'являється одна з найбільших ікон міста — Грюнвальдський міст.",
+            "fr": "Devant nous apparaît l'une des plus grandes icônes de la ville — le pont de Grunwald."
+        },
+        {
+            "kind": "text",
+            "pl": "Charakterystyczna niebieska, stalowa konstrukcja została otwarta na początku dwudziestego wieku. Początkowo most nosił nazwę Mostu Cesarskiego. Po pierwszej wojnie światowej przemianowano go na Most Wolności, a później na Most Grunwaldzki.",
+            "en": "This distinctive blue steel structure was opened at the beginning of the twentieth century. Initially the bridge was called the Imperial Bridge. After the First World War it was renamed the Freedom Bridge, and later the Grunwald Bridge.",
+            "de": "Diese markante blaue Stahlkonstruktion wurde Anfang des zwanzigsten Jahrhunderts eröffnet. Anfangs hieß die Brücke Kaiserbrücke. Nach dem Ersten Weltkrieg wurde sie in Freiheitsbrücke und später in Grunwald-Brücke umbenannt.",
+            "it": "Questa caratteristica struttura blu in acciaio fu inaugurata all'inizio del ventesimo secolo. Inizialmente il ponte si chiamava Ponte Imperiale. Dopo la Prima guerra mondiale fu ribattezzato Ponte della Libertà, e in seguito Ponte di Grunwald.",
+            "es": "Esta característica estructura azul de acero se inauguró a principios del siglo veinte. Inicialmente el puente se llamaba Puente Imperial. Tras la Primera Guerra Mundial se le rebautizó como Puente de la Libertad, y más tarde como Puente de Grunwald.",
+            "uk": "Характерну синю сталеву конструкцію відкрили на початку двадцятого століття. Спершу міст мав назву Імператорський міст. Після Першої світової війни його перейменували на Міст Свободи, а пізніше — на Грюнвальдський міст.",
+            "fr": "Cette structure bleue caractéristique en acier a été inaugurée au début du vingtième siècle. À l'origine, le pont portait le nom de pont Impérial. Après la Première Guerre mondiale, il fut rebaptisé pont de la Liberté, puis pont de Grunwald."
+        },
+        {
+            "kind": "text",
+            "pl": "Za mostem po prawej stronie widzimy nietypowy budynek unoszący się na wodzie. To Odra Centrum — nowoczesne centrum edukacyjne poświęcone rzece i ekologii. Można tutaj napić się kawy, wypożyczyć kajak i dowiedzieć się więcej o życiu Odry.",
+            "en": "Beyond the bridge, on the right, we see an unusual building floating on the water. This is the Odra Centrum — a modern educational centre dedicated to the river and ecology. Here you can have a coffee, rent a kayak and learn more about the life of the Oder.",
+            "de": "Hinter der Brücke sehen wir auf der rechten Seite ein ungewöhnliches Gebäude, das auf dem Wasser schwimmt. Das ist das Odra Centrum — ein modernes Bildungszentrum, das dem Fluss und der Ökologie gewidmet ist. Hier kann man einen Kaffee trinken, ein Kajak ausleihen und mehr über das Leben der Oder erfahren.",
+            "it": "Oltre il ponte, sulla destra, vediamo un edificio insolito che galleggia sull'acqua. È l'Odra Centrum — un moderno centro educativo dedicato al fiume e all'ecologia. Qui si può prendere un caffè, noleggiare un kayak e scoprire di più sulla vita dell'Oder.",
+            "es": "Pasado el puente, a la derecha, vemos un edificio singular que flota sobre el agua. Es el Odra Centrum — un moderno centro educativo dedicado al río y a la ecología. Aquí se puede tomar un café, alquilar un kayak y conocer más sobre la vida del Óder.",
+            "uk": "За мостом праворуч ми бачимо незвичайну будівлю, що тримається на воді. Це Odra Centrum — сучасний освітній центр, присвячений річці та екології. Тут можна випити кави, орендувати каяк і дізнатися більше про життя Одри.",
+            "fr": "Au-delà du pont, sur la droite, nous voyons un bâtiment insolite qui flotte sur l'eau. C'est l'Odra Centrum — un centre éducatif moderne consacré à la rivière et à l'écologie. On peut y boire un café, louer un kayak et en apprendre davantage sur la vie de l'Oder."
+        },
+        {
+            "kind": "text",
+            "pl": "Zaraz za nim po prawej stornie widzimy pierwszy w Polsce prywatny dom na wodzie. Od ponad dekady przyciąga uwagę mieszkańców i turystów.",
+            "en": "Just beyond it, on the right, we see the first private floating house in Poland. For over a decade it has attracted the attention of residents and tourists.",
+            "de": "Gleich dahinter sehen wir auf der rechten Seite das erste private Hausboot Polens. Seit über einem Jahrzehnt zieht es die Aufmerksamkeit von Einwohnern und Touristen auf sich.",
+            "it": "Subito dopo, sulla destra, vediamo la prima casa galleggiante privata della Polonia. Da oltre un decennio attira l'attenzione di residenti e turisti.",
+            "es": "Justo detrás, a la derecha, vemos la primera casa flotante privada de Polonia. Desde hace más de una década atrae la atención de vecinos y turistas.",
+            "uk": "Одразу за ним праворуч ми бачимо перший у Польщі приватний будинок на воді. Уже понад десятиліття він привертає увагу мешканців і туристів.",
+            "fr": "Juste après, sur la droite, nous voyons la première maison flottante privée de Pologne. Depuis plus d'une décennie, elle attire l'attention des habitants et des touristes."
+        },
+        {
+            "kind": "text",
+            "pl": "Choć płyniemy cały czas pod prąd Odry, po prawej stronie można zauważyć ujście innej rzeki — Oławy. Jest znacznie spokojniejsza i mniej uczęszczana przez statki przez co przyciąga kajakarzy.",
+            "en": "Although we are sailing the whole time against the current of the Oder, on the right you can notice the mouth of another river — the Oława. It is much calmer and less frequented by boats, which is why it attracts kayakers.",
+            "de": "Obwohl wir die ganze Zeit gegen die Strömung der Oder fahren, kann man auf der rechten Seite die Mündung eines anderen Flusses bemerken — der Ohle (Oława). Sie ist deutlich ruhiger und weniger von Schiffen befahren, weshalb sie Kanufahrer anzieht.",
+            "it": "Pur navigando sempre controcorrente sull'Oder, sulla destra si può notare la foce di un altro fiume — l'Oława. È molto più tranquillo e meno frequentato dalle imbarcazioni, motivo per cui attira i canoisti.",
+            "es": "Aunque navegamos todo el tiempo contra la corriente del Óder, a la derecha se puede apreciar la desembocadura de otro río — el Oława. Es mucho más tranquilo y menos transitado por las embarcaciones, por lo que atrae a los piragüistas.",
+            "uk": "Хоча ми весь час пливемо проти течії Одри, праворуч можна помітити гирло іншої річки — Олави. Вона значно спокійніша й менш завантажена суднами, через що приваблює байдарочників.",
+            "fr": "Bien que nous naviguions tout le temps à contre-courant de l'Oder, on peut apercevoir sur la droite l'embouchure d'une autre rivière — l'Oława. Elle est beaucoup plus calme et moins fréquentée par les bateaux, ce qui attire les amateurs de kayak."
+        },
+        {
+            "kind": "text",
+            "pl": "Widoczna przed nami wysoka czerwona wieża to dawna wieża ciśnień, która kiedyś zaopatrywała w wodę nawet dwieście tysięcy mieszkańców miasta.",
+            "en": "The tall red tower visible ahead of us is a former water tower, which once supplied water to as many as two hundred thousand inhabitants of the city.",
+            "de": "Der vor uns sichtbare hohe rote Turm ist ein ehemaliger Wasserturm, der einst bis zu zweihunderttausend Einwohner der Stadt mit Wasser versorgte.",
+            "it": "L'alta torre rossa visibile davanti a noi è un'antica torre dell'acqua, che un tempo riforniva d'acqua fino a duecentomila abitanti della città.",
+            "es": "La alta torre roja que vemos delante es una antigua torre de agua que en su día abastecía de agua a hasta doscientos mil habitantes de la ciudad.",
+            "uk": "Висока червона вежа, яку видно попереду, — це колишня водонапірна вежа, що колись постачала водою аж двісті тисяч мешканців міста.",
+            "fr": "La haute tour rouge visible devant nous est un ancien château d'eau qui approvisionnait jadis en eau jusqu'à deux cent mille habitants de la ville."
+        },
+        {
+            "kind": "text",
+            "pl": "Obok niej, niestety niewidoczne z poziomu rzeki, znajduje się Hydropolis — nowoczesne centrum wiedzy o wodzie. To jedno z najciekawszych miejsc edukacyjnych we Wrocławiu, szczególnie dla rodzin z dziećmi.",
+            "en": "Next to it, unfortunately not visible from the level of the river, is Hydropolis — a modern centre of knowledge about water. It is one of the most interesting educational sites in Wrocław, especially for families with children.",
+            "de": "Daneben befindet sich, vom Fluss aus leider nicht sichtbar, Hydropolis — ein modernes Wissenszentrum über das Wasser. Es ist einer der interessantesten Bildungsorte in Breslau, besonders für Familien mit Kindern.",
+            "it": "Accanto ad essa, purtroppo non visibile dal livello del fiume, si trova Hydropolis — un moderno centro di conoscenza sull'acqua. È uno dei luoghi educativi più interessanti di Breslavia, soprattutto per le famiglie con bambini.",
+            "es": "Junto a ella, lamentablemente no visible desde el nivel del río, se encuentra Hydropolis — un moderno centro de conocimiento sobre el agua. Es uno de los lugares educativos más interesantes de Breslavia, especialmente para familias con niños.",
+            "uk": "Поряд із нею, на жаль, не видно з рівня річки, розташований Hydropolis — сучасний центр знань про воду. Це одне з найцікавіших освітніх місць у Вроцлаві, особливо для родин із дітьми.",
+            "fr": "À côté, malheureusement invisible depuis le niveau de la rivière, se trouve Hydropolis — un centre moderne de connaissances sur l'eau. C'est l'un des lieux éducatifs les plus intéressants de Wrocław, en particulier pour les familles avec enfants."
+        },
+        {
+            "kind": "text",
+            "pl": "Przed wieżą ciśnień spoglądając w górę widzimy rozciągnięte nad Odrą stalowe liny. Porusza się po nich Polinka — kolej linowa Politechniki Wrocławskiej. Łączy ona dwa kampusy uczelni po przeciwnych stronach rzeki.",
+            "en": "In front of the water tower, looking up, we see steel cables stretched over the Oder. The Polinka travels along them — the cable car of the Wrocław University of Science and Technology. It connects the university's two campuses on opposite sides of the river.",
+            "de": "Vor dem Wasserturm sehen wir, wenn wir nach oben blicken, über die Oder gespannte Stahlseile. Auf ihnen bewegt sich die Polinka — die Seilbahn der Technischen Universität Breslau. Sie verbindet die beiden Campus der Hochschule auf den gegenüberliegenden Flussufern.",
+            "it": "Davanti alla torre dell'acqua, guardando in alto, vediamo dei cavi d'acciaio tesi sopra l'Oder. Su di essi si muove la Polinka — la funivia del Politecnico di Breslavia. Collega i due campus dell'ateneo sulle sponde opposte del fiume.",
+            "es": "Delante de la torre de agua, al mirar hacia arriba, vemos unos cables de acero tendidos sobre el Óder. Por ellos se desplaza la Polinka — el teleférico de la Universidad Politécnica de Breslavia. Une los dos campus de la institución en las orillas opuestas del río.",
+            "uk": "Перед водонапірною вежею, поглянувши вгору, ми бачимо натягнуті над Одрою сталеві троси. Ними рухається Polinka — канатна дорога Вроцлавської політехніки. Вона з'єднує два кампуси закладу на протилежних берегах річки.",
+            "fr": "Devant le château d'eau, en levant les yeux, nous voyons des câbles d'acier tendus au-dessus de l'Oder. Le Polinka s'y déplace — le téléphérique de l'École polytechnique de Wrocław. Il relie les deux campus de l'établissement situés sur les rives opposées de la rivière."
+        },
+        {
+            "kind": "text",
+            "pl": "Dla studentów to codzienny środek transportu, a dla turystów jedna z ciekawszych atrakcji miasta. W cenie zwykłego biletu komunikacji miejskiej można przejechać nad Odrą i podziwiać panoramę miasta z góry.",
+            "en": "For students it is a daily means of transport, and for tourists one of the city's more interesting attractions. With an ordinary public transport ticket you can ride over the Oder and admire the panorama of the city from above.",
+            "de": "Für Studenten ist sie ein alltägliches Verkehrsmittel, für Touristen eine der interessanteren Attraktionen der Stadt. Zum Preis eines gewöhnlichen Nahverkehrstickets kann man über die Oder fahren und das Stadtpanorama von oben bewundern.",
+            "it": "Per gli studenti è un mezzo di trasporto quotidiano, mentre per i turisti è una delle attrazioni più interessanti della città. Con il prezzo di un normale biglietto dei trasporti pubblici si può attraversare l'Oder e ammirare il panorama della città dall'alto.",
+            "es": "Para los estudiantes es un medio de transporte cotidiano, y para los turistas una de las atracciones más interesantes de la ciudad. Con el precio de un billete normal de transporte público se puede cruzar sobre el Óder y admirar el panorama de la ciudad desde lo alto.",
+            "uk": "Для студентів це щоденний засіб транспорту, а для туристів — одна з цікавіших атракцій міста. За ціною звичайного квитка громадського транспорту можна проїхати над Одрою й помилуватися панорамою міста згори.",
+            "fr": "Pour les étudiants, c'est un moyen de transport quotidien, et pour les touristes, l'une des attractions les plus intéressantes de la ville. Avec un simple billet de transport en commun, on peut traverser l'Oder et admirer le panorama de la ville d'en haut."
+        },
+        {
+            "kind": "text",
+            "pl": "W cenie biletu autobusowego każdy mieszkaniec i turysta mogą nią podróżować od poniedziałku do piątku podziwiając przez nieco ponad dwie minuty panoramę Odry.",
+            "en": "For the price of a bus ticket, every resident and tourist can travel on it from Monday to Friday, admiring the panorama of the Oder for a little over two minutes.",
+            "de": "Zum Preis eines Bustickets können jeder Einwohner und Tourist von Montag bis Freitag mit ihr fahren und etwas mehr als zwei Minuten lang das Panorama der Oder bewundern.",
+            "it": "Con il prezzo di un biglietto dell'autobus, ogni residente e turista può viaggiarci dal lunedì al venerdì, ammirando per poco più di due minuti il panorama dell'Oder.",
+            "es": "Con el precio de un billete de autobús, todo vecino y turista puede viajar en él de lunes a viernes, admirando durante algo más de dos minutos el panorama del Óder.",
+            "uk": "За ціною автобусного квитка кожен мешканець і турист може скористатися нею з понеділка по п'ятницю, милуючись трохи більше ніж дві хвилини панорамою Одри.",
+            "fr": "Avec le prix d'un billet de bus, chaque habitant et chaque touriste peut l'emprunter du lundi au vendredi, en admirant pendant un peu plus de deux minutes le panorama de l'Oder."
+        },
+        {
+            "kind": "text",
+            "pl": "Z mijanym niebieskim mostem grunwaldzkim związanych jest wiele legend.",
+            "en": "Many legends are associated with the blue Grunwald Bridge we are passing.",
+            "de": "Mit der blauen Grunwald-Brücke, die wir passieren, sind viele Legenden verbunden.",
+            "it": "Al ponte blu di Grunwald che stiamo oltrepassando sono legate molte leggende.",
+            "es": "Con el puente azul de Grunwald que estamos pasando se asocian muchas leyendas.",
+            "uk": "Із синім Грюнвальдським мостом, який ми минаємо, пов'язано чимало легенд.",
+            "fr": "De nombreuses légendes sont associées au pont bleu de Grunwald que nous longeons."
+        },
+        {
+            "kind": "text",
+            "pl": "Jedna z nich mówi o głównym konstruktorze, który podobno tuż przed otwarciem mostu odebrał sobie życie w obawie, że popełnił błąd w obliczeniach i konstrukcja runie do Odry. Na szczęście most stoi do dziś i jest jednym z symboli Wrocławia.",
+            "en": "One of them tells of the chief engineer who, just before the bridge was opened, supposedly took his own life out of fear that he had made an error in his calculations and that the structure would collapse into the Oder. Fortunately, the bridge still stands today and is one of the symbols of Wrocław.",
+            "de": "Eine von ihnen erzählt von dem Chefkonstrukteur, der sich angeblich kurz vor der Eröffnung der Brücke das Leben nahm, aus Angst, er habe einen Rechenfehler gemacht und das Bauwerk werde in die Oder stürzen. Zum Glück steht die Brücke bis heute und ist eines der Wahrzeichen Breslaus.",
+            "it": "Una di esse parla del costruttore capo che, pare, poco prima dell'inaugurazione del ponte si tolse la vita per il timore di aver commesso un errore nei calcoli e che la struttura sarebbe crollata nell'Oder. Per fortuna il ponte è ancora in piedi oggi ed è uno dei simboli di Breslavia.",
+            "es": "Una de ellas habla del ingeniero jefe que, al parecer, justo antes de la inauguración del puente se quitó la vida por temor a haber cometido un error en los cálculos y a que la estructura se desplomara en el Óder. Por suerte, el puente sigue en pie hoy y es uno de los símbolos de Breslavia.",
+            "uk": "Одна з них розповідає про головного конструктора, який нібито незадовго до відкриття моста наклав на себе руки, боячись, що припустився помилки в розрахунках і конструкція впаде в Одру. На щастя, міст стоїть донині й є одним із символів Вроцлава.",
+            "fr": "L'une d'elles évoque l'ingénieur en chef qui, dit-on, se serait donné la mort juste avant l'inauguration du pont, par crainte d'avoir commis une erreur dans ses calculs et que la structure ne s'effondre dans l'Oder. Heureusement, le pont tient toujours debout aujourd'hui et constitue l'un des symboles de Wrocław."
+        },
+        {
+            "kind": "text",
+            "pl": "Druga legenda opowiada o zakochanym pilocie, który w latach pięćdziesiątych przeleciał małym samolotem pod mostem, chcąc zaimponować kobiecie stojącej na brzegu.",
+            "en": "The second legend tells of a lovestruck pilot who, in the nineteen-fifties, flew a small plane under the bridge in order to impress a woman standing on the bank.",
+            "de": "Die zweite Legende erzählt von einem verliebten Piloten, der in den fünfziger Jahren mit einem kleinen Flugzeug unter der Brücke hindurchflog, um einer Frau zu imponieren, die am Ufer stand.",
+            "it": "La seconda leggenda racconta di un pilota innamorato che, negli anni cinquanta, volò con un piccolo aereo sotto il ponte per fare colpo su una donna che si trovava sulla riva.",
+            "es": "La segunda leyenda cuenta la historia de un piloto enamorado que, en los años cincuenta, voló con una pequeña avioneta por debajo del puente para impresionar a una mujer que estaba en la orilla.",
+            "uk": "Друга легенда розповідає про закоханого пілота, який у п'ятдесятих роках пролетів невеликим літаком під мостом, прагнучи вразити жінку, що стояла на березі.",
+            "fr": "La seconde légende raconte l'histoire d'un pilote amoureux qui, dans les années cinquante, est passé en petit avion sous le pont pour impressionner une femme qui se tenait sur la rive."
+        }
+    ]
+}

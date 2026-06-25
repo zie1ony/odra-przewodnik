@@ -1,8 +1,0 @@
-<break time="3s"/>
-<break time="2s"/>
-
-Witamy serdecznie na pokładzie i zapraszamy na wyjątkowy rejs po Wrocławiu — mieście mostów, wysp, krasnali i niezwykłych historii.
-Herzlich willkommen an Bord, und wir laden Sie zu einer einzigartigen Fahrt durch Breslau ein — eine Stadt der Brücken, Inseln, Zwerge und außergewöhnlichen Geschichten.
-
-Za chwilę zobaczą Państwo miasto z zupełnie innej perspektywy — spokojniejszej, bardziej zielonej i pełnej detali, których często nie zauważa się z ulicy.
-Gleich werden Sie die Stadt aus einer ganz anderen Perspektive sehen — ruhiger, grüner und voller Details, die man von der Straße aus oft nicht bemerkt.

@@ -1,0 +1,245 @@
+{
+    "name": "part-3",
+    "lines": [
+        {
+            "kind": "break",
+            "duration_seconds": 5
+        },
+        {
+            "kind": "text",
+            "pl": "Historia Wrocławia liczy ponad tysiąc lat. W mieście na niespełna trzystu kilometrach kwadratowych mieszka szacunkowo ponad dziewięćset tysięcy osób. Miasto zajmuje trzecie miejsce w Polsce pod względem liczby ludności oraz siódme miejsce pod względem powierzchni.",
+            "en": "The history of Wrocław spans over a thousand years. In a city covering just under three hundred square kilometres, an estimated more than nine hundred thousand people live. The city ranks third in Poland in terms of population and seventh in terms of area.",
+            "de": "Die Geschichte Breslaus reicht über tausend Jahre zurück. In der Stadt, die knapp dreihundert Quadratkilometer umfasst, leben schätzungsweise über neunhunderttausend Menschen. Die Stadt belegt in Polen den dritten Platz nach Einwohnerzahl und den siebten Platz nach Fläche.",
+            "it": "La storia di Breslavia conta oltre mille anni. Nella città, che si estende su poco meno di trecento chilometri quadrati, vivono stimati oltre novecentomila abitanti. La città occupa il terzo posto in Polonia per numero di abitanti e il settimo per superficie.",
+            "es": "La historia de Breslavia abarca más de mil años. En la ciudad, que ocupa poco menos de trescientos kilómetros cuadrados, viven, según estimaciones, más de novecientas mil personas. La ciudad ocupa el tercer lugar de Polonia por número de habitantes y el séptimo por superficie.",
+            "uk": "Історія Вроцлава налічує понад тисячу років. У місті площею трохи менше ніж триста квадратних кілометрів мешкає, за оцінками, понад дев'ятсот тисяч осіб. Місто посідає третє місце в Польщі за кількістю населення та сьоме за площею.",
+            "fr": "L'histoire de Wrocław remonte à plus de mille ans. Dans la ville, qui s'étend sur un peu moins de trois cents kilomètres carrés, vivent, selon les estimations, plus de neuf cent mille personnes. La ville occupe la troisième place en Pologne par sa population et la septième par sa superficie."
+        },
+        {
+            "kind": "text",
+            "pl": "Miasto rozwijało się na skrzyżowaniu dawnych szlaków handlowych i przez wieki znajdowało się pod panowaniem Piastów, Czechów, Habsburgów, Prus oraz Niemiec. Dzięki temu dziś możemy podziwiać niezwykłą mieszankę architektury, kultur i tradycji.",
+            "en": "The city developed at the crossroads of old trade routes and over the centuries was under the rule of the Piasts, the Czechs, the Habsburgs, Prussia and Germany. Thanks to this, today we can admire an extraordinary blend of architecture, cultures and traditions.",
+            "de": "Die Stadt entwickelte sich an der Kreuzung alter Handelswege und stand über die Jahrhunderte unter der Herrschaft der Piasten, der Böhmen, der Habsburger, Preußens und Deutschlands. Dadurch können wir heute eine außergewöhnliche Mischung aus Architektur, Kulturen und Traditionen bewundern.",
+            "it": "La città si sviluppò all'incrocio di antiche vie commerciali e nel corso dei secoli fu sotto il dominio dei Piast, dei Boemi, degli Asburgo, della Prussia e della Germania. Per questo oggi possiamo ammirare una straordinaria mescolanza di architettura, culture e tradizioni.",
+            "es": "La ciudad se desarrolló en el cruce de antiguas rutas comerciales y durante siglos estuvo bajo el dominio de los Piast, los checos, los Habsburgo, Prusia y Alemania. Gracias a ello, hoy podemos admirar una extraordinaria mezcla de arquitectura, culturas y tradiciones.",
+            "uk": "Місто розвивалося на перехресті давніх торговельних шляхів і впродовж століть перебувало під владою П'ястів, чехів, Габсбургів, Пруссії та Німеччини. Завдяки цьому сьогодні ми можемо милуватися незвичайною сумішшю архітектури, культур і традицій.",
+            "fr": "La ville s'est développée au carrefour d'anciennes routes commerciales et fut, au fil des siècles, sous la domination des Piast, des Tchèques, des Habsbourg, de la Prusse et de l'Allemagne. Grâce à cela, nous pouvons aujourd'hui admirer un extraordinaire mélange d'architecture, de cultures et de traditions."
+        },
+        {
+            "kind": "text",
+            "pl": "Nasz rejs odbywa się po Odrze — drugiej najdłuższej rzece w Polsce. Co ciekawe, w granicach miasta płynie aż siedem rzek, znajduje się dwanaście wysp i ponad sto mostów oraz kładek.",
+            "en": "Our cruise takes place on the Oder — the second longest river in Poland. Interestingly, as many as seven rivers flow within the city limits, and there are twelve islands and over a hundred bridges and footbridges.",
+            "de": "Unsere Fahrt findet auf der Oder statt — dem zweitlängsten Fluss Polens. Interessanterweise fließen innerhalb der Stadtgrenzen gleich sieben Flüsse, und es gibt zwölf Inseln sowie über hundert Brücken und Stege.",
+            "it": "La nostra escursione si svolge sull'Oder — il secondo fiume più lungo della Polonia. Curiosamente, entro i confini della città scorrono ben sette fiumi, vi sono dodici isole e oltre cento ponti e passerelle.",
+            "es": "Nuestro paseo se realiza por el Óder — el segundo río más largo de Polonia. Curiosamente, dentro de los límites de la ciudad fluyen nada menos que siete ríos, hay doce islas y más de cien puentes y pasarelas.",
+            "uk": "Наша прогулянка відбувається по Одрі — другій за довжиною річці Польщі. Цікаво, що в межах міста протікає аж сім річок, налічується дванадцять островів і понад сто мостів та кладок.",
+            "fr": "Notre croisière se déroule sur l'Oder — le deuxième plus long fleuve de Pologne. Fait intéressant, sept rivières coulent dans les limites de la ville, qui compte douze îles et plus de cent ponts et passerelles."
+        },
+        {
+            "kind": "text",
+            "pl": "Właśnie dlatego Wrocław bywa często nazywany Wenecją Północy. Czy słusznie? Po zakończeniu rejsu będą mogli Państwo ocenić to sami.",
+            "en": "That is precisely why Wrocław is often called the Venice of the North. Rightly so? After the cruise ends, you will be able to judge for yourselves.",
+            "de": "Genau deshalb wird Breslau oft das Venedig des Nordens genannt. Zu Recht? Nach dem Ende der Fahrt können Sie das selbst beurteilen.",
+            "it": "Proprio per questo Breslavia viene spesso chiamata la Venezia del Nord. A ragione? Al termine dell'escursione potrete giudicarlo voi stessi.",
+            "es": "Precisamente por eso a Breslavia se la llama a menudo la Venecia del Norte. ¿Con razón? Al terminar el paseo, podrán juzgarlo ustedes mismos.",
+            "uk": "Саме тому Вроцлав часто називають Венецією Півночі. Чи слушно? Після завершення прогулянки ви зможете оцінити це самі.",
+            "fr": "C'est précisément pour cela que Wrocław est souvent appelée la Venise du Nord. À juste titre ? À la fin de la croisière, vous pourrez en juger par vous-mêmes."
+        },
+        {
+            "kind": "text",
+            "pl": "W tysiąc dziewięćset dziewięćdziesiątym siódmym roku Wrocław doświadczył jednej z największych katastrof naturalnych w swojej historii — tak zwanej powodzi tysiąclecia.",
+            "en": "In the year nineteen ninety-seven, Wrocław experienced one of the greatest natural disasters in its history — the so-called flood of the millennium.",
+            "de": "Im Jahr neunzehnhundertsiebenundneunzig erlebte Breslau eine der größten Naturkatastrophen seiner Geschichte — das sogenannte Jahrtausendhochwasser.",
+            "it": "Nel millenovecentonovantasette Breslavia subì una delle più grandi catastrofi naturali della sua storia — la cosiddetta alluvione del millennio.",
+            "es": "En el año mil novecientos noventa y siete, Breslavia sufrió una de las mayores catástrofes naturales de su historia — la llamada inundación del milenio.",
+            "uk": "У тисяча дев'ятсот дев'яносто сьомому році Вроцлав пережив одну з найбільших природних катастроф у своїй історії — так звану повінь тисячоліття.",
+            "fr": "En mille neuf cent quatre-vingt-dix-sept, Wrocław a connu l'une des plus grandes catastrophes naturelles de son histoire — la fameuse crue du millénaire."
+        },
+        {
+            "kind": "text",
+            "pl": "Woda zalała wtedy niemal czterdzieści procent powierzchni miasta. Pod wodą znalazły się tysiące mieszkań i budynków, a poziom Odry w niektórych miejscach sięgał kilku metrów. Dla mieszkańców był to niezwykle trudny czas, ale również moment ogromnej solidarności.",
+            "en": "The water then flooded almost forty percent of the city's area. Thousands of flats and buildings were submerged, and the level of the Oder reached several metres in some places. For the inhabitants it was an extremely difficult time, but also a moment of immense solidarity.",
+            "de": "Das Wasser überflutete damals fast vierzig Prozent der Stadtfläche. Tausende Wohnungen und Gebäude standen unter Wasser, und der Pegel der Oder erreichte an manchen Stellen mehrere Meter. Für die Einwohner war es eine äußerst schwierige Zeit, aber auch ein Moment großer Solidarität.",
+            "it": "L'acqua allagò allora quasi il quaranta per cento della superficie della città. Migliaia di appartamenti ed edifici finirono sott'acqua, e il livello dell'Oder in alcuni punti raggiunse diversi metri. Per gli abitanti fu un periodo estremamente difficile, ma anche un momento di enorme solidarietà.",
+            "es": "El agua inundó entonces casi el cuarenta por ciento de la superficie de la ciudad. Miles de viviendas y edificios quedaron bajo el agua, y el nivel del Óder alcanzó en algunos lugares varios metros. Para los habitantes fue un tiempo extremadamente difícil, pero también un momento de enorme solidaridad.",
+            "uk": "Вода тоді затопила майже сорок відсотків площі міста. Під водою опинилися тисячі квартир і будівель, а рівень Одри в деяких місцях сягав кількох метрів. Для мешканців це був надзвичайно важкий час, але водночас момент величезної солідарності.",
+            "fr": "L'eau a alors inondé près de quarante pour cent de la superficie de la ville. Des milliers d'appartements et de bâtiments se sont retrouvés sous l'eau, et le niveau de l'Oder atteignait par endroits plusieurs mètres. Pour les habitants, ce fut une période extrêmement difficile, mais aussi un moment d'immense solidarité."
+        },
+        {
+            "kind": "break",
+            "duration_seconds": 5
+        },
+        {
+            "kind": "text",
+            "pl": "Widoczne po lewej stornie nabrzeże to Bulwar Xawerego Dunikowskiego – jedna z najpopularniejszych i najatrakcyjniejszych tras spacerowych w mieście. Oferuje wyjątkowy, panoramiczny widok na zabytkowy Ostrów Tumski oraz wrocławskie wyspy.",
+            "en": "The embankment visible on the left is the Xawery Dunikowski Boulevard — one of the most popular and attractive walking routes in the city. It offers a unique panoramic view of the historic Ostrów Tumski and the islands of Wrocław.",
+            "de": "Die auf der linken Seite sichtbare Uferpromenade ist der Xawery-Dunikowski-Boulevard — eine der beliebtesten und reizvollsten Spazierrouten der Stadt. Er bietet einen einzigartigen Panoramablick auf das historische Ostrów Tumski und die Breslauer Inseln.",
+            "it": "Il lungofiume visibile sulla sinistra è il Boulevard Xawery Dunikowski — uno dei percorsi pedonali più popolari e suggestivi della città. Offre una vista panoramica unica sullo storico Ostrów Tumski e sulle isole di Breslavia.",
+            "es": "El paseo ribereño visible a la izquierda es el Bulevar Xawery Dunikowski — una de las rutas para pasear más populares y atractivas de la ciudad. Ofrece una vista panorámica única del histórico Ostrów Tumski y de las islas de Breslavia.",
+            "uk": "Набережна, яку видно ліворуч, — це бульвар Ксаверія Дуниковського, один із найпопулярніших і найпривабливіших прогулянкових маршрутів міста. Він пропонує неповторний панорамний вид на історичний Тумський острів та вроцлавські острови.",
+            "fr": "Le quai visible sur la gauche est le boulevard Xawery Dunikowski — l'un des itinéraires de promenade les plus populaires et les plus attrayants de la ville. Il offre une vue panoramique unique sur le quartier historique d'Ostrów Tumski et sur les îles de Wrocław."
+        },
+        {
+            "kind": "text",
+            "pl": "Za bulwarem widoczny żółty budynek to główny gmach Akademii Sztuk Pięknych.",
+            "en": "Beyond the boulevard, the yellow building you can see is the main building of the Academy of Fine Arts.",
+            "de": "Hinter dem Boulevard ist das gelbe Gebäude das Hauptgebäude der Akademie der Bildenden Künste.",
+            "it": "Oltre il boulevard, l'edificio giallo visibile è la sede principale dell'Accademia di Belle Arti.",
+            "es": "Más allá del bulevar, el edificio amarillo que se ve es la sede principal de la Academia de Bellas Artes.",
+            "uk": "За бульваром видно жовту будівлю — це головний корпус Академії мистецтв.",
+            "fr": "Au-delà du boulevard, le bâtiment jaune que l'on aperçoit est le bâtiment principal de l'Académie des beaux-arts."
+        },
+        {
+            "kind": "break",
+            "duration_seconds": 5
+        },
+        {
+            "kind": "text",
+            "pl": "Przed nami czerwony Most Piaskowy. To jeden z najstarszych mostów w mieście i jeden z najbardziej romantycznych zakątków Wrocławia. Most został wybudowany w dziewiętnastym wieku i do dziś zachował swój historyczny charakter. Przez wiele lat był ważnym połączeniem handlowym pomiędzy centrum miasta a Ostrowem Tumskim.",
+            "en": "Ahead of us is the red Sand Bridge. It is one of the oldest bridges in the city and one of the most romantic spots in Wrocław. The bridge was built in the nineteenth century and has retained its historic character to this day. For many years it was an important commercial link between the city centre and Ostrów Tumski.",
+            "de": "Vor uns liegt die rote Sandbrücke. Sie ist eine der ältesten Brücken der Stadt und einer der romantischsten Winkel Breslaus. Die Brücke wurde im neunzehnten Jahrhundert errichtet und hat bis heute ihren historischen Charakter bewahrt. Viele Jahre lang war sie eine wichtige Handelsverbindung zwischen dem Stadtzentrum und Ostrów Tumski.",
+            "it": "Davanti a noi c'è il rosso Ponte della Sabbia. È uno dei ponti più antichi della città e uno degli angoli più romantici di Breslavia. Il ponte fu costruito nel diciannovesimo secolo e ha conservato fino a oggi il suo carattere storico. Per molti anni fu un importante collegamento commerciale tra il centro della città e Ostrów Tumski.",
+            "es": "Ante nosotros está el rojo Puente de la Arena. Es uno de los puentes más antiguos de la ciudad y uno de los rincones más románticos de Breslavia. El puente se construyó en el siglo diecinueve y ha conservado hasta hoy su carácter histórico. Durante muchos años fue un importante enlace comercial entre el centro de la ciudad y Ostrów Tumski.",
+            "uk": "Перед нами червоний Піщаний міст. Це один із найстаріших мостів міста й один із найромантичніших куточків Вроцлава. Міст збудували в дев'ятнадцятому столітті, і донині він зберіг свій історичний характер. Упродовж багатьох років він був важливим торговельним сполученням між центром міста та Тумським островом.",
+            "fr": "Devant nous se trouve le pont de Sable rouge. C'est l'un des plus anciens ponts de la ville et l'un des coins les plus romantiques de Wrocław. Le pont a été construit au dix-neuvième siècle et a conservé jusqu'à aujourd'hui son caractère historique. Pendant de nombreuses années, il a constitué une importante liaison commerciale entre le centre-ville et Ostrów Tumski."
+        },
+        {
+            "kind": "text",
+            "pl": "Prosimy teraz o szczególne skupienie, ponieważ tuż przy lustrze wody, po prawej stronie przed mostem, można zauważyć niewielką figurkę krasnala.",
+            "en": "We now ask for your special attention, because right at the water's surface, on the right before the bridge, you can spot a small figurine of a dwarf.",
+            "de": "Wir bitten Sie nun um besondere Aufmerksamkeit, denn direkt an der Wasseroberfläche, auf der rechten Seite vor der Brücke, kann man eine kleine Zwergenfigur entdecken.",
+            "it": "Vi chiediamo ora particolare attenzione, perché proprio a pelo d'acqua, sulla destra prima del ponte, si può notare una piccola statuetta di uno gnomo.",
+            "es": "Les pedimos ahora especial atención, porque justo a ras del agua, a la derecha, antes del puente, se puede ver una pequeña figura de un enanito.",
+            "uk": "Просимо тепер про особливу увагу, бо просто біля поверхні води, праворуч перед мостом, можна помітити невеличку фігурку гнома.",
+            "fr": "Nous vous demandons maintenant une attention particulière, car juste au ras de l'eau, sur la droite, avant le pont, on peut apercevoir une petite figurine de nain."
+        },
+        {
+            "kind": "text",
+            "pl": "To Pracz Odrzański — jeden z najbardziej znanych wrocławskich krasnali. Legenda mówi, że był bardzo niegrzeczny i za karę musi prać brudną bieliznę wszystkich krasnali mieszkających w mieście.",
+            "en": "This is the Oder Washerman — one of the best-known Wrocław dwarves. Legend has it that he was very naughty and, as a punishment, must wash the dirty laundry of all the dwarves living in the city.",
+            "de": "Das ist der Oderwäscher — einer der bekanntesten Breslauer Zwerge. Der Legende nach war er sehr ungezogen und muss zur Strafe die schmutzige Wäsche aller in der Stadt lebenden Zwerge waschen.",
+            "it": "È il Lavandaio dell'Oder — uno degli gnomi più famosi di Breslavia. La leggenda narra che fosse molto monello e che, per punizione, debba lavare la biancheria sporca di tutti gli gnomi che vivono in città.",
+            "es": "Es el Lavandero del Óder — uno de los enanitos más conocidos de Breslavia. La leyenda dice que era muy travieso y que, como castigo, debe lavar la ropa sucia de todos los enanitos que viven en la ciudad.",
+            "uk": "Це Одрянський Прач — один із найвідоміших вроцлавських гномів. Легенда розповідає, що він був дуже неслухняним і на покарання мусить прати брудну білизну всіх гномів, які мешкають у місті.",
+            "fr": "C'est le Laveur de l'Oder — l'un des nains les plus célèbres de Wrocław. La légende raconte qu'il était très turbulent et que, en guise de punition, il doit laver le linge sale de tous les nains habitant la ville."
+        },
+        {
+            "kind": "text",
+            "pl": "Krasnale stały się dziś jednym z najważniejszych symboli Wrocławia. Według legend przypłynęły do miasta Odrą na małych tratwach, aby pomóc mieszkańcom walczyć ze złośliwym Chochlikiem Odrzańskim. Po zwycięstwie postanowiły zostać tutaj na stałe.",
+            "en": "Today the dwarves have become one of the most important symbols of Wrocław. According to legend, they sailed into the city along the Oder on small rafts to help the inhabitants fight the mischievous Oder Imp. After their victory, they decided to settle here for good.",
+            "de": "Die Zwerge sind heute zu einem der wichtigsten Symbole Breslaus geworden. Den Legenden zufolge kamen sie auf kleinen Flößen über die Oder in die Stadt, um den Einwohnern im Kampf gegen den boshaften Oderkobold zu helfen. Nach ihrem Sieg beschlossen sie, für immer hier zu bleiben.",
+            "it": "Gli gnomi sono diventati oggi uno dei simboli più importanti di Breslavia. Secondo le leggende, giunsero in città lungo l'Oder su piccole zattere per aiutare gli abitanti a combattere il dispettoso Folletto dell'Oder. Dopo la vittoria decisero di restare qui per sempre.",
+            "es": "Los enanitos se han convertido hoy en uno de los símbolos más importantes de Breslavia. Según las leyendas, llegaron a la ciudad por el Óder en pequeñas balsas para ayudar a los habitantes a luchar contra el malicioso Duende del Óder. Tras la victoria, decidieron quedarse aquí para siempre.",
+            "uk": "Гноми стали сьогодні одним із найважливіших символів Вроцлава. За легендами, вони припливли до міста Одрою на маленьких плотах, щоб допомогти мешканцям боротися зі злим Одрянським Бісеням. Після перемоги вони вирішили залишитися тут назавжди.",
+            "fr": "Les nains sont devenus aujourd'hui l'un des symboles les plus importants de Wrocław. Selon les légendes, ils sont arrivés dans la ville par l'Oder sur de petits radeaux pour aider les habitants à combattre le malicieux Lutin de l'Oder. Après la victoire, ils ont décidé de s'y installer définitivement."
+        },
+        {
+            "kind": "text",
+            "pl": "W rzeczywistości historia krasnali związana jest z ruchem Pomarańczowej Alternatywy działającym w latach osiemdziesiątych dwudziestego wieku. Była to pokojowa i pełna humoru forma protestu przeciwko komunistycznym władzom. Na murach miasta zaczęły wtedy pojawiać się malowane krasnale.",
+            "en": "In reality, the history of the dwarves is connected with the Orange Alternative movement, active in the nineteen-eighties. It was a peaceful and humorous form of protest against the communist authorities. Painted dwarves then began to appear on the city's walls.",
+            "de": "In Wirklichkeit ist die Geschichte der Zwerge mit der Bewegung Orange Alternative verbunden, die in den achtziger Jahren des zwanzigsten Jahrhunderts aktiv war. Es war eine friedliche und humorvolle Form des Protests gegen die kommunistische Obrigkeit. An den Mauern der Stadt erschienen damals gemalte Zwerge.",
+            "it": "In realtà la storia degli gnomi è legata al movimento Alternativa Arancione, attivo negli anni ottanta del Novecento. Era una forma di protesta pacifica e piena di umorismo contro le autorità comuniste. Sui muri della città iniziarono allora a comparire gnomi dipinti.",
+            "es": "En realidad, la historia de los enanitos está ligada al movimiento Alternativa Naranja, activo en los años ochenta del siglo veinte. Era una forma de protesta pacífica y llena de humor contra las autoridades comunistas. En los muros de la ciudad empezaron entonces a aparecer enanitos pintados.",
+            "uk": "Насправді історія гномів пов'язана з рухом «Помаранчева альтернатива», що діяв у вісімдесятих роках двадцятого століття. Це була мирна й сповнена гумору форма протесту проти комуністичної влади. На мурах міста почали тоді з'являтися намальовані гноми.",
+            "fr": "En réalité, l'histoire des nains est liée au mouvement de l'Alternative orange, actif dans les années quatre-vingt du vingtième siècle. C'était une forme de protestation pacifique et pleine d'humour contre les autorités communistes. Des nains peints ont alors commencé à apparaître sur les murs de la ville."
+        },
+        {
+            "kind": "text",
+            "pl": "Pierwszy pomnik krasnala — Papa Krasnal — stanął we Wrocławiu przy ulicy Świdnickiej na początku dwudziestego pierwszego wieku. Dziś w mieście jest ich już ponad tysiąc, a ich liczba nadal rośnie.",
+            "en": "The first dwarf statue — Papa Dwarf — was erected in Wrocław on Świdnicka Street at the beginning of the twenty-first century. Today there are already more than a thousand of them in the city, and their number is still growing.",
+            "de": "Die erste Zwergenfigur — Papa Zwerg — wurde in Breslau zu Beginn des einundzwanzigsten Jahrhunderts in der Świdnicka-Straße aufgestellt. Heute gibt es in der Stadt bereits über tausend von ihnen, und ihre Zahl wächst weiter.",
+            "it": "La prima statua di uno gnomo — Papà Gnomo — fu collocata a Breslavia in via Świdnicka all'inizio del ventunesimo secolo. Oggi in città ce ne sono già più di mille, e il loro numero continua a crescere.",
+            "es": "La primera estatua de un enanito — Papá Enanito — se erigió en Breslavia en la calle Świdnicka a principios del siglo veintiuno. Hoy ya hay en la ciudad más de mil, y su número sigue creciendo.",
+            "uk": "Перший пам'ятник гному — Папа Гном — постав у Вроцлаві на вулиці Свідницькій на початку двадцять першого століття. Сьогодні в місті їх уже понад тисячу, і їхня кількість далі зростає.",
+            "fr": "La première statue de nain — Papa Nain — a été érigée à Wrocław, rue Świdnicka, au début du vingt et unième siècle. Aujourd'hui, il y en a déjà plus de mille dans la ville, et leur nombre ne cesse de croître."
+        },
+        {
+            "kind": "break",
+            "duration_seconds": 5
+        },
+        {
+            "kind": "text",
+            "pl": "Powoli zbliżamy się do końca naszego rejsu.",
+            "en": "We are slowly approaching the end of our cruise.",
+            "de": "Wir nähern uns langsam dem Ende unserer Fahrt.",
+            "it": "Ci stiamo lentamente avvicinando alla fine della nostra escursione.",
+            "es": "Nos acercamos lentamente al final de nuestro paseo.",
+            "uk": "Ми поволі наближаємося до кінця нашої прогулянки.",
+            "fr": "Nous approchons lentement de la fin de notre croisière."
+        },
+        {
+            "kind": "text",
+            "pl": "Mamy nadzieję, że mogli Państwo choć przez chwilę poczuć wyjątkową atmosferę Wrocławia. Miasta spotkań, mostów, wysp i historii ukrytych nad wodą.",
+            "en": "We hope that, even if only for a moment, you have been able to feel the unique atmosphere of Wrocław. A city of encounters, bridges, islands and stories hidden by the water.",
+            "de": "Wir hoffen, dass Sie zumindest für einen Augenblick die einzigartige Atmosphäre Breslaus spüren konnten. Einer Stadt der Begegnungen, der Brücken, der Inseln und der am Wasser verborgenen Geschichten.",
+            "it": "Speriamo che abbiate potuto percepire, anche solo per un istante, l'atmosfera unica di Breslavia. Una città di incontri, di ponti, di isole e di storie nascoste lungo l'acqua.",
+            "es": "Esperamos que hayan podido sentir, aunque sea por un momento, la atmósfera única de Breslavia. Una ciudad de encuentros, de puentes, de islas y de historias ocultas junto al agua.",
+            "uk": "Сподіваємося, що ви змогли хоча б на мить відчути неповторну атмосферу Вроцлава. Міста зустрічей, мостів, островів та історій, прихованих біля води.",
+            "fr": "Nous espérons que vous avez pu ressentir, ne serait-ce qu'un instant, l'atmosphère unique de Wrocław. Une ville de rencontres, de ponts, d'îles et d'histoires cachées au bord de l'eau."
+        },
+        {
+            "kind": "text",
+            "pl": "Dziś coraz więcej osób odkrywa ją na nowo — spacerując po bulwarach, pływając kajakami lub wybierając się na rejs taki jak ten. Dziękujemy za wspólnie spędzony czas na Odrze.",
+            "en": "Today more and more people are rediscovering it — strolling along the boulevards, paddling kayaks or setting off on a cruise such as this one. Thank you for the time spent together on the Oder.",
+            "de": "Heute entdecken immer mehr Menschen sie aufs Neue — bei Spaziergängen entlang der Boulevards, beim Kajakfahren oder bei einer Fahrt wie dieser. Wir danken Ihnen für die gemeinsam auf der Oder verbrachte Zeit.",
+            "it": "Oggi sempre più persone la riscoprono — passeggiando lungo i lungofiumi, pagaiando in kayak o partecipando a un'escursione come questa. Vi ringraziamo per il tempo trascorso insieme sull'Oder.",
+            "es": "Hoy cada vez más personas la redescubren — paseando por los bulevares, navegando en kayak o embarcándose en un paseo como este. Gracias por el tiempo que hemos pasado juntos en el Óder.",
+            "uk": "Сьогодні дедалі більше людей відкривають його заново — прогулюючись бульварами, плаваючи на байдарках чи вирушаючи на прогулянку, подібну до цієї. Дякуємо за спільно проведений час на Одрі.",
+            "fr": "Aujourd'hui, de plus en plus de gens la redécouvrent — en se promenant le long des boulevards, en pagayant en kayak ou en partant pour une croisière comme celle-ci. Merci pour le temps passé ensemble sur l'Oder."
+        },
+        {
+            "kind": "break",
+            "duration_seconds": 5
+        },
+        {
+            "kind": "text",
+            "pl": "Audioprzewodnik, którego Państwo słuchają, jest autorskim projektem kapitana Pawła — wrocławskiego przewodnika, który od lat dzieli się swoją pasją do miasta i jego historii.",
+            "en": "The audio guide you are listening to is an original project by Captain Paweł — a Wrocław guide who has been sharing his passion for the city and its history for years.",
+            "de": "Der Audioguide, den Sie hören, ist ein eigenes Projekt von Kapitän Paweł — einem Breslauer Stadtführer, der seit Jahren seine Leidenschaft für die Stadt und ihre Geschichte teilt.",
+            "it": "L'audioguida che state ascoltando è un progetto originale del capitano Paweł — una guida di Breslavia che da anni condivide la sua passione per la città e la sua storia.",
+            "es": "La audioguía que están escuchando es un proyecto original del capitán Paweł — un guía de Breslavia que desde hace años comparte su pasión por la ciudad y su historia.",
+            "uk": "Аудіогід, який ви слухаєте, — це авторський проєкт капітана Павла, вроцлавського гіда, який уже багато років ділиться своєю пристрастю до міста та його історії.",
+            "fr": "L'audioguide que vous écoutez est un projet original du capitaine Paweł — un guide de Wrocław qui partage depuis des années sa passion pour la ville et son histoire."
+        },
+        {
+            "kind": "text",
+            "pl": "Jeżeli opowieści towarzyszące dzisiejszemu rejsowi pozwoliły Państwu spojrzeć na Wrocław z nowej perspektywy, dowiedzieć się czegoś ciekawego lub po prostu umiliły czas spędzony na Odrze, będą nam bardzo miło, jeśli zechcą Państwo wesprzeć dalszy rozwój tego projektu.",
+            "en": "If the stories accompanying today's cruise have allowed you to look at Wrocław from a new perspective, to learn something interesting, or simply made your time on the Oder more pleasant, we would be very glad if you would like to support the further development of this project.",
+            "de": "Wenn die Geschichten, die die heutige Fahrt begleitet haben, Ihnen einen neuen Blick auf Breslau ermöglicht, Ihnen etwas Interessantes vermittelt oder Ihnen einfach die Zeit auf der Oder angenehmer gemacht haben, würden wir uns sehr freuen, wenn Sie die weitere Entwicklung dieses Projekts unterstützen möchten.",
+            "it": "Se i racconti che hanno accompagnato l'escursione di oggi vi hanno permesso di guardare Breslavia da una nuova prospettiva, di scoprire qualcosa di interessante o semplicemente hanno reso più piacevole il tempo trascorso sull'Oder, ci farà molto piacere se vorrete sostenere l'ulteriore sviluppo di questo progetto.",
+            "es": "Si los relatos que han acompañado el paseo de hoy les han permitido mirar Breslavia desde una nueva perspectiva, descubrir algo interesante o simplemente han hecho más agradable el tiempo pasado en el Óder, nos alegrará mucho que quieran apoyar el desarrollo futuro de este proyecto.",
+            "uk": "Якщо розповіді, що супроводжували сьогоднішню прогулянку, дозволили вам поглянути на Вроцлав з нової перспективи, дізнатися щось цікаве або просто приємно провести час на Одрі, нам буде дуже приємно, якщо ви захочете підтримати подальший розвиток цього проєкту.",
+            "fr": "Si les récits qui ont accompagné la croisière d'aujourd'hui vous ont permis de regarder Wrocław sous un nouvel angle, d'apprendre quelque chose d'intéressant ou simplement d'agrémenter le temps passé sur l'Oder, nous serions très heureux que vous souhaitiez soutenir le développement de ce projet."
+        },
+        {
+            "kind": "text",
+            "pl": "Każdy napiwek pozostawiony w puszce znajdującej się na pokładzie pomaga tworzyć kolejne materiały, rozwijać audioprzewodnik oraz przygotowywać nowe trasy i historie o Wrocławiu.",
+            "en": "Every tip left in the box on board helps to create further materials, develop the audio guide and prepare new routes and stories about Wrocław.",
+            "de": "Jedes Trinkgeld, das in der Dose an Bord hinterlassen wird, hilft, weitere Materialien zu erstellen, den Audioguide auszubauen und neue Routen und Geschichten über Breslau vorzubereiten.",
+            "it": "Ogni mancia lasciata nel barattolo a bordo aiuta a creare nuovi materiali, a sviluppare l'audioguida e a preparare nuovi percorsi e storie su Breslavia.",
+            "es": "Cada propina dejada en la caja que se encuentra a bordo ayuda a crear nuevos materiales, a desarrollar la audioguía y a preparar nuevas rutas e historias sobre Breslavia.",
+            "uk": "Кожні чайові, залишені в скриньці на борту, допомагають створювати нові матеріали, розвивати аудіогід і готувати нові маршрути та історії про Вроцлав.",
+            "fr": "Chaque pourboire laissé dans la boîte se trouvant à bord aide à créer de nouveaux contenus, à développer l'audioguide et à préparer de nouveaux itinéraires et récits sur Wrocław."
+        },
+        {
+            "kind": "text",
+            "pl": "W podziękowaniu za okazane wsparcie otrzymają Państwo wyjątkową pocztówkę przedstawiającą miejsca mijane podczas rejsu — małą pamiątkę z podróży po Odrze i naszym mieście.",
+            "en": "As a token of thanks for your support, you will receive a special postcard depicting the places passed during the cruise — a small souvenir of the journey along the Oder and through our city.",
+            "de": "Als Dank für Ihre Unterstützung erhalten Sie eine besondere Postkarte mit den während der Fahrt passierten Orten — ein kleines Andenken an die Reise über die Oder und durch unsere Stadt.",
+            "it": "In segno di ringraziamento per il vostro sostegno riceverete una speciale cartolina che raffigura i luoghi attraversati durante l'escursione — un piccolo ricordo del viaggio lungo l'Oder e attraverso la nostra città.",
+            "es": "En agradecimiento por su apoyo, recibirán una postal especial que representa los lugares por los que se ha pasado durante el paseo — un pequeño recuerdo del viaje por el Óder y por nuestra ciudad.",
+            "uk": "На знак подяки за виявлену підтримку ви отримаєте особливу листівку із зображенням місць, які ми минали під час прогулянки, — маленьку пам'ятку про подорож Одрою та нашим містом.",
+            "fr": "En remerciement de votre soutien, vous recevrez une carte postale spéciale représentant les lieux longés pendant la croisière — un petit souvenir du voyage sur l'Oder et à travers notre ville."
+        },
+        {
+            "kind": "text",
+            "pl": "Dziękujemy za wspólnie spędzony czas. Życzymy Państwu pięknych wspomnień, udanego pobytu oraz dalszego odkrywania Wrocławia. Mamy nadzieję, że jeszcze nieraz spotkamy się na wodach Odry.",
+            "en": "Thank you for the time we have spent together. We wish you wonderful memories, a pleasant stay and further discoveries of Wrocław. We hope to meet you many more times on the waters of the Oder.",
+            "de": "Wir danken Ihnen für die gemeinsam verbrachte Zeit. Wir wünschen Ihnen schöne Erinnerungen, einen angenehmen Aufenthalt und weitere Entdeckungen in Breslau. Wir hoffen, Sie noch oft auf den Wassern der Oder zu treffen.",
+            "it": "Vi ringraziamo per il tempo trascorso insieme. Vi auguriamo bellissimi ricordi, un piacevole soggiorno e ulteriori scoperte di Breslavia. Speriamo di incontrarvi ancora molte volte sulle acque dell'Oder.",
+            "es": "Gracias por el tiempo que hemos compartido. Les deseamos hermosos recuerdos, una agradable estancia y que sigan descubriendo Breslavia. Esperamos encontrarnos muchas veces más en las aguas del Óder.",
+            "uk": "Дякуємо за спільно проведений час. Бажаємо вам прекрасних спогадів, приємного перебування та подальшого відкриття Вроцлава. Сподіваємося ще не раз зустрітися на водах Одри.",
+            "fr": "Merci pour le temps passé ensemble. Nous vous souhaitons de beaux souvenirs, un agréable séjour et de continuer à découvrir Wrocław. Nous espérons vous retrouver encore bien des fois sur les eaux de l'Oder."
+        }
+    ]
+}

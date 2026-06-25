@@ -1,5 +1,4 @@
-<break time="3s"/>
-<break time="2s"/>
+<break time="5s"/>
 
 Witamy serdecznie na pokładzie i zapraszamy na wyjątkowy rejs po Wrocławiu — mieście mostów, wysp, krasnali i niezwykłych historii.
 Les damos una calurosa bienvenida a bordo y les invitamos a un paseo único por Breslavia — una ciudad de puentes, islas, enanitos e historias extraordinarias.
@@ -16,8 +15,7 @@ Ante nosotros se encuentra uno de los puentes más bellos de Breslavia — el Pu
 Na jego balustradach możemy podziwiać Tajemnicze Maszkarony czyli kamienne rzeźby przedstawiające przerażające, fantastyczne twarze. Według dawnych wierzeń ich brzydota miała odstraszać złe moce, demony wodne i chronić most przed katastrofą.
 En sus balaustradas podemos admirar los Misteriosos Mascarones, es decir, esculturas de piedra que representan rostros aterradores y fantásticos. Según antiguas creencias, su fealdad debía ahuyentar las fuerzas del mal y los demonios del agua, y proteger el puente de cualquier catástrofe.
 
-<break time="3s"/>
-<break time="2s"/>
+<break time="5s"/>
 
 Charakterystyczny żółty gmach po prawej stronie to jeden z najważniejszych symboli miasta — Uniwersytet Wrocławski. To najstarsza uczelnia we Wrocławiu i jedna z najstarszych w tej części Europy. Jej tradycja liczy ponad trzysta lat.
 El característico edificio amarillo de la derecha es uno de los símbolos más importantes de la ciudad — la Universidad de Breslavia. Es la institución académica más antigua de Breslavia y una de las más antiguas de esta parte de Europa. Su tradición abarca más de trescientos años.
@@ -25,14 +23,12 @@ El característico edificio amarillo de la derecha es uno de los símbolos más 
 Jeśli będą mieli Państwo okazję odwiedzić wnętrza uczelni, warto zobaczyć barokową Aulę Leopoldyńską oraz wejść na Wieżę Matematyczną, z której rozciąga się panorama starego miasta.
 Si tienen la ocasión de visitar el interior de la universidad, merece la pena ver el barroco Aula Leopoldina y subir a la Torre Matemática, desde la que se extiende un panorama del casco antiguo.
 
-<break time="3s"/>
-<break time="2s"/>
+<break time="5s"/>
 
 Po lewej stronie można zauważyć budynek z czerwonej cegły przypominający średniowieczny zamek. To dawny pruski areszt wojskowy. W dziewiętnastym wieku przed budynkiem znajdowała się nawet szubienica dla dezerterów.
 A la izquierda se puede apreciar un edificio de ladrillo rojo que recuerda a un castillo medieval. Es una antigua prisión militar prusiana. En el siglo diecinueve, frente al edificio había incluso una horca para los desertores.
 
-<break time="3s"/>
-<break time="2s"/>
+<break time="5s"/>
 
 Powoli wpływamy w okolice wrocławskich wysp. W samym centrum Wrocławia znajduje się aż sześć z dwunastu miejskich wysp.
 Lentamente nos adentramos en la zona de las islas de Breslavia. En pleno centro de Breslavia se encuentran nada menos que seis de las doce islas urbanas.
@@ -40,8 +36,7 @@ Lentamente nos adentramos en la zona de las islas de Breslavia. En pleno centro 
 Trasa rejsu po której pływamy ma głębokość od trzech do czterech metrów. Zdarzają się jednak miejsca, gdzie głębokość to zaledwie kilkanaście centymetrów, dlatego konieczne jest odpowiednie dobranie trasy i manewrowanie
 La ruta por la que navegamos tiene una profundidad de entre tres y cuatro metros. Sin embargo, hay lugares donde la profundidad es de apenas una decena de centímetros, por lo que es necesario elegir bien la ruta y maniobrar con cuidado.
 
-<break time="3s"/>
-<break time="2s"/>
+<break time="5s"/>
 
 Po lewej stornie jedna z większych i najbardziej znanych wysp - Wyspa Słodowa przy której zobaczyć mogą Państwo mnóstwo przycumowanych barek z barami i kawiarniami — to ulubione miejsce studentów i mieszkańców. Dawniej działały tutaj słodownie, młyny i warsztaty rzemieślnicze. Dziś to przestrzeń spotkań, koncertów i odpoczynku nad wodą.
 A la izquierda, una de las islas más grandes y conocidas — la Isla de la Malta (Wyspa Słodowa), junto a la que podrán ver numerosas barcazas amarradas con bares y cafeterías — es el lugar favorito de estudiantes y vecinos. Antiguamente había aquí malterías, molinos y talleres artesanales. Hoy es un espacio de encuentros, conciertos y descanso junto al agua.
@@ -58,14 +53,12 @@ A la izquierda, el imponente edificio blanco de la isla es el Concordia Design W
 Za żółtą kładką możemy dostrzec nowoczesne apartamenty. Dawniej w budynku przed nami funkcjonował młyn wodny Maria, którego historia sięga trzynastego wieku.
 Más allá de la pasarela amarilla podemos distinguir apartamentos modernos. Antiguamente, en el edificio que tenemos delante funcionaba el molino de agua Maria, cuya historia se remonta al siglo trece.
 
-<break time="3s"/>
-<break time="2s"/>
+<break time="5s"/>
 
 Zaraz po wypłynięciu ze zwężenia będziemy mogli dostrzec most świętej klary. Mimo, że nie wygląda imponująco nosi tytuł najstarszego istniejącego i stale użytkowanego mostu we Wrocławiu z 1799 roku.
 Justo después de salir del estrechamiento podremos distinguir el Puente de Santa Clara. Aunque no tiene un aspecto imponente, ostenta el título del puente más antiguo existente y en uso continuo de Breslavia, que data de 1799.
 
-<break time="3s"/>
-<break time="2s"/>
+<break time="5s"/>
 
 Podczas rejsu przepływamy pod wieloma mostami i kładkami.
 Durante el paseo pasamos por debajo de numerosos puentes y pasarelas.

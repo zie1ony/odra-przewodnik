@@ -1,5 +1,4 @@
-<break time="3s"/>
-<break time="2s"/>
+<break time="5s"/>
 
 Witamy serdecznie na pokładzie i zapraszamy na wyjątkowy rejs po Wrocławiu — mieście mostów, wysp, krasnali i niezwykłych historii.
 Щиро вітаємо вас на борту й запрошуємо в унікальну прогулянку Вроцлавом — містом мостів, островів, гномів і незвичайних історій.
@@ -16,8 +15,7 @@ Przed nami jeden z najpiękniejszych wrocławskich mostów – most pomorski. Wi
 Na jego balustradach możemy podziwiać Tajemnicze Maszkarony czyli kamienne rzeźby przedstawiające przerażające, fantastyczne twarze. Według dawnych wierzeń ich brzydota miała odstraszać złe moce, demony wodne i chronić most przed katastrofą.
 На його балюстрадах можна милуватися загадковими маскаронами — кам'яними скульптурами, що зображають жахливі, фантастичні обличчя. За давніми віруваннями їхня потворність мала відлякувати злі сили та водяних демонів і захищати міст від катастрофи.
 
-<break time="3s"/>
-<break time="2s"/>
+<break time="5s"/>
 
 Charakterystyczny żółty gmach po prawej stronie to jeden z najważniejszych symboli miasta — Uniwersytet Wrocławski. To najstarsza uczelnia we Wrocławiu i jedna z najstarszych w tej części Europy. Jej tradycja liczy ponad trzysta lat.
 Характерна жовта будівля праворуч — це один із найважливіших символів міста, Вроцлавський університет. Це найстаріший заклад вищої освіти у Вроцлаві й один із найстаріших у цій частині Європи. Його традиція налічує понад триста років.
@@ -25,14 +23,12 @@ Charakterystyczny żółty gmach po prawej stronie to jeden z najważniejszych s
 Jeśli będą mieli Państwo okazję odwiedzić wnętrza uczelni, warto zobaczyć barokową Aulę Leopoldyńską oraz wejść na Wieżę Matematyczną, z której rozciąga się panorama starego miasta.
 Якщо матимете нагоду відвідати приміщення університету, варто побачити барокову Леопольдинську залу та піднятися на Математичну вежу, з якої відкривається панорама старого міста.
 
-<break time="3s"/>
-<break time="2s"/>
+<break time="5s"/>
 
 Po lewej stronie można zauważyć budynek z czerwonej cegły przypominający średniowieczny zamek. To dawny pruski areszt wojskowy. W dziewiętnastym wieku przed budynkiem znajdowała się nawet szubienica dla dezerterów.
 Ліворуч можна помітити будівлю з червоної цегли, що нагадує середньовічний замок. Це колишня прусська військова в'язниця. У дев'ятнадцятому столітті перед будівлею стояла навіть шибениця для дезертирів.
 
-<break time="3s"/>
-<break time="2s"/>
+<break time="5s"/>
 
 Powoli wpływamy w okolice wrocławskich wysp. W samym centrum Wrocławia znajduje się aż sześć z dwunastu miejskich wysp.
 Ми поволі заходимо в район вроцлавських островів. У самому центрі Вроцлава розташовано аж шість із дванадцяти міських островів.
@@ -40,8 +36,7 @@ Powoli wpływamy w okolice wrocławskich wysp. W samym centrum Wrocławia znajdu
 Trasa rejsu po której pływamy ma głębokość od trzech do czterech metrów. Zdarzają się jednak miejsca, gdzie głębokość to zaledwie kilkanaście centymetrów, dlatego konieczne jest odpowiednie dobranie trasy i manewrowanie
 Маршрут, яким ми пливемо, має глибину від трьох до чотирьох метрів. Однак трапляються місця, де глибина становить лише кільканадцять сантиметрів, тому необхідно ретельно добирати маршрут і маневрувати.
 
-<break time="3s"/>
-<break time="2s"/>
+<break time="5s"/>
 
 Po lewej stornie jedna z większych i najbardziej znanych wysp - Wyspa Słodowa przy której zobaczyć mogą Państwo mnóstwo przycumowanych barek z barami i kawiarniami — to ulubione miejsce studentów i mieszkańców. Dawniej działały tutaj słodownie, młyny i warsztaty rzemieślnicze. Dziś to przestrzeń spotkań, koncertów i odpoczynku nad wodą.
 Ліворуч — один із більших і найвідоміших островів, Солодовий острів (Wyspa Słodowa), біля якого ви побачите безліч пришвартованих барж із барами та кав'ярнями — це улюблене місце студентів і мешканців. Колись тут діяли солодовні, млини та ремісничі майстерні. Сьогодні це простір зустрічей, концертів і відпочинку біля води.
@@ -58,14 +53,12 @@ Po lewej stornie imponujący biały budynek na wyspie to Concordia Design Wrocł
 Za żółtą kładką możemy dostrzec nowoczesne apartamenty. Dawniej w budynku przed nami funkcjonował młyn wodny Maria, którego historia sięga trzynastego wieku.
 За жовтою кладкою можна розгледіти сучасні апартаменти. Колись у будівлі перед нами працював водяний млин «Марія», історія якого сягає тринадцятого століття.
 
-<break time="3s"/>
-<break time="2s"/>
+<break time="5s"/>
 
 Zaraz po wypłynięciu ze zwężenia będziemy mogli dostrzec most świętej klary. Mimo, że nie wygląda imponująco nosi tytuł najstarszego istniejącego i stale użytkowanego mostu we Wrocławiu z 1799 roku.
 Одразу після виходу зі звуження ми зможемо розгледіти міст Святої Клари. Хоча він не виглядає вражаюче, він має звання найстарішого з існуючих і постійно використовуваних мостів Вроцлава, збудованого в 1799 році.
 
-<break time="3s"/>
-<break time="2s"/>
+<break time="5s"/>
 
 Podczas rejsu przepływamy pod wieloma mostami i kładkami.
 Під час прогулянки ми пропливаємо під багатьма мостами та кладками.
