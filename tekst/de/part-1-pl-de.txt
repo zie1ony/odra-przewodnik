@@ -1,0 +1,83 @@
+<break time="3s"/>
+<break time="2s"/>
+
+Witamy serdecznie na pokładzie i zapraszamy na wyjątkowy rejs po Wrocławiu — mieście mostów, wysp, krasnali i niezwykłych historii.
+Herzlich willkommen an Bord, und wir laden Sie zu einer einzigartigen Fahrt durch Breslau ein — eine Stadt der Brücken, Inseln, Zwerge und außergewöhnlichen Geschichten.
+
+Za chwilę zobaczą Państwo miasto z zupełnie innej perspektywy — spokojniejszej, bardziej zielonej i pełnej detali, których często nie zauważa się z ulicy.
+Gleich werden Sie die Stadt aus einer ganz anderen Perspektive sehen — ruhiger, grüner und voller Details, die man von der Straße aus oft nicht bemerkt.
+
+Po prawej stornie widzimy nowoczesne budynki, w których znajdują się prestiżowe apartamenty oraz restauracje – w tym również wyróżnione przez MICHELIN Guide Restaurants & Hotels.
+Auf der rechten Seite sehen wir moderne Gebäude mit prestigeträchtigen Apartments und Restaurants — darunter auch solche, die vom MICHELIN Guide Restaurants & Hotels ausgezeichnet wurden.
+
+Przed nami jeden z najpiękniejszych wrocławskich mostów – most pomorski. Widoczna na wjeździe na most wieża i baszta to dawny punkt celny: początkowo służyły jako strażnice, w których pobierano tak zwane myto czyli opłaty za przejazd przez most.
+Vor uns liegt eine der schönsten Brücken Breslaus — die Pommernbrücke. Der Turm und die Bastei am Brückenzugang bildeten einst eine Zollstelle: ursprünglich dienten sie als Wachtürme, an denen der sogenannte Brückenzoll, also die Gebühr für die Überquerung der Brücke, erhoben wurde.
+
+Na jego balustradach możemy podziwiać Tajemnicze Maszkarony czyli kamienne rzeźby przedstawiające przerażające, fantastyczne twarze. Według dawnych wierzeń ich brzydota miała odstraszać złe moce, demony wodne i chronić most przed katastrofą.
+An ihren Geländern können wir die geheimnisvollen Maskarons bewundern — steinerne Skulpturen, die schreckliche, fantastische Gesichter darstellen. Nach altem Glauben sollte ihre Hässlichkeit böse Mächte und Wasserdämonen abschrecken und die Brücke vor Unheil schützen.
+
+<break time="3s"/>
+<break time="2s"/>
+
+Charakterystyczny żółty gmach po prawej stronie to jeden z najważniejszych symboli miasta — Uniwersytet Wrocławski. To najstarsza uczelnia we Wrocławiu i jedna z najstarszych w tej części Europy. Jej tradycja liczy ponad trzysta lat.
+Das markante gelbe Gebäude auf der rechten Seite ist eines der wichtigsten Wahrzeichen der Stadt — die Universität Breslau. Sie ist die älteste Hochschule Breslaus und eine der ältesten in diesem Teil Europas. Ihre Tradition reicht über dreihundert Jahre zurück.
+
+Jeśli będą mieli Państwo okazję odwiedzić wnętrza uczelni, warto zobaczyć barokową Aulę Leopoldyńską oraz wejść na Wieżę Matematyczną, z której rozciąga się panorama starego miasta.
+Wenn Sie die Gelegenheit haben, das Innere der Universität zu besuchen, lohnt es sich, die barocke Aula Leopoldina zu sehen und den Mathematischen Turm zu besteigen, von dem aus sich ein Panorama der Altstadt eröffnet.
+
+<break time="3s"/>
+<break time="2s"/>
+
+Po lewej stronie można zauważyć budynek z czerwonej cegły przypominający średniowieczny zamek. To dawny pruski areszt wojskowy. W dziewiętnastym wieku przed budynkiem znajdowała się nawet szubienica dla dezerterów.
+Auf der linken Seite kann man ein Gebäude aus rotem Backstein erkennen, das an eine mittelalterliche Burg erinnert. Es ist ein ehemaliges preußisches Militärgefängnis. Im neunzehnten Jahrhundert stand vor dem Gebäude sogar ein Galgen für Deserteure.
+
+<break time="3s"/>
+<break time="2s"/>
+
+Powoli wpływamy w okolice wrocławskich wysp. W samym centrum Wrocławia znajduje się aż sześć z dwunastu miejskich wysp.
+Langsam erreichen wir die Gegend der Breslauer Inseln. Im Zentrum Breslaus befinden sich gleich sechs der zwölf Stadtinseln.
+
+Trasa rejsu po której pływamy ma głębokość od trzech do czterech metrów. Zdarzają się jednak miejsca, gdzie głębokość to zaledwie kilkanaście centymetrów, dlatego konieczne jest odpowiednie dobranie trasy i manewrowanie
+Die Fahrroute, auf der wir fahren, ist zwischen drei und vier Meter tief. Es gibt jedoch Stellen, an denen die Tiefe nur etwa zehn bis zwanzig Zentimeter beträgt, weshalb eine sorgfältige Wahl der Route und entsprechendes Manövrieren notwendig ist.
+
+<break time="3s"/>
+<break time="2s"/>
+
+Po lewej stornie jedna z większych i najbardziej znanych wysp - Wyspa Słodowa przy której zobaczyć mogą Państwo mnóstwo przycumowanych barek z barami i kawiarniami — to ulubione miejsce studentów i mieszkańców. Dawniej działały tutaj słodownie, młyny i warsztaty rzemieślnicze. Dziś to przestrzeń spotkań, koncertów i odpoczynku nad wodą.
+Auf der linken Seite liegt eine der größeren und bekanntesten Inseln — die Malzinsel (Wyspa Słodowa), an der Sie zahlreiche vertäute Boote mit Bars und Cafés sehen können — ein beliebter Ort für Studenten und Einwohner. Früher gab es hier Mälzereien, Mühlen und Handwerksbetriebe. Heute ist es ein Ort für Begegnungen, Konzerte und Erholung am Wasser.
+
+Widoczna po prawej stornie miniaturowa latarnia morska stoi na wyspie tamka. W trzynastym wieku należała do zakonu Krzyżowców z Czerwoną Gwiazdą, którzy wybudowali tam najstarszy, nieistniejący już dziś wrocławski młyn.
+Der auf der rechten Seite sichtbare Miniaturleuchtturm steht auf der Insel Tamka. Im dreizehnten Jahrhundert gehörte sie dem Orden der Kreuzherren mit dem Roten Stern, die dort die älteste, heute nicht mehr existierende Breslauer Mühle errichteten.
+
+Zaraz za nią, również po prawej stronie widzimy najmniejszą we Wrocławiu wyspę Daliową. Stojąca na niej srebrna, błyszcząca konstrukcja to niezwykła instalacja artystyczna o nazwie NAWA autorstwa Oskara Zięty, która według twórcy ma symbolizować otwartość miasta na zmiany.
+Gleich dahinter, ebenfalls auf der rechten Seite, sehen wir die kleinste Insel Breslaus, die Dalieninsel (Daliowa). Die darauf stehende silberne, glänzende Konstruktion ist eine außergewöhnliche Kunstinstallation namens NAWA von Oskar Zięta, die nach Aussage des Künstlers die Offenheit der Stadt für Veränderungen symbolisieren soll.
+
+Po lewej stornie imponujący biały budynek na wyspie to Concordia Design Wrocław - centrum kreatywności i biznesu. Na jego dachu znajduje się letni bar z jedną z najpiękniejszych panoram Wrocławia.
+Auf der linken Seite ist das beeindruckende weiße Gebäude auf der Insel das Concordia Design Wrocław — ein Zentrum für Kreativität und Wirtschaft. Auf seinem Dach befindet sich eine Sommerbar mit einem der schönsten Panoramen Breslaus.
+
+Za żółtą kładką możemy dostrzec nowoczesne apartamenty. Dawniej w budynku przed nami funkcjonował młyn wodny Maria, którego historia sięga trzynastego wieku.
+Hinter dem gelben Steg können wir moderne Apartments erkennen. Früher befand sich in dem Gebäude vor uns die Wassermühle Maria, deren Geschichte bis ins dreizehnte Jahrhundert zurückreicht.
+
+<break time="3s"/>
+<break time="2s"/>
+
+Zaraz po wypłynięciu ze zwężenia będziemy mogli dostrzec most świętej klary. Mimo, że nie wygląda imponująco nosi tytuł najstarszego istniejącego i stale użytkowanego mostu we Wrocławiu z 1799 roku.
+Gleich nach dem Verlassen der Engstelle werden wir die St.-Klara-Brücke erkennen können. Obwohl sie nicht eindrucksvoll aussieht, trägt sie den Titel der ältesten erhaltenen und ununterbrochen genutzten Brücke Breslaus aus dem Jahr 1799.
+
+<break time="3s"/>
+<break time="2s"/>
+
+Podczas rejsu przepływamy pod wieloma mostami i kładkami.
+Während der Fahrt passieren wir viele Brücken und Stege.
+
+Po prawej stornie wyłania się nam wyspa piasek, której nazwa nie pochodzi od piaszczystej plaży, lecz od znajdującego się tu gotyckiego kościoła Najświętszej Marii Panny na Piasku.
+Auf der rechten Seite taucht die Sandinsel auf, deren Name nicht von einem Sandstrand stammt, sondern von der hier befindlichen gotischen Kirche Maria auf dem Sande.
+
+Przed nami charakterystyczny zielony,  niewielki most tumski łączący Wyspę Piaskową z Ostrowem Tumskim, przez mieszkańców często nazywany mostem zakochanych.
+Vor uns liegt die markante grüne, kleine Dombrücke (Tumski), die die Sandinsel mit der Dominsel verbindet und von den Einwohnern oft Brücke der Verliebten genannt wird.
+
+Przez wiele lat zakochane pary zawieszały tutaj kłódki symbolizujące wieczną miłość, a klucze wrzucały do Odry. Podczas remontu usunięto z mostu ponad siedemnaście ton takich kłódek.
+Viele Jahre lang hängten verliebte Paare hier Vorhängeschlösser auf, die ewige Liebe symbolisierten, und warfen die Schlüssel in die Oder. Bei einer Renovierung wurden mehr als siebzehn Tonnen solcher Schlösser von der Brücke entfernt.
+
+Mimo zakazu tradycja wciąż jest kontynuowana, lecz teraz kłódki przypinane są na bocznych balustradach.
+Trotz des Verbots wird die Tradition weiterhin fortgeführt, doch jetzt werden die Schlösser an den seitlichen Geländern befestigt.

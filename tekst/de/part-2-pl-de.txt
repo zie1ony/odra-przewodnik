@@ -1,0 +1,89 @@
+<break time="3s"/>
+<break time="2s"/>
+
+Po lewej stronie widzimy Ostrów Tumski — najstarszą część Wrocławia. To właśnie tutaj ponad tysiąc lat temu zaczęła się historia miasta.
+Auf der linken Seite sehen wir Ostrów Tumski (die Dominsel) — den ältesten Teil Breslaus. Genau hier begann vor über tausend Jahren die Geschichte der Stadt.
+
+Dawniej była to prawdziwa wyspa otoczona wodami Odry. Większość budynków należy do instytucji kościelnych, dlatego miejsce to bywa nazywane wrocławskim Watykanem.
+Früher war dies eine echte Insel, umgeben von den Wassern der Oder. Die meisten Gebäude gehören kirchlichen Einrichtungen, weshalb dieser Ort auch der Breslauer Vatikan genannt wird.
+
+Najbardziej charakterystycznym budynkiem są dwie wysokie zielone wieże Katedry świętego Jana Chrzciciela — patrona miasta. Wieże mają niemal sto metrów wysokości.
+Das markanteste Bauwerk sind die beiden hohen grünen Türme der Kathedrale des heiligen Johannes des Täufers — des Schutzpatrons der Stadt. Die Türme sind fast hundert Meter hoch.
+
+Na szczyt jednej z nich można wjechać windą i podziwiać przepiękną panoramę miasta.
+Auf die Spitze eines von ihnen kann man mit dem Aufzug fahren und ein wunderschönes Panorama der Stadt bewundern.
+
+Wieczorami Ostrów Tumski nabiera wyjątkowego klimatu. Po zmroku pojawia się tutaj latarnik ubrany w czarną pelerynę i cylinder. Tradycyjnie zapala gazowe latarnie dokładnie tak samo jak w dziewiętnastym wieku. Codziennie ma do zapalenia i zgaszenia dziewięćdziesiąt dziewięć latarni.
+Abends bekommt Ostrów Tumski eine ganz besondere Atmosphäre. Nach Einbruch der Dunkelheit erscheint hier ein Laternenanzünder in schwarzem Umhang und Zylinder. Traditionell zündet er die Gaslaternen genauso an wie im neunzehnten Jahrhundert. Täglich hat er neunundneunzig Laternen anzuzünden und zu löschen.
+
+<break time="3s"/>
+<break time="2s"/>
+
+Naprzeciwko najstarszej części Wrocławia po prawej stornie możemy zobaczyć charakterystyczne zielone wzgórze – jest to Bastion Ceglarski, który dawniej skrywał w sobie trzykondygnacyjne kazamaty, a po zniszczeniu fortyfikacji przez wojska napoleońskie w dziewiętnastym wieku, wały zasypano, a sam bastion przekształcono w popularny punkt widokowy i rekreacyjny, którego rola zachowana została do dnia dzisiejszego.
+Gegenüber dem ältesten Teil Breslaus können wir auf der rechten Seite einen markanten grünen Hügel sehen — die Ziegelbastei, die früher dreigeschossige Kasematten verbarg. Nachdem die Befestigungen im neunzehnten Jahrhundert von napoleonischen Truppen zerstört worden waren, wurden die Wälle aufgeschüttet und die Bastei selbst in einen beliebten Aussichts- und Erholungspunkt umgewandelt, dessen Rolle bis heute erhalten geblieben ist.
+
+To jeden z ciekawszych i darmowych punktów widokowych na najstarszą część miasta i odrę.
+Es ist einer der interessanteren — und kostenlosen — Aussichtspunkte auf den ältesten Teil der Stadt und die Oder.
+
+Przed nami Most Pokoju — jeden z ważniejszych mostów w centrum miasta.
+Vor uns liegt die Friedensbrücke — eine der wichtigeren Brücken im Stadtzentrum.
+
+Po prawej stronie uwagę przyciąga monumentalny budynek porośnięty bluszczem. To siedziba Muzeum Narodowego we Wrocławiu.
+Auf der rechten Seite zieht ein monumentales, mit Efeu bewachsenes Gebäude die Aufmerksamkeit auf sich. Es ist der Sitz des Nationalmuseums in Breslau.
+
+Roślina zmienia kolor wraz z porami roku — wiosną jest intensywnie zielona, latem ciemnieje, a jesienią budynek niemal płonie odcieniami czerwieni.
+Die Pflanze ändert ihre Farbe mit den Jahreszeiten — im Frühling ist sie kräftig grün, im Sommer wird sie dunkler, und im Herbst scheint das Gebäude in Rottönen geradezu zu lodern.
+
+W środku znajdują się dzieła najwybitniejszych polskich i europejskich artystów, między innymi Jana Matejki czy Pietera Bruegla.
+Im Inneren befinden sich Werke der bedeutendsten polnischen und europäischen Künstler, unter anderem von Jan Matejko und Pieter Bruegel.
+
+<break time="3s"/>
+<break time="2s"/>
+
+Za mostem po lewej stronie mijamy budynki należące do Uniwersytetu Wrocławskiego. Znajdują się tutaj między innymi biblioteka oraz wydziały matematyki, informatyki i chemii.
+Hinter der Brücke passieren wir auf der linken Seite Gebäude der Universität Breslau. Hier befinden sich unter anderem die Bibliothek sowie die Fakultäten für Mathematik, Informatik und Chemie.
+
+Wysokie, białe budynki za wydziałami uniwersytetu to osiedle mieszkalne składające się z sześciu szesnastokondygnacyjnych wieżowców o wysokości pięćdziesięciu czterech metrów, które ze względu na śmiałą architekturę lat siedemdziesiątych dwudziestego wieku nazywane były wrocławskim Manhattanem.
+Die hohen weißen Gebäude hinter den Universitätsfakultäten sind eine Wohnsiedlung aus sechs sechzehngeschossigen Hochhäusern von vierundfünfzig Metern Höhe, die aufgrund ihrer kühnen Architektur der siebziger Jahre des zwanzigsten Jahrhunderts das Breslauer Manhattan genannt wurden.
+
+Po prawej stronie widzimy rozległy budynek Dolnośląskiego Urzędu Wojewódzkiego. Ma ponad tysiąc pomieszczeń i kilkanaście kilometrów korytarzy. Przed drugą wojną światową ukryto tutaj potężny schron przeciwlotniczy, a mieści się tam centrum zarządzania kryzysowego.
+Auf der rechten Seite sehen wir das weitläufige Gebäude des Niederschlesischen Woiwodschaftsamtes. Es hat über tausend Räume und mehr als zehn Kilometer Flure. Vor dem Zweiten Weltkrieg wurde hier ein gewaltiger Luftschutzbunker verborgen, in dem sich heute ein Krisenmanagementzentrum befindet.
+
+Przed nami pojawia się jedna z największych ikon miasta — Most Grunwaldzki.
+Vor uns erscheint eines der größten Wahrzeichen der Stadt — die Grunwald-Brücke.
+
+Charakterystyczna niebieska, stalowa konstrukcja została otwarta na początku dwudziestego wieku. Początkowo most nosił nazwę Mostu Cesarskiego. Po pierwszej wojnie światowej przemianowano go na Most Wolności, a później na Most Grunwaldzki.
+Diese markante blaue Stahlkonstruktion wurde Anfang des zwanzigsten Jahrhunderts eröffnet. Anfangs hieß die Brücke Kaiserbrücke. Nach dem Ersten Weltkrieg wurde sie in Freiheitsbrücke und später in Grunwald-Brücke umbenannt.
+
+Za mostem po prawej stronie widzimy nietypowy budynek unoszący się na wodzie. To Odra Centrum — nowoczesne centrum edukacyjne poświęcone rzece i ekologii. Można tutaj napić się kawy, wypożyczyć kajak i dowiedzieć się więcej o życiu Odry.
+Hinter der Brücke sehen wir auf der rechten Seite ein ungewöhnliches Gebäude, das auf dem Wasser schwimmt. Das ist das Odra Centrum — ein modernes Bildungszentrum, das dem Fluss und der Ökologie gewidmet ist. Hier kann man einen Kaffee trinken, ein Kajak ausleihen und mehr über das Leben der Oder erfahren.
+
+Zaraz za nim po prawej stornie widzimy pierwszy w Polsce prywatny dom na wodzie. Od ponad dekady przyciąga uwagę mieszkańców i turystów.
+Gleich dahinter sehen wir auf der rechten Seite das erste private Hausboot Polens. Seit über einem Jahrzehnt zieht es die Aufmerksamkeit von Einwohnern und Touristen auf sich.
+
+Choć płyniemy cały czas pod prąd Odry, po prawej stronie można zauważyć ujście innej rzeki — Oławy. Jest znacznie spokojniejsza i mniej uczęszczana przez statki przez co przyciąga kajakarzy.
+Obwohl wir die ganze Zeit gegen die Strömung der Oder fahren, kann man auf der rechten Seite die Mündung eines anderen Flusses bemerken — der Ohle (Oława). Sie ist deutlich ruhiger und weniger von Schiffen befahren, weshalb sie Kanufahrer anzieht.
+
+Widoczna przed nami wysoka czerwona wieża to dawna wieża ciśnień, która kiedyś zaopatrywała w wodę nawet dwieście tysięcy mieszkańców miasta.
+Der vor uns sichtbare hohe rote Turm ist ein ehemaliger Wasserturm, der einst bis zu zweihunderttausend Einwohner der Stadt mit Wasser versorgte.
+
+Obok niej, niestety niewidoczne z poziomu rzeki, znajduje się Hydropolis — nowoczesne centrum wiedzy o wodzie. To jedno z najciekawszych miejsc edukacyjnych we Wrocławiu, szczególnie dla rodzin z dziećmi.
+Daneben befindet sich, vom Fluss aus leider nicht sichtbar, Hydropolis — ein modernes Wissenszentrum über das Wasser. Es ist einer der interessantesten Bildungsorte in Breslau, besonders für Familien mit Kindern.
+
+Przed wieżą ciśnień spoglądając w górę widzimy rozciągnięte nad Odrą stalowe liny. Porusza się po nich Polinka — kolej linowa Politechniki Wrocławskiej. Łączy ona dwa kampusy uczelni po przeciwnych stronach rzeki.
+Vor dem Wasserturm sehen wir, wenn wir nach oben blicken, über die Oder gespannte Stahlseile. Auf ihnen bewegt sich die Polinka — die Seilbahn der Technischen Universität Breslau. Sie verbindet die beiden Campus der Hochschule auf den gegenüberliegenden Flussufern.
+
+Dla studentów to codzienny środek transportu, a dla turystów jedna z ciekawszych atrakcji miasta. W cenie zwykłego biletu komunikacji miejskiej można przejechać nad Odrą i podziwiać panoramę miasta z góry.
+Für Studenten ist sie ein alltägliches Verkehrsmittel, für Touristen eine der interessanteren Attraktionen der Stadt. Zum Preis eines gewöhnlichen Nahverkehrstickets kann man über die Oder fahren und das Stadtpanorama von oben bewundern.
+
+W cenie biletu autobusowego każdy mieszkaniec i turysta mogą nią podróżować od poniedziałku do piątku podziwiając przez nieco ponad dwie minuty panoramę Odry.
+Zum Preis eines Bustickets können jeder Einwohner und Tourist von Montag bis Freitag mit ihr fahren und etwas mehr als zwei Minuten lang das Panorama der Oder bewundern.
+
+Z mijanym niebieskim mostem grunwaldzkim związanych jest wiele legend.
+Mit der blauen Grunwald-Brücke, die wir passieren, sind viele Legenden verbunden.
+
+Jedna z nich mówi o głównym konstruktorze, który podobno tuż przed otwarciem mostu odebrał sobie życie w obawie, że popełnił błąd w obliczeniach i konstrukcja runie do Odry. Na szczęście most stoi do dziś i jest jednym z symboli Wrocławia.
+Eine von ihnen erzählt von dem Chefkonstrukteur, der sich angeblich kurz vor der Eröffnung der Brücke das Leben nahm, aus Angst, er habe einen Rechenfehler gemacht und das Bauwerk werde in die Oder stürzen. Zum Glück steht die Brücke bis heute und ist eines der Wahrzeichen Breslaus.
+
+Druga legenda opowiada o zakochanym pilocie, który w latach pięćdziesiątych przeleciał małym samolotem pod mostem, chcąc zaimponować kobiecie stojącej na brzegu.
+Die zweite Legende erzählt von einem verliebten Piloten, der in den fünfziger Jahren mit einem kleinen Flugzeug unter der Brücke hindurchflog, um einer Frau zu imponieren, die am Ufer stand.

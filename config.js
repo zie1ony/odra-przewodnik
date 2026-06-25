@@ -2,25 +2,11 @@
 // Edytuj, aby dodać etapy, języki i pliki mp3.
 // Ścieżka pliku budowana jest jako: mp3_directory/<kod_języka>/<fileName>
 const CONFIG = {
-  accuracy_meters: 50,
   mp3_directory: "resources",
   stages: [
-    {
-      id: "etap-1",
-      description: "Etap 1",
-      coordinates: { lat: 52.2296756, lng: 21.0122287 }
-    },
-    {
-      id: "etap-2",
-      description: "Etap 2",
-      coordinates: { lat: 52.406374, lng: 16.9251681 }
-    },
-    {
-      id: "etap-3",
-      description: "Etap 3",
-      // TODO: uzupełnić właściwe koordynaty etapu 3
-      coordinates: { lat: 51.1078852, lng: 17.0385376 }
-    }
+    { id: "etap-1", description: "Etap 1" },
+    { id: "etap-2", description: "Etap 2" },
+    { id: "etap-3", description: "Etap 3" }
   ],
   languages: [
     {

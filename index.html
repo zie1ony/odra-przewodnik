@@ -2,55 +2,156 @@
 <html lang="pl">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Odra Przewodnik — wybór wersji</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<title>Odra Przewodnik</title>
 <style>
-  *{box-sizing:border-box}
-  body{margin:0;min-height:100vh;font-family:-apple-system,Segoe UI,Roboto,sans-serif;
-    background:linear-gradient(160deg,#1f7a8c,#0e1116);color:#fff;
-    display:flex;flex-direction:column;align-items:center;justify-content:center;padding:24px}
-  h1{font-size:30px;margin:0 0 4px;text-align:center}
-  p.sub{color:#cdd6e0;margin:0 0 28px;text-align:center;font-size:14px}
-  .grid{display:flex;flex-direction:column;gap:14px;width:100%;max-width:420px}
-  a.card{display:flex;align-items:center;gap:16px;text-decoration:none;color:#fff;
-    background:rgba(255,255,255,.08);border:1px solid rgba(255,255,255,.15);
-    border-radius:16px;padding:18px 20px;backdrop-filter:blur(6px);transition:.15s}
-  a.card:active{transform:scale(.98)}
-  a.card .n{width:48px;height:48px;border-radius:12px;background:#fff;color:#1f7a8c;
-    display:grid;place-items:center;font-weight:800;font-size:20px;flex-shrink:0}
-  a.card .b{flex:1}
-  a.card .b .t{font-size:17px;font-weight:700}
-  a.card .b .d{font-size:13px;color:#cdd6e0;margin-top:2px}
-  a.card .arrow{font-size:20px;color:#cdd6e0}
-  footer{margin-top:26px;font-size:12px;color:#9fb0bd;text-align:center;max-width:420px}
+  :root{
+    --bg:#f4f6f8; --card:#ffffff; --ink:#1a2230; --muted:#6b7688;
+    --accent:#1f7a8c; --accent-dark:#155563; --line:#e3e8ee;
+  }
+  *{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+  html,body{margin:0;height:100%}
+  body{
+    font-family:-apple-system,Segoe UI,Roboto,sans-serif;
+    background:var(--bg); color:var(--ink);
+    display:flex; flex-direction:column; min-height:100%;
+  }
+  header{
+    background:var(--card); border-bottom:1px solid var(--line);
+    padding:14px 16px; position:sticky; top:0; z-index:5;
+  }
+  .title{font-size:18px;font-weight:700;display:flex;align-items:center;gap:8px}
+  .langs{display:flex;gap:8px;margin-top:12px}
+  .lang{
+    flex:1;padding:9px;border:1px solid var(--line);background:#fff;
+    border-radius:10px;font-size:14px;font-weight:600;color:var(--muted);
+    cursor:pointer;transition:.15s;
+  }
+  .lang.active{background:var(--accent);border-color:var(--accent);color:#fff}
+
+  main{flex:1;padding:16px;display:flex;flex-direction:column;gap:10px}
+
+  .stage{
+    background:var(--card);border:1px solid var(--line);border-radius:12px;
+    padding:14px;display:flex;align-items:center;gap:12px;cursor:pointer;
+    transition:.15s;
+  }
+  .stage.playing{border-color:var(--accent);box-shadow:0 0 0 2px rgba(31,122,140,.15)}
+  .stage .dot{
+    width:40px;height:40px;border-radius:10px;flex-shrink:0;
+    background:#eef4f5;color:var(--accent);display:grid;place-items:center;
+    font-weight:700;font-size:15px;
+  }
+  .stage.playing .dot{background:var(--accent);color:#fff}
+  .stage .info{flex:1;min-width:0}
+  .stage .name{font-weight:600;font-size:15px}
+  .stage .tag{font-size:10px;text-transform:uppercase;letter-spacing:.5px;
+    padding:2px 7px;border-radius:6px;background:#eef4f5;color:var(--accent);font-weight:700}
+
+  /* player */
+  .player{
+    position:sticky;bottom:0;background:var(--card);border-top:1px solid var(--line);
+    padding:12px 16px 16px;box-shadow:0 -4px 20px rgba(0,0,0,.05);
+  }
+  .player.hidden{display:none}
+  .pnow{font-size:13px;color:var(--muted)}
+  .pnow b{color:var(--ink)}
+  .seek{display:flex;align-items:center;gap:8px;margin:8px 0}
+  .seek input[type=range]{flex:1;accent-color:var(--accent)}
+  .t{font-size:11px;color:var(--muted);font-variant-numeric:tabular-nums;min-width:38px}
+  .controls{display:flex;gap:10px;justify-content:center}
+  .btn{
+    border:none;border-radius:10px;padding:10px 16px;font-size:15px;font-weight:600;
+    cursor:pointer;display:flex;align-items:center;gap:6px;
+  }
+  .btn.primary{background:var(--accent);color:#fff}
+  .btn.ghost{background:#eef4f5;color:var(--accent)}
 </style>
 </head>
 <body>
-  <h1>🎧 Odra Przewodnik</h1>
-  <p class="sub">Wybierz wersję interfejsu do przetestowania</p>
-  <div class="grid">
-    <a class="card" href="v1.html">
-      <div class="n">1</div>
-      <div class="b"><div class="t">Wersja 1 — Karty</div>
-        <div class="d">Jasny motyw, listy w kartach, przełącznik auto</div></div>
-      <div class="arrow">→</div>
-    </a>
-    <a class="card" href="v2.html">
-      <div class="n">2</div>
-      <div class="b"><div class="t">Wersja 2 — Ciemny / minimal</div>
-        <div class="d">Ciemny motyw, kompaktowa lista, animacje</div></div>
-      <div class="arrow">→</div>
-    </a>
-    <a class="card" href="v3.html">
-      <div class="n">3</div>
-      <div class="b"><div class="t">Wersja 3 — Dotykowy</div>
-        <div class="d">Duże przyciski, ciepłe kolory, prosty układ</div></div>
-      <div class="arrow">→</div>
-    </a>
+<header>
+  <div class="title">🎧 Odra Przewodnik</div>
+  <div class="langs" id="langs"></div>
+</header>
+
+<main>
+  <div id="stages"></div>
+</main>
+
+<div class="player hidden" id="player">
+  <div class="pnow">Teraz: <b id="pName">—</b></div>
+  <div class="seek">
+    <span class="t" id="tCur">0:00</span>
+    <input type="range" id="seek" min="0" max="100" value="0">
+    <span class="t" id="tDur">0:00</span>
   </div>
-  <footer>
-    Wszystkie wersje współdzielą logikę (<code>guide.js</code>) i konfigurację (<code>config.js</code>).
-    Pliki mp3 umieść w katalogu <code>resources/</code> wg nazw z konfiguracji.
-  </footer>
+  <div class="controls">
+    <button class="btn ghost" id="stopBtn">⏹ Stop</button>
+    <button class="btn primary" id="playBtn">⏸ Pauza</button>
+    <button class="btn ghost" id="nextBtn">⏭ Następny</button>
+  </div>
+</div>
+
+<audio id="audio"></audio>
+<script src="config.js"></script>
+<script src="guide.js"></script>
+<script>
+GUIDE.init({
+  render(){
+    // languages
+    const lr=document.getElementById('langs'); lr.innerHTML='';
+    CONFIG.languages.forEach(l=>{
+      const b=document.createElement('button');
+      b.className='lang'+(l.code===GUIDE.lang?' active':'');
+      b.textContent=l.name;
+      b.onclick=()=>GUIDE.setLang(l.code);
+      lr.appendChild(b);
+    });
+    // stages
+    const sr=document.getElementById('stages'); sr.innerHTML='';
+    CONFIG.stages.forEach((s,i)=>{
+      const el=document.createElement('div');
+      const playing=GUIDE.currentStageId===s.id;
+      el.className='stage'+(playing?' playing':'');
+      el.innerHTML=`
+        <div class="dot">${playing?'▶':i+1}</div>
+        <div class="info">
+          <div class="name">${s.description}</div>
+        </div>
+        ${playing?'<span class="tag">odtwarzane</span>':''}`;
+      el.onclick=()=>GUIDE.play(s.id);
+      sr.appendChild(el);
+    });
+    // player
+    const p=document.getElementById('player');
+    if(GUIDE.currentStageId){
+      p.classList.remove('hidden');
+      document.getElementById('pName').textContent=GUIDE.currentStageName();
+      document.getElementById('playBtn').textContent=GUIDE.paused?'▶ Graj':'⏸ Pauza';
+    } else p.classList.add('hidden');
+  },
+  time(cur,dur,pct){
+    document.getElementById('tCur').textContent=cur;
+    document.getElementById('tDur').textContent=dur;
+    if(!scrubbing) seek.value=pct;
+  }
+});
+document.getElementById('playBtn').onclick=()=>GUIDE.togglePlay();
+document.getElementById('stopBtn').onclick=()=>GUIDE.stop();
+document.getElementById('nextBtn').onclick=()=>GUIDE.next();
+
+const seek=document.getElementById('seek');
+let scrubbing=false;
+// rozpoczęcie przeciągania — wstrzymaj automatyczne aktualizacje pozycji
+seek.addEventListener('pointerdown',()=>{scrubbing=true;});
+seek.addEventListener('touchstart',()=>{scrubbing=true;},{passive:true});
+// przeciąganie na żywo
+seek.addEventListener('input',()=>{scrubbing=true;GUIDE.seekTo(seek.value);});
+// puszczenie — zatwierdź i wznów aktualizacje
+const endScrub=()=>{GUIDE.seekTo(seek.value);scrubbing=false;};
+seek.addEventListener('change',endScrub);
+seek.addEventListener('pointerup',endScrub);
+seek.addEventListener('touchend',endScrub);
+</script>
 </body>
 </html>

@@ -1,0 +1,83 @@
+<break time="3s"/>
+<break time="2s"/>
+
+Witamy serdecznie na pokładzie i zapraszamy na wyjątkowy rejs po Wrocławiu — mieście mostów, wysp, krasnali i niezwykłych historii.
+Щиро вітаємо вас на борту й запрошуємо в унікальну прогулянку Вроцлавом — містом мостів, островів, гномів і незвичайних історій.
+
+Za chwilę zobaczą Państwo miasto z zupełnie innej perspektywy — spokojniejszej, bardziej zielonej i pełnej detali, których często nie zauważa się z ulicy.
+За мить ви побачите місто з зовсім іншої перспективи — спокійнішої, зеленішої та повної деталей, яких часто не помічаєш із вулиці.
+
+Po prawej stornie widzimy nowoczesne budynki, w których znajdują się prestiżowe apartamenty oraz restauracje – w tym również wyróżnione przez MICHELIN Guide Restaurants & Hotels.
+Праворуч ми бачимо сучасні будівлі, у яких розташовані престижні апартаменти та ресторани — серед них також відзначені гідом MICHELIN Guide Restaurants & Hotels.
+
+Przed nami jeden z najpiękniejszych wrocławskich mostów – most pomorski. Widoczna na wjeździe na most wieża i baszta to dawny punkt celny: początkowo służyły jako strażnice, w których pobierano tak zwane myto czyli opłaty za przejazd przez most.
+Перед нами один із найкрасивіших вроцлавських мостів — Поморський міст. Вежа й башта, які видно при в'їзді на міст, — це колишній митний пункт: спершу вони слугували вартівнями, де збирали так зване мито, тобто плату за проїзд через міст.
+
+Na jego balustradach możemy podziwiać Tajemnicze Maszkarony czyli kamienne rzeźby przedstawiające przerażające, fantastyczne twarze. Według dawnych wierzeń ich brzydota miała odstraszać złe moce, demony wodne i chronić most przed katastrofą.
+На його балюстрадах можна милуватися загадковими маскаронами — кам'яними скульптурами, що зображають жахливі, фантастичні обличчя. За давніми віруваннями їхня потворність мала відлякувати злі сили та водяних демонів і захищати міст від катастрофи.
+
+<break time="3s"/>
+<break time="2s"/>
+
+Charakterystyczny żółty gmach po prawej stronie to jeden z najważniejszych symboli miasta — Uniwersytet Wrocławski. To najstarsza uczelnia we Wrocławiu i jedna z najstarszych w tej części Europy. Jej tradycja liczy ponad trzysta lat.
+Характерна жовта будівля праворуч — це один із найважливіших символів міста, Вроцлавський університет. Це найстаріший заклад вищої освіти у Вроцлаві й один із найстаріших у цій частині Європи. Його традиція налічує понад триста років.
+
+Jeśli będą mieli Państwo okazję odwiedzić wnętrza uczelni, warto zobaczyć barokową Aulę Leopoldyńską oraz wejść na Wieżę Matematyczną, z której rozciąga się panorama starego miasta.
+Якщо матимете нагоду відвідати приміщення університету, варто побачити барокову Леопольдинську залу та піднятися на Математичну вежу, з якої відкривається панорама старого міста.
+
+<break time="3s"/>
+<break time="2s"/>
+
+Po lewej stronie można zauważyć budynek z czerwonej cegły przypominający średniowieczny zamek. To dawny pruski areszt wojskowy. W dziewiętnastym wieku przed budynkiem znajdowała się nawet szubienica dla dezerterów.
+Ліворуч можна помітити будівлю з червоної цегли, що нагадує середньовічний замок. Це колишня прусська військова в'язниця. У дев'ятнадцятому столітті перед будівлею стояла навіть шибениця для дезертирів.
+
+<break time="3s"/>
+<break time="2s"/>
+
+Powoli wpływamy w okolice wrocławskich wysp. W samym centrum Wrocławia znajduje się aż sześć z dwunastu miejskich wysp.
+Ми поволі заходимо в район вроцлавських островів. У самому центрі Вроцлава розташовано аж шість із дванадцяти міських островів.
+
+Trasa rejsu po której pływamy ma głębokość od trzech do czterech metrów. Zdarzają się jednak miejsca, gdzie głębokość to zaledwie kilkanaście centymetrów, dlatego konieczne jest odpowiednie dobranie trasy i manewrowanie
+Маршрут, яким ми пливемо, має глибину від трьох до чотирьох метрів. Однак трапляються місця, де глибина становить лише кільканадцять сантиметрів, тому необхідно ретельно добирати маршрут і маневрувати.
+
+<break time="3s"/>
+<break time="2s"/>
+
+Po lewej stornie jedna z większych i najbardziej znanych wysp - Wyspa Słodowa przy której zobaczyć mogą Państwo mnóstwo przycumowanych barek z barami i kawiarniami — to ulubione miejsce studentów i mieszkańców. Dawniej działały tutaj słodownie, młyny i warsztaty rzemieślnicze. Dziś to przestrzeń spotkań, koncertów i odpoczynku nad wodą.
+Ліворуч — один із більших і найвідоміших островів, Солодовий острів (Wyspa Słodowa), біля якого ви побачите безліч пришвартованих барж із барами та кав'ярнями — це улюблене місце студентів і мешканців. Колись тут діяли солодовні, млини та ремісничі майстерні. Сьогодні це простір зустрічей, концертів і відпочинку біля води.
+
+Widoczna po prawej stornie miniaturowa latarnia morska stoi na wyspie tamka. W trzynastym wieku należała do zakonu Krzyżowców z Czerwoną Gwiazdą, którzy wybudowali tam najstarszy, nieistniejący już dziś wrocławski młyn.
+Видимий праворуч мініатюрний маяк стоїть на острові Тамка. У тринадцятому столітті він належав ордену хрестоносців із Червоною Зіркою, які збудували там найстаріший вроцлавський млин, що сьогодні вже не існує.
+
+Zaraz za nią, również po prawej stronie widzimy najmniejszą we Wrocławiu wyspę Daliową. Stojąca na niej srebrna, błyszcząca konstrukcja to niezwykła instalacja artystyczna o nazwie NAWA autorstwa Oskara Zięty, która według twórcy ma symbolizować otwartość miasta na zmiany.
+Одразу за ним, також праворуч, ми бачимо найменший острів Вроцлава — Даліовий. Срібляста, блискуча конструкція, що стоїть на ньому, — це незвичайна мистецька інсталяція під назвою NAWA авторства Оскара Зенти, яка, за задумом митця, має символізувати відкритість міста до змін.
+
+Po lewej stornie imponujący biały budynek na wyspie to Concordia Design Wrocław - centrum kreatywności i biznesu. Na jego dachu znajduje się letni bar z jedną z najpiękniejszych panoram Wrocławia.
+Ліворуч вражаюча біла будівля на острові — це Concordia Design Wrocław, центр креативності та бізнесу. На його даху розташований літній бар з однією з найкрасивіших панорам Вроцлава.
+
+Za żółtą kładką możemy dostrzec nowoczesne apartamenty. Dawniej w budynku przed nami funkcjonował młyn wodny Maria, którego historia sięga trzynastego wieku.
+За жовтою кладкою можна розгледіти сучасні апартаменти. Колись у будівлі перед нами працював водяний млин «Марія», історія якого сягає тринадцятого століття.
+
+<break time="3s"/>
+<break time="2s"/>
+
+Zaraz po wypłynięciu ze zwężenia będziemy mogli dostrzec most świętej klary. Mimo, że nie wygląda imponująco nosi tytuł najstarszego istniejącego i stale użytkowanego mostu we Wrocławiu z 1799 roku.
+Одразу після виходу зі звуження ми зможемо розгледіти міст Святої Клари. Хоча він не виглядає вражаюче, він має звання найстарішого з існуючих і постійно використовуваних мостів Вроцлава, збудованого в 1799 році.
+
+<break time="3s"/>
+<break time="2s"/>
+
+Podczas rejsu przepływamy pod wieloma mostami i kładkami.
+Під час прогулянки ми пропливаємо під багатьма мостами та кладками.
+
+Po prawej stornie wyłania się nam wyspa piasek, której nazwa nie pochodzi od piaszczystej plaży, lecz od znajdującego się tu gotyckiego kościoła Najświętszej Marii Panny na Piasku.
+Праворуч з'являється Піщаний острів, назва якого походить не від піщаного пляжу, а від розташованого тут готичного костелу Пресвятої Діви Марії на Піску.
+
+Przed nami charakterystyczny zielony,  niewielki most tumski łączący Wyspę Piaskową z Ostrowem Tumskim, przez mieszkańców często nazywany mostem zakochanych.
+Перед нами характерний зелений невеликий Тумський міст, що з'єднує Піщаний острів із Тумським островом (Ostrów Tumski), який мешканці часто називають мостом закоханих.
+
+Przez wiele lat zakochane pary zawieszały tutaj kłódki symbolizujące wieczną miłość, a klucze wrzucały do Odry. Podczas remontu usunięto z mostu ponad siedemnaście ton takich kłódek.
+Упродовж багатьох років закохані пари вішали тут замки, що символізували вічне кохання, а ключі кидали в Одру. Під час ремонту з моста зняли понад сімнадцять тонн таких замків.
+
+Mimo zakazu tradycja wciąż jest kontynuowana, lecz teraz kłódki przypinane są na bocznych balustradach.
+Попри заборону, традиція досі триває, але тепер замки чіпляють на бічних балюстрадах.
